@@ -18,5 +18,15 @@
         "alert_last_seen": "2023-09-27T13:10:25",
         "alert_detection_stopped": "2023-09-27T13:10:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR8MV  ",
+        "hex": "4ca75e",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ca75e",
+        "alert_detected": "2023-09-27T19:56:45",
+        "alert_last_seen": "2023-09-27T19:57:40",
+        "alert_detection_stopped": "2023-09-27T19:57:45",
+        "alert_status": "inactive"
     }
 ]
