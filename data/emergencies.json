@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "PRF39   ",
+        "hex": "43c8bc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8bc",
+        "alert_detected": "2023-09-28T11:09:19",
+        "alert_last_seen": "2023-09-28T11:12:35",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
