@@ -28,5 +28,15 @@
         "alert_last_seen": "2023-09-27T19:57:40",
         "alert_detection_stopped": "2023-09-27T19:57:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR128K ",
+        "hex": "4079cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079cd",
+        "alert_detected": "2023-09-28T06:56:13",
+        "alert_last_seen": "2023-09-28T07:06:40",
+        "alert_detection_stopped": "2023-09-28T07:06:45",
+        "alert_status": "inactive"
     }
 ]
