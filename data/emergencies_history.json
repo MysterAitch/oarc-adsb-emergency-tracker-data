@@ -68,5 +68,15 @@
         "alert_last_seen": "2023-09-29T10:43:11",
         "alert_detection_stopped": "2023-09-29T10:43:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GPLTS   ",
+        "hex": "407f80",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=407f80",
+        "alert_detected": "2023-10-02T14:55:19",
+        "alert_last_seen": "2023-10-02T14:55:19",
+        "alert_detection_stopped": "2023-10-02T14:55:24",
+        "alert_status": "inactive"
     }
 ]
