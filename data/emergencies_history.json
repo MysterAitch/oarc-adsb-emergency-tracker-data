@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "PRF41   ",
+        "hex": "43c8c5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c5",
+        "alert_detected": "2023-09-27T09:19:37",
+        "alert_last_seen": "2023-09-27T09:21:17",
+        "alert_detection_stopped": "2023-09-27T09:21:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "ORYX21  ",
+        "hex": "43c962",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c962",
+        "alert_detected": "2023-09-27T13:10:20",
+        "alert_last_seen": "2023-09-27T13:10:25",
+        "alert_detection_stopped": "2023-09-27T13:10:30",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR8MV  ",
+        "hex": "4ca75e",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ca75e",
+        "alert_detected": "2023-09-27T19:56:45",
+        "alert_last_seen": "2023-09-27T19:57:40",
+        "alert_detection_stopped": "2023-09-27T19:57:45",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR128K ",
+        "hex": "4079cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079cd",
+        "alert_detected": "2023-09-28T06:56:13",
+        "alert_last_seen": "2023-09-28T07:06:40",
+        "alert_detection_stopped": "2023-09-28T07:06:45",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4079cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079cd",
+        "alert_detected": "2023-09-28T07:13:42",
+        "alert_last_seen": "2023-09-28T07:16:38",
+        "alert_detection_stopped": "2023-09-28T07:16:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF39   ",
+        "hex": "43c8bc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8bc",
+        "alert_detected": "2023-09-28T11:09:19",
+        "alert_last_seen": "2023-09-28T11:14:45",
+        "alert_detection_stopped": "2023-09-28T11:14:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BTNIA2  ",
+        "hex": "400e90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e90",
+        "alert_detected": "2023-09-29T10:29:42",
+        "alert_last_seen": "2023-09-29T10:43:11",
+        "alert_detection_stopped": "2023-09-29T10:43:16",
+        "alert_status": "inactive"
+    }
+]
