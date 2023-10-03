@@ -98,5 +98,15 @@
         "alert_last_seen": "2023-10-03T10:30:33",
         "alert_detection_stopped": "2023-10-03T10:30:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CMB342  ",
+        "hex": "a5cd55",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a5cd55",
+        "alert_detected": "2023-10-03T11:05:23",
+        "alert_last_seen": "2023-10-03T11:08:14",
+        "alert_detection_stopped": "2023-10-03T11:08:19",
+        "alert_status": "inactive"
     }
 ]
