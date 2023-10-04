@@ -138,5 +138,15 @@
         "alert_last_seen": "2023-10-04T12:16:32",
         "alert_detection_stopped": "2023-10-04T12:16:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCFMX   ",
+        "hex": "405eeb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405eeb",
+        "alert_detected": "2023-10-04T14:25:29",
+        "alert_last_seen": "2023-10-04T14:26:19",
+        "alert_detection_stopped": "2023-10-04T14:26:24",
+        "alert_status": "inactive"
     }
 ]
