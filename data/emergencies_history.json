@@ -148,5 +148,15 @@
         "alert_last_seen": "2023-10-04T14:26:19",
         "alert_detection_stopped": "2023-10-04T14:26:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCLUH   ",
+        "hex": "407b36",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407b36",
+        "alert_detected": "2023-10-05T11:17:34",
+        "alert_last_seen": "2023-10-05T11:18:30",
+        "alert_detection_stopped": "2023-10-05T11:18:35",
+        "alert_status": "inactive"
     }
 ]
