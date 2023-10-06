@@ -158,5 +158,15 @@
         "alert_last_seen": "2023-10-05T11:18:30",
         "alert_detection_stopped": "2023-10-05T11:18:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAVVC   ",
+        "hex": "40173e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40173e",
+        "alert_detected": "2023-10-06T13:53:08",
+        "alert_last_seen": "2023-10-06T13:58:04",
+        "alert_detection_stopped": "2023-10-06T13:58:09",
+        "alert_status": "inactive"
     }
 ]
