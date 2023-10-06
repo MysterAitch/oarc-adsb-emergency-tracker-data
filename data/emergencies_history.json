@@ -168,5 +168,15 @@
         "alert_last_seen": "2023-10-06T13:58:04",
         "alert_detection_stopped": "2023-10-06T13:58:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMKI   ",
+        "hex": "407e86",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407e86",
+        "alert_detected": "2023-10-06T16:49:26",
+        "alert_last_seen": "2023-10-06T16:50:31",
+        "alert_detection_stopped": "2023-10-06T16:50:36",
+        "alert_status": "inactive"
     }
 ]
