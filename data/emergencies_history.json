@@ -198,5 +198,15 @@
         "alert_last_seen": "2023-10-07T12:41:32",
         "alert_detection_stopped": "2023-10-07T12:41:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N888FM  ",
+        "hex": "ac3c16",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ac3c16",
+        "alert_detected": "2023-10-07T14:30:41",
+        "alert_last_seen": "2023-10-07T14:44:08",
+        "alert_detection_stopped": "2023-10-07T14:44:13",
+        "alert_status": "inactive"
     }
 ]
