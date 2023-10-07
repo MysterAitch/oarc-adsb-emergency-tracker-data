@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EAI33EN ",
-        "hex": "4ca6b2",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4ca6b2",
-        "alert_detected": "2023-10-07T08:40:43",
-        "alert_last_seen": "2023-10-07T08:50:19",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

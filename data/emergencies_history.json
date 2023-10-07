@@ -178,5 +178,15 @@
         "alert_last_seen": "2023-10-06T16:50:31",
         "alert_detection_stopped": "2023-10-06T16:50:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EAI33EN ",
+        "hex": "4ca6b2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca6b2",
+        "alert_detected": "2023-10-07T08:40:43",
+        "alert_last_seen": "2023-10-07T08:55:10",
+        "alert_detection_stopped": "2023-10-07T08:55:15",
+        "alert_status": "inactive"
     }
 ]
