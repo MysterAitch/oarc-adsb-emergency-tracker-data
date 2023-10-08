@@ -228,5 +228,25 @@
         "alert_last_seen": "2023-10-08T13:39:26",
         "alert_detection_stopped": "2023-10-08T13:39:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4061af",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4061af",
+        "alert_detected": "2023-10-08T13:43:02",
+        "alert_last_seen": "2023-10-08T13:44:32",
+        "alert_detection_stopped": "2023-10-08T13:44:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GDKTA   ",
+        "hex": "4061af",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4061af",
+        "alert_detected": "2023-10-08T13:45:42",
+        "alert_last_seen": "2023-10-08T13:52:09",
+        "alert_detection_stopped": "2023-10-08T13:52:14",
+        "alert_status": "inactive"
     }
 ]
