@@ -368,5 +368,15 @@
         "alert_last_seen": "2023-10-11T07:22:24",
         "alert_detection_stopped": "2023-10-11T07:22:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKGA   ",
+        "hex": "404fda",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=404fda",
+        "alert_detected": "2023-10-11T09:39:33",
+        "alert_last_seen": "2023-10-11T09:51:05",
+        "alert_detection_stopped": "2023-10-11T09:51:10",
+        "alert_status": "inactive"
     }
 ]
