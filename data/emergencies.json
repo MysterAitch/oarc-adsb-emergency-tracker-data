@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS9VL  ",
-        "hex": "40777c",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40777c",
-        "alert_detected": "2023-10-11T07:03:15",
-        "alert_last_seen": "2023-10-11T07:19:53",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
