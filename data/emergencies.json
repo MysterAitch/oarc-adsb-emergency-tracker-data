@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "FXT20V  ",
-        "hex": "45a6b6",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=45a6b6",
-        "alert_detected": "2023-10-12T15:54:06",
-        "alert_last_seen": "2023-10-12T16:59:30",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
