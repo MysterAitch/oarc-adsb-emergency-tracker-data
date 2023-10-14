@@ -398,5 +398,15 @@
         "alert_last_seen": "2023-10-12T17:07:13",
         "alert_detection_stopped": "2023-10-12T17:07:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL46   ",
+        "hex": "a4d483",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a4d483",
+        "alert_detected": "2023-10-14T03:37:42",
+        "alert_last_seen": "2023-10-14T03:41:03",
+        "alert_detection_stopped": "2023-10-14T03:41:08",
+        "alert_status": "inactive"
     }
 ]
