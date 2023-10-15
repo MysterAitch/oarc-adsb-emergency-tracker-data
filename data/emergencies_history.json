@@ -408,5 +408,25 @@
         "alert_last_seen": "2023-10-14T03:41:03",
         "alert_detection_stopped": "2023-10-14T03:41:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAZYF   ",
+        "hex": "4019a6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019a6",
+        "alert_detected": "2023-10-15T15:46:36",
+        "alert_last_seen": "2023-10-15T15:48:01",
+        "alert_detection_stopped": "2023-10-15T15:48:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GAZYF   ",
+        "hex": "4019a6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019a6",
+        "alert_detected": "2023-10-15T15:48:16",
+        "alert_last_seen": "2023-10-15T15:50:36",
+        "alert_detection_stopped": "2023-10-15T15:50:41",
+        "alert_status": "inactive"
     }
 ]
