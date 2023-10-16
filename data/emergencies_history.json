@@ -438,5 +438,15 @@
         "alert_last_seen": "2023-10-16T11:50:42",
         "alert_detection_stopped": "2023-10-16T11:50:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RANGR81 ",
+        "hex": "ae2f9a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae2f9a",
+        "alert_detected": "2023-10-16T16:13:51",
+        "alert_last_seen": "2023-10-16T16:13:56",
+        "alert_detection_stopped": "2023-10-16T16:14:01",
+        "alert_status": "inactive"
     }
 ]
