@@ -518,5 +518,15 @@
         "alert_last_seen": "2023-10-17T15:53:22",
         "alert_detection_stopped": "2023-10-17T15:53:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RUK5QM  ",
+        "hex": "407cb2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cb2",
+        "alert_detected": "2023-10-17T19:55:22",
+        "alert_last_seen": "2023-10-17T20:15:45",
+        "alert_detection_stopped": "2023-10-17T20:15:50",
+        "alert_status": "inactive"
     }
 ]
