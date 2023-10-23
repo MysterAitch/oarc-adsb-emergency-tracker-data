@@ -548,5 +548,15 @@
         "alert_last_seen": "2023-10-23T10:40:41",
         "alert_detection_stopped": "2023-10-23T10:40:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CARBON09",
+        "hex": "43c765",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c765",
+        "alert_detected": "2023-10-23T16:08:08",
+        "alert_last_seen": "2023-10-23T16:08:13",
+        "alert_detection_stopped": "2023-10-23T16:08:18",
+        "alert_status": "inactive"
     }
 ]
