@@ -558,5 +558,15 @@
         "alert_last_seen": "2023-10-23T16:08:13",
         "alert_detection_stopped": "2023-10-23T16:08:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY21MG ",
+        "hex": "406c71",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c71",
+        "alert_detected": "2023-10-23T23:17:08",
+        "alert_last_seen": "2023-10-23T23:30:04",
+        "alert_detection_stopped": "2023-10-23T23:30:09",
+        "alert_status": "inactive"
     }
 ]
