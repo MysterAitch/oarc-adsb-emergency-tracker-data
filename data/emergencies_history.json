@@ -538,5 +538,15 @@
         "alert_last_seen": "2023-10-17T20:18:31",
         "alert_detection_stopped": "2023-10-17T20:18:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAX71   ",
+        "hex": "400edc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400edc",
+        "alert_detected": "2023-10-23T10:36:45",
+        "alert_last_seen": "2023-10-23T10:40:41",
+        "alert_detection_stopped": "2023-10-23T10:40:46",
+        "alert_status": "inactive"
     }
 ]
