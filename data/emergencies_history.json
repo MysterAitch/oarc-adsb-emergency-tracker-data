@@ -578,5 +578,15 @@
         "alert_last_seen": "2023-10-24T14:43:52",
         "alert_detection_stopped": "2023-10-24T14:43:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SWIFT3  ",
+        "hex": "43c8d2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d2",
+        "alert_detected": "2023-10-25T08:57:46",
+        "alert_last_seen": "2023-10-25T08:58:57",
+        "alert_detection_stopped": "2023-10-25T08:59:02",
+        "alert_status": "inactive"
     }
 ]
