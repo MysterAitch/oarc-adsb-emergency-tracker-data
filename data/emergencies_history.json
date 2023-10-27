@@ -598,5 +598,15 @@
         "alert_last_seen": "2023-10-26T14:28:20",
         "alert_detection_stopped": "2023-10-26T14:28:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "COMNDO98",
+        "hex": "43c1fb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fb",
+        "alert_detected": "2023-10-27T11:41:09",
+        "alert_last_seen": "2023-10-27T11:41:14",
+        "alert_detection_stopped": "2023-10-27T11:41:19",
+        "alert_status": "inactive"
     }
 ]
