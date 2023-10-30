@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "RYR6EY  ",
-        "hex": "4cad3d",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4cad3d",
-        "alert_detected": "2023-10-30T11:33:55",
-        "alert_last_seen": "2023-10-30T11:36:41",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
