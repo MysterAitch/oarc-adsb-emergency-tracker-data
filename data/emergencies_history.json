@@ -668,5 +668,25 @@
         "alert_last_seen": "2023-10-31T14:29:17",
         "alert_detection_stopped": "2023-10-31T14:29:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HOTRD01 ",
+        "hex": "c01276",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c01276",
+        "alert_detected": "2023-10-31T14:48:30",
+        "alert_last_seen": "2023-10-31T14:58:21",
+        "alert_detection_stopped": "2023-10-31T14:58:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NORDO   ",
+        "hex": "c01276",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c01276",
+        "alert_detected": "2023-10-31T14:58:51",
+        "alert_last_seen": "2023-10-31T14:59:56",
+        "alert_detection_stopped": "2023-10-31T15:00:01",
+        "alert_status": "inactive"
     }
 ]
