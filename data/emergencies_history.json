@@ -658,5 +658,15 @@
         "alert_last_seen": "2023-10-30T23:57:15",
         "alert_detection_stopped": "2023-10-30T23:57:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FRA50   ",
+        "hex": "407eff",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407eff",
+        "alert_detected": "2023-10-31T14:28:06",
+        "alert_last_seen": "2023-10-31T14:29:17",
+        "alert_detection_stopped": "2023-10-31T14:29:22",
+        "alert_status": "inactive"
     }
 ]
