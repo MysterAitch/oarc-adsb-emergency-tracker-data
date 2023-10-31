@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "HOTRD01 ",
+        "hex": "c01276",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c01276",
+        "alert_detected": "2023-10-31T14:48:30",
+        "alert_last_seen": "2023-10-31T14:51:30",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
