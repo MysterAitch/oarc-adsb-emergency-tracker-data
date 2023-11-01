@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "UAL925  ",
+        "hex": "a8bd6a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8bd6a",
+        "alert_detected": "2023-11-01T16:54:46",
+        "alert_last_seen": "2023-11-01T16:55:01",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
