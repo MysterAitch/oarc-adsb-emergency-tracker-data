@@ -798,5 +798,15 @@
         "alert_last_seen": "2023-11-03T14:38:14",
         "alert_detection_stopped": "2023-11-03T14:38:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN17   ",
+        "hex": "06a21b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a21b",
+        "alert_detected": "2023-11-03T14:48:26",
+        "alert_last_seen": "2023-11-03T14:48:31",
+        "alert_detection_stopped": "2023-11-03T14:48:36",
+        "alert_status": "inactive"
     }
 ]
