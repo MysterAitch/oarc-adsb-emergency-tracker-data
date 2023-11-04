@@ -1,0 +1,822 @@
+[
+    {
+        "flight": "PRF41   ",
+        "hex": "43c8c5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c5",
+        "alert_detected": "2023-09-27T09:19:37",
+        "alert_last_seen": "2023-09-27T09:21:17",
+        "alert_detection_stopped": "2023-09-27T09:21:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "ORYX21  ",
+        "hex": "43c962",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c962",
+        "alert_detected": "2023-09-27T13:10:20",
+        "alert_last_seen": "2023-09-27T13:10:25",
+        "alert_detection_stopped": "2023-09-27T13:10:30",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR8MV  ",
+        "hex": "4ca75e",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ca75e",
+        "alert_detected": "2023-09-27T19:56:45",
+        "alert_last_seen": "2023-09-27T19:57:40",
+        "alert_detection_stopped": "2023-09-27T19:57:45",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR128K ",
+        "hex": "4079cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079cd",
+        "alert_detected": "2023-09-28T06:56:13",
+        "alert_last_seen": "2023-09-28T07:06:40",
+        "alert_detection_stopped": "2023-09-28T07:06:45",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4079cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079cd",
+        "alert_detected": "2023-09-28T07:13:42",
+        "alert_last_seen": "2023-09-28T07:16:38",
+        "alert_detection_stopped": "2023-09-28T07:16:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF39   ",
+        "hex": "43c8bc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8bc",
+        "alert_detected": "2023-09-28T11:09:19",
+        "alert_last_seen": "2023-09-28T11:14:45",
+        "alert_detection_stopped": "2023-09-28T11:14:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BTNIA2  ",
+        "hex": "400e90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e90",
+        "alert_detected": "2023-09-29T10:29:42",
+        "alert_last_seen": "2023-09-29T10:43:11",
+        "alert_detection_stopped": "2023-09-29T10:43:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GPLTS   ",
+        "hex": "407f80",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=407f80",
+        "alert_detected": "2023-10-02T14:55:19",
+        "alert_last_seen": "2023-10-02T14:55:19",
+        "alert_detection_stopped": "2023-10-02T14:55:24",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY94CZ ",
+        "hex": "40756b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40756b",
+        "alert_detected": "2023-10-03T10:11:30",
+        "alert_last_seen": "2023-10-03T10:25:22",
+        "alert_detection_stopped": "2023-10-03T10:25:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "40756b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40756b",
+        "alert_detected": "2023-10-03T10:27:12",
+        "alert_last_seen": "2023-10-03T10:30:33",
+        "alert_detection_stopped": "2023-10-03T10:30:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CMB342  ",
+        "hex": "a5cd55",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a5cd55",
+        "alert_detected": "2023-10-03T11:05:23",
+        "alert_last_seen": "2023-10-03T11:08:14",
+        "alert_detection_stopped": "2023-10-03T11:08:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GEGTU   ",
+        "hex": "401db5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401db5",
+        "alert_detected": "2023-10-04T11:54:52",
+        "alert_last_seen": "2023-10-04T12:13:01",
+        "alert_detection_stopped": "2023-10-04T12:13:07",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GEGTU   ",
+        "hex": "401db5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401db5",
+        "alert_detected": "2023-10-04T12:13:27",
+        "alert_last_seen": "2023-10-04T12:14:37",
+        "alert_detection_stopped": "2023-10-04T12:14:42",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GEGTU   ",
+        "hex": "401db5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401db5",
+        "alert_detected": "2023-10-04T12:14:52",
+        "alert_last_seen": "2023-10-04T12:16:32",
+        "alert_detection_stopped": "2023-10-04T12:16:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCFMX   ",
+        "hex": "405eeb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405eeb",
+        "alert_detected": "2023-10-04T14:25:29",
+        "alert_last_seen": "2023-10-04T14:26:19",
+        "alert_detection_stopped": "2023-10-04T14:26:24",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCLUH   ",
+        "hex": "407b36",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407b36",
+        "alert_detected": "2023-10-05T11:17:34",
+        "alert_last_seen": "2023-10-05T11:18:30",
+        "alert_detection_stopped": "2023-10-05T11:18:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GAVVC   ",
+        "hex": "40173e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40173e",
+        "alert_detected": "2023-10-06T13:53:08",
+        "alert_last_seen": "2023-10-06T13:58:04",
+        "alert_detection_stopped": "2023-10-06T13:58:09",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMKI   ",
+        "hex": "407e86",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407e86",
+        "alert_detected": "2023-10-06T16:49:26",
+        "alert_last_seen": "2023-10-06T16:50:31",
+        "alert_detection_stopped": "2023-10-06T16:50:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EAI33EN ",
+        "hex": "4ca6b2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca6b2",
+        "alert_detected": "2023-10-07T08:40:43",
+        "alert_last_seen": "2023-10-07T08:55:10",
+        "alert_detection_stopped": "2023-10-07T08:55:15",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "403eff",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=403eff",
+        "alert_detected": "2023-10-07T12:33:05",
+        "alert_last_seen": "2023-10-07T12:41:32",
+        "alert_detection_stopped": "2023-10-07T12:41:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "N888FM  ",
+        "hex": "ac3c16",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ac3c16",
+        "alert_detected": "2023-10-07T14:30:41",
+        "alert_last_seen": "2023-10-07T14:44:08",
+        "alert_detection_stopped": "2023-10-07T14:44:13",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "401e10",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401e10",
+        "alert_detected": "2023-10-08T09:44:06",
+        "alert_last_seen": "2023-10-08T09:45:01",
+        "alert_detection_stopped": "2023-10-08T09:45:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GDKTA   ",
+        "hex": "4061af",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4061af",
+        "alert_detected": "2023-10-08T13:37:35",
+        "alert_last_seen": "2023-10-08T13:39:26",
+        "alert_detection_stopped": "2023-10-08T13:39:31",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4061af",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4061af",
+        "alert_detected": "2023-10-08T13:43:02",
+        "alert_last_seen": "2023-10-08T13:44:32",
+        "alert_detection_stopped": "2023-10-08T13:44:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GDKTA   ",
+        "hex": "4061af",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4061af",
+        "alert_detected": "2023-10-08T13:45:42",
+        "alert_last_seen": "2023-10-08T13:52:09",
+        "alert_detection_stopped": "2023-10-08T13:52:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "396446",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=396446",
+        "alert_detected": "2023-10-08T13:22:17",
+        "alert_last_seen": "2023-10-08T13:52:39",
+        "alert_detection_stopped": "2023-10-08T13:52:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "JAVLN   ",
+        "hex": "43c964",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c964",
+        "alert_detected": "2023-10-09T13:52:11",
+        "alert_last_seen": "2023-10-09T13:52:16",
+        "alert_detection_stopped": "2023-10-09T13:52:21",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "04c15a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=04c15a",
+        "alert_detected": "2023-10-09T15:17:58",
+        "alert_last_seen": "2023-10-09T15:21:23",
+        "alert_detection_stopped": "2023-10-09T15:21:28",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "04c15a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=04c15a",
+        "alert_detected": "2023-10-09T15:22:09",
+        "alert_last_seen": "2023-10-09T15:33:51",
+        "alert_detection_stopped": "2023-10-09T15:33:56",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCIDZ   ",
+        "hex": "406b23",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=406b23",
+        "alert_detected": "2023-10-10T11:18:09",
+        "alert_last_seen": "2023-10-10T11:18:24",
+        "alert_detection_stopped": "2023-10-10T11:18:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COBRA051",
+        "hex": "43c6de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6de",
+        "alert_detected": "2023-10-10T15:07:41",
+        "alert_last_seen": "2023-10-10T15:11:22",
+        "alert_detection_stopped": "2023-10-10T15:11:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COBRA051",
+        "hex": "43c6de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6de",
+        "alert_detected": "2023-10-10T15:12:37",
+        "alert_last_seen": "2023-10-10T15:14:07",
+        "alert_detection_stopped": "2023-10-10T15:14:12",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COBRA051",
+        "hex": "43c6de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6de",
+        "alert_detected": "2023-10-10T15:15:18",
+        "alert_last_seen": "2023-10-10T15:19:43",
+        "alert_detection_stopped": "2023-10-10T15:19:48",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COBRA051",
+        "hex": "43c6de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6de",
+        "alert_detected": "2023-10-10T15:20:28",
+        "alert_last_seen": "2023-10-10T15:22:49",
+        "alert_detection_stopped": "2023-10-10T15:22:54",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DINGO 05",
+        "hex": "43c6bb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6bb",
+        "alert_detected": "2023-10-10T15:30:30",
+        "alert_last_seen": "2023-10-10T15:30:35",
+        "alert_detection_stopped": "2023-10-10T15:30:40",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS9VL  ",
+        "hex": "40777c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40777c",
+        "alert_detected": "2023-10-11T07:03:15",
+        "alert_last_seen": "2023-10-11T07:20:54",
+        "alert_detection_stopped": "2023-10-11T07:20:59",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS9VL  ",
+        "hex": "40777c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40777c",
+        "alert_detected": "2023-10-11T07:21:29",
+        "alert_last_seen": "2023-10-11T07:22:24",
+        "alert_detection_stopped": "2023-10-11T07:22:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKGA   ",
+        "hex": "404fda",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=404fda",
+        "alert_detected": "2023-10-11T09:39:33",
+        "alert_last_seen": "2023-10-11T09:51:05",
+        "alert_detection_stopped": "2023-10-11T09:51:10",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BCT811  ",
+        "hex": "43c173",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c173",
+        "alert_detected": "2023-10-12T15:06:38",
+        "alert_last_seen": "2023-10-12T15:18:36",
+        "alert_detection_stopped": "2023-10-12T15:18:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "FXT20V  ",
+        "hex": "45a6b6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=45a6b6",
+        "alert_detected": "2023-10-12T15:54:06",
+        "alert_last_seen": "2023-10-12T17:07:13",
+        "alert_detection_stopped": "2023-10-12T17:07:18",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL46   ",
+        "hex": "a4d483",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a4d483",
+        "alert_detected": "2023-10-14T03:37:42",
+        "alert_last_seen": "2023-10-14T03:41:03",
+        "alert_detection_stopped": "2023-10-14T03:41:08",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GAZYF   ",
+        "hex": "4019a6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019a6",
+        "alert_detected": "2023-10-15T15:46:36",
+        "alert_last_seen": "2023-10-15T15:48:01",
+        "alert_detection_stopped": "2023-10-15T15:48:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GAZYF   ",
+        "hex": "4019a6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019a6",
+        "alert_detected": "2023-10-15T15:48:16",
+        "alert_last_seen": "2023-10-15T15:50:36",
+        "alert_detection_stopped": "2023-10-15T15:50:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "400ea8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ea8",
+        "alert_detected": "2023-10-16T11:46:56",
+        "alert_last_seen": "2023-10-16T11:50:42",
+        "alert_detection_stopped": "2023-10-16T11:50:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RANGR81 ",
+        "hex": "ae2f9a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae2f9a",
+        "alert_detected": "2023-10-16T16:13:51",
+        "alert_last_seen": "2023-10-16T16:13:56",
+        "alert_detection_stopped": "2023-10-16T16:14:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CAMEL2  ",
+        "hex": "43c8d6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d6",
+        "alert_detected": "2023-10-16T17:11:29",
+        "alert_last_seen": "2023-10-16T17:15:39",
+        "alert_detection_stopped": "2023-10-16T17:15:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CNV3649 ",
+        "hex": "ae03db",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae03db",
+        "alert_detected": "2023-10-16T23:00:17",
+        "alert_last_seen": "2023-10-16T23:00:22",
+        "alert_detection_stopped": "2023-10-16T23:00:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PHDGY   ",
+        "hex": "48442c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=48442c",
+        "alert_detected": "2023-10-17T13:17:59",
+        "alert_last_seen": "2023-10-17T13:20:24",
+        "alert_detection_stopped": "2023-10-17T13:20:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PHDGY   ",
+        "hex": "48442c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=48442c",
+        "alert_detected": "2023-10-17T13:20:39",
+        "alert_last_seen": "2023-10-17T13:20:39",
+        "alert_detection_stopped": "2023-10-17T13:20:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "40298f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40298f",
+        "alert_detected": "2023-10-17T15:07:03",
+        "alert_last_seen": "2023-10-17T15:08:54",
+        "alert_detection_stopped": "2023-10-17T15:08:59",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c8c3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c3",
+        "alert_detected": "2023-10-17T15:46:51",
+        "alert_last_seen": "2023-10-17T15:50:32",
+        "alert_detection_stopped": "2023-10-17T15:50:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c8c3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c3",
+        "alert_detected": "2023-10-17T15:51:12",
+        "alert_last_seen": "2023-10-17T15:53:22",
+        "alert_detection_stopped": "2023-10-17T15:53:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RUK5QM  ",
+        "hex": "407cb2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cb2",
+        "alert_detected": "2023-10-17T19:55:22",
+        "alert_last_seen": "2023-10-17T20:15:45",
+        "alert_detection_stopped": "2023-10-17T20:15:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RUK5QM  ",
+        "hex": "407cb2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cb2",
+        "alert_detected": "2023-10-17T20:16:35",
+        "alert_last_seen": "2023-10-17T20:18:31",
+        "alert_detection_stopped": "2023-10-17T20:18:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAX71   ",
+        "hex": "400edc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400edc",
+        "alert_detected": "2023-10-23T10:36:45",
+        "alert_last_seen": "2023-10-23T10:40:41",
+        "alert_detection_stopped": "2023-10-23T10:40:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CARBON09",
+        "hex": "43c765",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c765",
+        "alert_detected": "2023-10-23T16:08:08",
+        "alert_last_seen": "2023-10-23T16:08:13",
+        "alert_detection_stopped": "2023-10-23T16:08:18",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY21MG ",
+        "hex": "406c71",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c71",
+        "alert_detected": "2023-10-23T23:17:08",
+        "alert_last_seen": "2023-10-23T23:30:04",
+        "alert_detection_stopped": "2023-10-23T23:30:09",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SHF591  ",
+        "hex": "43c4c1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4c1",
+        "alert_detected": "2023-10-24T14:43:42",
+        "alert_last_seen": "2023-10-24T14:43:52",
+        "alert_detection_stopped": "2023-10-24T14:43:57",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SWIFT3  ",
+        "hex": "43c8d2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d2",
+        "alert_detected": "2023-10-25T08:57:46",
+        "alert_last_seen": "2023-10-25T08:58:57",
+        "alert_detection_stopped": "2023-10-25T08:59:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "  ZA 675",
+        "hex": "43c4c2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4c2",
+        "alert_detected": "2023-10-26T14:28:20",
+        "alert_last_seen": "2023-10-26T14:28:20",
+        "alert_detection_stopped": "2023-10-26T14:28:25",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COMNDO98",
+        "hex": "43c1fb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fb",
+        "alert_detected": "2023-10-27T11:41:09",
+        "alert_last_seen": "2023-10-27T11:41:14",
+        "alert_detection_stopped": "2023-10-27T11:41:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GGWMB   ",
+        "hex": "4078eb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4078eb",
+        "alert_detected": "2023-10-28T11:13:15",
+        "alert_last_seen": "2023-10-28T11:21:17",
+        "alert_detection_stopped": "2023-10-28T11:21:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GMOAL   ",
+        "hex": "406fa9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406fa9",
+        "alert_detected": "2023-10-29T08:13:35",
+        "alert_last_seen": "2023-10-29T08:15:00",
+        "alert_detection_stopped": "2023-10-29T08:15:05",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR6EY  ",
+        "hex": "4cad3d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cad3d",
+        "alert_detected": "2023-10-30T11:33:55",
+        "alert_last_seen": "2023-10-30T11:37:36",
+        "alert_detection_stopped": "2023-10-30T11:37:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAT80   ",
+        "hex": "400ec9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ec9",
+        "alert_detected": "2023-10-30T15:11:10",
+        "alert_last_seen": "2023-10-30T15:13:11",
+        "alert_detection_stopped": "2023-10-30T15:13:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VICTR57 ",
+        "hex": "43c06e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c06e",
+        "alert_detected": "2023-10-30T23:53:35",
+        "alert_last_seen": "2023-10-30T23:57:15",
+        "alert_detection_stopped": "2023-10-30T23:57:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "FRA50   ",
+        "hex": "407eff",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407eff",
+        "alert_detected": "2023-10-31T14:28:06",
+        "alert_last_seen": "2023-10-31T14:29:17",
+        "alert_detection_stopped": "2023-10-31T14:29:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "HOTRD01 ",
+        "hex": "c01276",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c01276",
+        "alert_detected": "2023-10-31T14:48:30",
+        "alert_last_seen": "2023-10-31T14:58:21",
+        "alert_detection_stopped": "2023-10-31T14:58:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NORDO   ",
+        "hex": "c01276",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c01276",
+        "alert_detected": "2023-10-31T14:58:51",
+        "alert_last_seen": "2023-10-31T14:59:56",
+        "alert_detection_stopped": "2023-10-31T15:00:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN15   ",
+        "hex": "06a218",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a218",
+        "alert_detected": "2023-10-31T16:01:41",
+        "alert_last_seen": "2023-10-31T16:01:46",
+        "alert_detection_stopped": "2023-10-31T16:01:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WARLOR21",
+        "hex": "43c6de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6de",
+        "alert_detected": "2023-11-01T10:01:28",
+        "alert_last_seen": "2023-11-01T10:11:14",
+        "alert_detection_stopped": "2023-11-01T10:11:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TRIPLE12",
+        "hex": "43c6dc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6dc",
+        "alert_detected": "2023-11-01T10:10:59",
+        "alert_last_seen": "2023-11-01T10:11:39",
+        "alert_detection_stopped": "2023-11-01T10:11:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "JAVELIN ",
+        "hex": "43c961",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c961",
+        "alert_detected": "2023-11-01T13:23:56",
+        "alert_last_seen": "2023-11-01T13:24:01",
+        "alert_detection_stopped": "2023-11-01T13:24:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL925  ",
+        "hex": "a8bd6a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8bd6a",
+        "alert_detected": "2023-11-01T16:54:46",
+        "alert_last_seen": "2023-11-01T17:10:53",
+        "alert_detection_stopped": "2023-11-01T17:10:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY60EP ",
+        "hex": "406d90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406d90",
+        "alert_detected": "2023-11-02T08:25:32",
+        "alert_last_seen": "2023-11-02T08:33:48",
+        "alert_detection_stopped": "2023-11-02T08:33:53",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY60EP ",
+        "hex": "406d90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406d90",
+        "alert_detected": "2023-11-02T08:35:33",
+        "alert_last_seen": "2023-11-02T08:59:32",
+        "alert_detection_stopped": "2023-11-02T08:59:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TYP00031",
+        "hex": "43c797",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c797",
+        "alert_detected": "2023-11-02T12:00:29",
+        "alert_last_seen": "2023-11-02T12:04:15",
+        "alert_detection_stopped": "2023-11-02T12:04:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c797",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c797",
+        "alert_detected": "2023-11-02T12:06:35",
+        "alert_last_seen": "2023-11-02T12:07:35",
+        "alert_detection_stopped": "2023-11-02T12:07:40",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG8TR  ",
+        "hex": "40080f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40080f",
+        "alert_detected": "2023-11-03T07:10:24",
+        "alert_last_seen": "2023-11-03T07:36:09",
+        "alert_detection_stopped": "2023-11-03T07:36:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN10   ",
+        "hex": "06a218",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a218",
+        "alert_detected": "2023-11-03T14:38:09",
+        "alert_last_seen": "2023-11-03T14:38:14",
+        "alert_detection_stopped": "2023-11-03T14:38:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN17   ",
+        "hex": "06a21b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a21b",
+        "alert_detected": "2023-11-03T14:48:26",
+        "alert_last_seen": "2023-11-03T14:48:31",
+        "alert_detection_stopped": "2023-11-03T14:48:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GOKED   ",
+        "hex": "40372e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40372e",
+        "alert_detected": "2023-11-03T15:32:38",
+        "alert_last_seen": "2023-11-03T15:37:59",
+        "alert_detection_stopped": "2023-11-03T15:38:04",
+        "alert_status": "inactive"
+    }
+]
