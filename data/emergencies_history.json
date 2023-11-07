@@ -858,5 +858,15 @@
         "alert_last_seen": "2023-11-06T17:08:05",
         "alert_detection_stopped": "2023-11-06T17:08:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UCA4295 ",
+        "hex": "a0330a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a0330a",
+        "alert_detected": "2023-11-07T17:49:43",
+        "alert_last_seen": "2023-11-07T17:53:18",
+        "alert_detection_stopped": "2023-11-07T17:53:23",
+        "alert_status": "inactive"
     }
 ]
