@@ -868,5 +868,35 @@
         "alert_last_seen": "2023-11-07T17:53:18",
         "alert_detection_stopped": "2023-11-07T17:53:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM701  ",
+        "hex": "485342",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=485342",
+        "alert_detected": "2023-11-09T21:08:00",
+        "alert_last_seen": "2023-11-09T21:08:21",
+        "alert_detection_stopped": "2023-11-09T21:08:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM701  ",
+        "hex": "485342",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=485342",
+        "alert_detected": "2023-11-09T21:08:41",
+        "alert_last_seen": "2023-11-09T21:08:56",
+        "alert_detection_stopped": "2023-11-09T21:09:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM701  ",
+        "hex": "485342",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=485342",
+        "alert_detected": "2023-11-09T21:09:26",
+        "alert_last_seen": "2023-11-09T21:09:51",
+        "alert_detection_stopped": "2023-11-09T21:09:56",
+        "alert_status": "inactive"
     }
 ]
