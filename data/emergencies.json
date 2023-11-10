@@ -1,11 +1,11 @@
 [
     {
-        "flight": "NONE",
+        "flight": "GCHRV   ",
         "hex": "4068d7",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=4068d7",
-        "alert_detected": "2023-11-10T11:17:46",
-        "alert_last_seen": "2023-11-10T11:20:52",
+        "alert_detected": "2023-11-10T11:26:08",
+        "alert_last_seen": "2023-11-10T11:27:13",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
