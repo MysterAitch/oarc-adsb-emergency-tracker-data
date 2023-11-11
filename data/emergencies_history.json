@@ -928,5 +928,15 @@
         "alert_last_seen": "2023-11-10T12:28:19",
         "alert_detection_stopped": "2023-11-10T12:28:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCGJN   ",
+        "hex": "4062e2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4062e2",
+        "alert_detected": "2023-11-11T09:08:09",
+        "alert_last_seen": "2023-11-11T09:11:10",
+        "alert_detection_stopped": "2023-11-11T09:11:15",
+        "alert_status": "inactive"
     }
 ]
