@@ -938,5 +938,15 @@
         "alert_last_seen": "2023-11-11T09:11:10",
         "alert_detection_stopped": "2023-11-11T09:11:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAPXT   ",
+        "hex": "401502",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401502",
+        "alert_detected": "2023-11-11T10:22:55",
+        "alert_last_seen": "2023-11-11T10:25:05",
+        "alert_detection_stopped": "2023-11-11T10:25:10",
+        "alert_status": "inactive"
     }
 ]
