@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TES221  ",
+        "hex": "4911f7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4911f7",
+        "alert_detected": "2023-11-14T12:13:34",
+        "alert_last_seen": "2023-11-14T12:20:00",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
