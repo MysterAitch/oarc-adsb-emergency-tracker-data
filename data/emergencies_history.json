@@ -1008,5 +1008,15 @@
         "alert_last_seen": "2023-11-14T12:40:14",
         "alert_detection_stopped": "2023-11-14T12:40:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GUSAR   ",
+        "hex": "405c8c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405c8c",
+        "alert_detected": "2023-11-14T17:51:29",
+        "alert_last_seen": "2023-11-14T18:02:56",
+        "alert_detection_stopped": "2023-11-14T18:03:01",
+        "alert_status": "inactive"
     }
 ]
