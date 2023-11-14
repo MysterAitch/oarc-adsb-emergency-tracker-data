@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GUSAR   ",
+        "hex": "405c8c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405c8c",
+        "alert_detected": "2023-11-14T17:51:29",
+        "alert_last_seen": "2023-11-14T17:55:10",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
