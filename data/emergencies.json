@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SHT6M   ",
-        "hex": "407eb2",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407eb2",
-        "alert_detected": "2023-11-15T21:03:44",
-        "alert_last_seen": "2023-11-15T21:11:30",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
