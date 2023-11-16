@@ -1048,5 +1048,15 @@
         "alert_last_seen": "2023-11-16T13:06:10",
         "alert_detection_stopped": "2023-11-16T13:06:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "400dc2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400dc2",
+        "alert_detected": "2023-11-16T15:24:57",
+        "alert_last_seen": "2023-11-16T15:26:22",
+        "alert_detection_stopped": "2023-11-16T15:26:27",
+        "alert_status": "inactive"
     }
 ]
