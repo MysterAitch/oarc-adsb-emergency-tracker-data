@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "NONE",
+        "hex": "404e72",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404e72",
+        "alert_detected": "2023-11-17T15:27:17",
+        "alert_last_seen": "2023-11-17T15:27:37",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
