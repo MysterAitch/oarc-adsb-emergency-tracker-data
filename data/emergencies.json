@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "KLM90S  ",
-        "hex": "484f7c",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=484f7c",
-        "alert_detected": "2023-11-21T21:18:03",
-        "alert_last_seen": "2023-11-21T21:22:28",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
