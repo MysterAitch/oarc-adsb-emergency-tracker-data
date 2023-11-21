@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AAL9600 ",
-        "hex": "aac6ee",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=aac6ee",
-        "alert_detected": "2023-11-21T15:56:59",
-        "alert_last_seen": "2023-11-21T16:01:45",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
