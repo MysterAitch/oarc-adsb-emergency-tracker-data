@@ -1178,5 +1178,15 @@
         "alert_last_seen": "2023-11-21T21:24:43",
         "alert_detection_stopped": "2023-11-21T21:24:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "  ZD980 ",
+        "hex": "43c4d3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4d3",
+        "alert_detected": "2023-11-22T13:14:29",
+        "alert_last_seen": "2023-11-22T13:14:49",
+        "alert_detection_stopped": "2023-11-22T13:14:54",
+        "alert_status": "inactive"
     }
 ]
