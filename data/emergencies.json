@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BAW123  ",
-        "hex": "4007f4",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4007f4",
-        "alert_detected": "2023-11-24T15:22:34",
-        "alert_last_seen": "2023-11-24T15:30:50",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
