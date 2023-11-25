@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "N4956C  ",
+        "hex": "a625d8",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=a625d8",
+        "alert_detected": "2023-11-25T08:31:48",
+        "alert_last_seen": "2023-11-25T08:35:09",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
