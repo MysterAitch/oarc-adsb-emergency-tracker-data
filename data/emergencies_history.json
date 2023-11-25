@@ -1248,5 +1248,15 @@
         "alert_last_seen": "2023-11-25T15:36:08",
         "alert_detection_stopped": "2023-11-25T15:36:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GIPPS   ",
+        "hex": "400df9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400df9",
+        "alert_detected": "2023-11-25T15:36:23",
+        "alert_last_seen": "2023-11-25T15:39:09",
+        "alert_detection_stopped": "2023-11-25T15:39:14",
+        "alert_status": "inactive"
     }
 ]
