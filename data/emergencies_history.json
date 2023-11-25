@@ -1218,5 +1218,25 @@
         "alert_last_seen": "2023-11-24T15:33:25",
         "alert_detection_stopped": "2023-11-24T15:33:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N4956C  ",
+        "hex": "a625d8",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=a625d8",
+        "alert_detected": "2023-11-25T08:31:48",
+        "alert_last_seen": "2023-11-25T08:36:59",
+        "alert_detection_stopped": "2023-11-25T08:37:04",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VKG1554 ",
+        "hex": "45d966",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=45d966",
+        "alert_detected": "2023-11-25T08:36:19",
+        "alert_last_seen": "2023-11-25T08:40:34",
+        "alert_detection_stopped": "2023-11-25T08:40:39",
+        "alert_status": "inactive"
     }
 ]
