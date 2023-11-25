@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GIPPS   ",
+        "hex": "400df9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400df9",
+        "alert_detected": "2023-11-25T15:36:23",
+        "alert_last_seen": "2023-11-25T15:38:24",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
