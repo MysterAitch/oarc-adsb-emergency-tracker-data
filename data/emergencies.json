@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "UAL941  ",
-        "hex": "a9178d",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a9178d",
-        "alert_detected": "2023-11-27T17:25:20",
-        "alert_last_seen": "2023-11-27T17:56:25",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
