@@ -1338,5 +1338,25 @@
         "alert_last_seen": "2023-12-01T13:28:11",
         "alert_detection_stopped": "2023-12-01T13:28:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH422  ",
+        "hex": "adfe70",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfe70",
+        "alert_detected": "2023-12-02T12:00:17",
+        "alert_last_seen": "2023-12-02T12:17:15",
+        "alert_detection_stopped": "2023-12-02T12:17:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH422  ",
+        "hex": "adfe70",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfe70",
+        "alert_detected": "2023-12-02T12:17:50",
+        "alert_last_seen": "2023-12-02T12:19:25",
+        "alert_detection_stopped": "2023-12-02T12:19:30",
+        "alert_status": "inactive"
     }
 ]
