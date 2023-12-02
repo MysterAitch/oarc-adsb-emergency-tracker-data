@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RCH422  ",
+        "hex": "adfe70",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfe70",
+        "alert_detected": "2023-12-02T12:00:17",
+        "alert_last_seen": "2023-12-02T12:02:17",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
