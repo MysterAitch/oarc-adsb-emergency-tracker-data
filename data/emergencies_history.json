@@ -1358,5 +1358,15 @@
         "alert_last_seen": "2023-12-02T12:19:25",
         "alert_detection_stopped": "2023-12-02T12:19:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SCNDAL01",
+        "hex": "43c75b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c75b",
+        "alert_detected": "2023-12-04T11:52:02",
+        "alert_last_seen": "2023-12-04T11:52:12",
+        "alert_detection_stopped": "2023-12-04T11:52:17",
+        "alert_status": "inactive"
     }
 ]
