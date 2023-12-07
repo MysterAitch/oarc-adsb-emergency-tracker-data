@@ -1,21 +1,11 @@
 [
     {
-        "flight": "        ",
-        "hex": "ae066e",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ae066e",
-        "alert_detected": "2023-12-07T14:11:27",
-        "alert_last_seen": "2023-12-07T14:36:52",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    },
-    {
         "flight": "KLM219  ",
         "hex": "484444",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=484444",
         "alert_detected": "2023-12-07T14:31:11",
-        "alert_last_seen": "2023-12-07T14:36:52",
+        "alert_last_seen": "2023-12-07T14:43:14",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
