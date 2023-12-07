@@ -1388,5 +1388,15 @@
         "alert_last_seen": "2023-12-07T14:39:13",
         "alert_detection_stopped": "2023-12-07T14:39:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM219  ",
+        "hex": "484444",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=484444",
+        "alert_detected": "2023-12-07T14:31:11",
+        "alert_last_seen": "2023-12-07T14:48:00",
+        "alert_detection_stopped": "2023-12-07T14:48:05",
+        "alert_status": "inactive"
     }
 ]
