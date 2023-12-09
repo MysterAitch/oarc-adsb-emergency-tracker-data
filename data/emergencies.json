@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EDW34N  ",
+        "hex": "4b18fe",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4b18fe",
+        "alert_detected": "2023-12-09T14:23:43",
+        "alert_last_seen": "2023-12-09T14:24:33",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
