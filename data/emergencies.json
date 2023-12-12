@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GMDSZ   ",
-        "hex": "407f11",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407f11",
-        "alert_detected": "2023-12-12T17:14:44",
-        "alert_last_seen": "2023-12-12T17:59:55",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
