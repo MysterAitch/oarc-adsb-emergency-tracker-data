@@ -1508,5 +1508,15 @@
         "alert_last_seen": "2023-12-13T15:40:00",
         "alert_detection_stopped": "2023-12-13T15:40:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHF591  ",
+        "hex": "43c4be",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4be",
+        "alert_detected": "2023-12-13T15:54:02",
+        "alert_last_seen": "2023-12-13T16:02:04",
+        "alert_detection_stopped": "2023-12-13T16:02:09",
+        "alert_status": "inactive"
     }
 ]
