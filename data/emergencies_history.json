@@ -1518,5 +1518,15 @@
         "alert_last_seen": "2023-12-13T16:02:04",
         "alert_detection_stopped": "2023-12-13T16:02:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MIKEY   ",
+        "hex": "43e794",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43e794",
+        "alert_detected": "2023-12-14T17:14:10",
+        "alert_last_seen": "2023-12-14T17:14:15",
+        "alert_detection_stopped": "2023-12-14T17:14:20",
+        "alert_status": "inactive"
     }
 ]
