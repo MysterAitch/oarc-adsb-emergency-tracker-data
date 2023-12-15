@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS34W  ",
-        "hex": "40717d",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40717d",
-        "alert_detected": "2023-12-15T19:01:18",
-        "alert_last_seen": "2023-12-15T19:19:51",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
