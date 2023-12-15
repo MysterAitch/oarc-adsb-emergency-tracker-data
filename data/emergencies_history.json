@@ -1558,5 +1558,15 @@
         "alert_last_seen": "2023-12-15T12:15:06",
         "alert_detection_stopped": "2023-12-15T12:15:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFG4AK  ",
+        "hex": "3c6463",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c6463",
+        "alert_detected": "2023-12-15T17:39:37",
+        "alert_last_seen": "2023-12-15T17:43:43",
+        "alert_detection_stopped": "2023-12-15T17:43:48",
+        "alert_status": "inactive"
     }
 ]
