@@ -1588,5 +1588,15 @@
         "alert_last_seen": "2023-12-16T07:49:09",
         "alert_detection_stopped": "2023-12-16T07:49:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW224U ",
+        "hex": "406a9f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406a9f",
+        "alert_detected": "2023-12-16T10:08:39",
+        "alert_last_seen": "2023-12-16T10:14:20",
+        "alert_detection_stopped": "2023-12-16T10:14:25",
+        "alert_status": "inactive"
     }
 ]
