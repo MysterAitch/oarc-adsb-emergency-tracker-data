@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "N7977B  ",
-        "hex": "aad555",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=aad555",
-        "alert_detected": "2023-12-17T21:22:27",
-        "alert_last_seen": "2023-12-17T21:23:33",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

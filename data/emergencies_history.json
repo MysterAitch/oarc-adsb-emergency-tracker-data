@@ -1618,5 +1618,15 @@
         "alert_last_seen": "2023-12-17T12:58:31",
         "alert_detection_stopped": "2023-12-17T12:58:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N7977B  ",
+        "hex": "aad555",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aad555",
+        "alert_detected": "2023-12-17T21:22:27",
+        "alert_last_seen": "2023-12-17T21:27:58",
+        "alert_detection_stopped": "2023-12-17T21:28:03",
+        "alert_status": "inactive"
     }
 ]
