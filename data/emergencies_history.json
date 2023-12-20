@@ -1648,5 +1648,15 @@
         "alert_last_seen": "2023-12-20T10:42:04",
         "alert_detection_stopped": "2023-12-20T10:42:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMGU   ",
+        "hex": "407a68",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407a68",
+        "alert_detected": "2023-12-20T12:23:33",
+        "alert_last_seen": "2023-12-20T12:23:38",
+        "alert_detection_stopped": "2023-12-20T12:23:43",
+        "alert_status": "inactive"
     }
 ]
