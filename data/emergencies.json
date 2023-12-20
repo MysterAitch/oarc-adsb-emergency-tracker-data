@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "VIR8Y   ",
-        "hex": "4077d3",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4077d3",
-        "alert_detected": "2023-12-20T10:29:52",
-        "alert_last_seen": "2023-12-20T10:41:39",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

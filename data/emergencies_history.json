@@ -1638,5 +1638,15 @@
         "alert_last_seen": "2023-12-20T09:07:23",
         "alert_detection_stopped": "2023-12-20T09:07:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR8Y   ",
+        "hex": "4077d3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4077d3",
+        "alert_detected": "2023-12-20T10:29:52",
+        "alert_last_seen": "2023-12-20T10:42:04",
+        "alert_detection_stopped": "2023-12-20T10:42:09",
+        "alert_status": "inactive"
     }
 ]
