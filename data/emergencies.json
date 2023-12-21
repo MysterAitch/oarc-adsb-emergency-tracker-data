@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR48YF ",
+        "hex": "4ca2c1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca2c1",
+        "alert_detected": "2023-12-21T07:46:48",
+        "alert_last_seen": "2023-12-21T07:52:40",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
