@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "UAE41   ",
+        "hex": "8964a5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=8964a5",
+        "alert_detected": "2023-12-23T16:47:31",
+        "alert_last_seen": "2023-12-23T16:50:47",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
