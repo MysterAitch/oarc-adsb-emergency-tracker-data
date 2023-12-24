@@ -1698,5 +1698,15 @@
         "alert_last_seen": "2023-12-23T16:52:07",
         "alert_detection_stopped": "2023-12-23T16:52:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS34U  ",
+        "hex": "406c81",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c81",
+        "alert_detected": "2023-12-24T08:56:15",
+        "alert_last_seen": "2023-12-24T08:58:30",
+        "alert_detection_stopped": "2023-12-24T08:58:35",
+        "alert_status": "inactive"
     }
 ]
