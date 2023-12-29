@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NONE",
-        "hex": "a65092",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a65092",
-        "alert_detected": "2023-12-29T22:28:06",
-        "alert_last_seen": "2023-12-29T23:01:45",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

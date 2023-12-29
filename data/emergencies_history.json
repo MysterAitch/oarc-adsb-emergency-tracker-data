@@ -1718,5 +1718,15 @@
         "alert_last_seen": "2023-12-29T22:22:00",
         "alert_detection_stopped": "2023-12-29T22:22:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "a65092",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a65092",
+        "alert_detected": "2023-12-29T22:28:06",
+        "alert_last_seen": "2023-12-29T23:07:40",
+        "alert_detection_stopped": "2023-12-29T23:07:45",
+        "alert_status": "inactive"
     }
 ]
