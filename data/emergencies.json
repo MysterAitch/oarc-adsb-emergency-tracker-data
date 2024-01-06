@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GBASJ   ",
+        "hex": "401a35",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401a35",
+        "alert_detected": "2024-01-06T11:17:48",
+        "alert_last_seen": "2024-01-06T11:18:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
