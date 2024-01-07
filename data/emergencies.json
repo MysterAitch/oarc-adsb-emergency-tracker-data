@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "flight": "VIR77N  ",
+        "hex": "4063e7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4063e7",
+        "alert_detected": "2024-01-07T13:18:13",
+        "alert_last_seen": "2024-01-07T13:21:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "GSACR   ",
+        "hex": "402da3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402da3",
+        "alert_detected": "2024-01-07T13:20:58",
+        "alert_last_seen": "2024-01-07T13:21:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
