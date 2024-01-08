@@ -1858,5 +1858,15 @@
         "alert_last_seen": "2024-01-08T16:58:03",
         "alert_detection_stopped": "2024-01-08T16:58:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SKW4772 ",
+        "hex": "ad19f2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ad19f2",
+        "alert_detected": "2024-01-08T17:02:14",
+        "alert_last_seen": "2024-01-08T17:10:35",
+        "alert_detection_stopped": "2024-01-08T17:10:40",
+        "alert_status": "inactive"
     }
 ]
