@@ -1818,5 +1818,15 @@
         "alert_last_seen": "2024-01-08T14:50:22",
         "alert_detection_stopped": "2024-01-08T14:50:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "ae17ab",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae17ab",
+        "alert_detected": "2024-01-08T16:32:29",
+        "alert_last_seen": "2024-01-08T16:35:34",
+        "alert_detection_stopped": "2024-01-08T16:35:39",
+        "alert_status": "inactive"
     }
 ]
