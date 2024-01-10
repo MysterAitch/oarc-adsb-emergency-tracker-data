@@ -1938,5 +1938,15 @@
         "alert_last_seen": "2024-01-10T11:29:22",
         "alert_detection_stopped": "2024-01-10T11:29:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOPET   ",
+        "hex": "40465d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40465d",
+        "alert_detected": "2024-01-10T13:08:26",
+        "alert_last_seen": "2024-01-10T13:08:31",
+        "alert_detection_stopped": "2024-01-10T13:08:36",
+        "alert_status": "inactive"
     }
 ]
