@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "UAO01   ",
+        "hex": "4060d4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4060d4",
+        "alert_detected": "2024-01-10T10:48:50",
+        "alert_last_seen": "2024-01-10T10:52:51",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
