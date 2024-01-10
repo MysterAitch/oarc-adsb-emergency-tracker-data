@@ -1898,5 +1898,15 @@
         "alert_last_seen": "2024-01-10T09:32:13",
         "alert_detection_stopped": "2024-01-10T09:32:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FRA85   ",
+        "hex": "4009c9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4009c9",
+        "alert_detected": "2024-01-10T09:48:46",
+        "alert_last_seen": "2024-01-10T10:04:48",
+        "alert_detection_stopped": "2024-01-10T10:04:53",
+        "alert_status": "inactive"
     }
 ]
