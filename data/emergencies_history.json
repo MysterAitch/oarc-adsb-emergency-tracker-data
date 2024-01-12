@@ -2028,5 +2028,15 @@
         "alert_last_seen": "2024-01-12T14:38:28",
         "alert_detection_stopped": "2024-01-12T14:38:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GJACS   ",
+        "hex": "400ab3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ab3",
+        "alert_detected": "2024-01-12T14:39:53",
+        "alert_last_seen": "2024-01-12T14:42:44",
+        "alert_detection_stopped": "2024-01-12T14:42:49",
+        "alert_status": "inactive"
     }
 ]
