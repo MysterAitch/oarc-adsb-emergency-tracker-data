@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "UAE28Y  ",
+        "hex": "896181",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=896181",
+        "alert_detected": "2024-01-13T21:42:40",
+        "alert_last_seen": "2024-01-13T21:43:50",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
