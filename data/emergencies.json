@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "NCKL06  ",
+        "hex": "4060dd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4060dd",
+        "alert_detected": "2024-01-15T13:57:18",
+        "alert_last_seen": "2024-01-15T14:01:29",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
