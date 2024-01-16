@@ -2108,5 +2108,25 @@
         "alert_last_seen": "2024-01-16T11:13:29",
         "alert_detection_stopped": "2024-01-16T11:13:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NINJA22 ",
+        "hex": "43c562",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c562",
+        "alert_detected": "2024-01-16T12:15:12",
+        "alert_last_seen": "2024-01-16T12:15:12",
+        "alert_detection_stopped": "2024-01-16T12:15:17",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NINJA22 ",
+        "hex": "43c562",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c562",
+        "alert_detected": "2024-01-16T12:15:32",
+        "alert_last_seen": "2024-01-16T12:17:43",
+        "alert_detection_stopped": "2024-01-16T12:17:48",
+        "alert_status": "inactive"
     }
 ]
