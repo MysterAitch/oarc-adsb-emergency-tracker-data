@@ -2098,5 +2098,15 @@
         "alert_last_seen": "2024-01-15T14:02:09",
         "alert_detection_stopped": "2024-01-15T14:02:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BINIA219",
+        "hex": "400ee8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ee8",
+        "alert_detected": "2024-01-16T11:10:23",
+        "alert_last_seen": "2024-01-16T11:13:29",
+        "alert_detection_stopped": "2024-01-16T11:13:34",
+        "alert_status": "inactive"
     }
 ]
