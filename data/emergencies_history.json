@@ -2158,5 +2158,15 @@
         "alert_last_seen": "2024-01-16T12:29:55",
         "alert_detection_stopped": "2024-01-16T12:30:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ZK550   ",
+        "hex": "43c7cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c7cd",
+        "alert_detected": "2024-01-16T13:42:39",
+        "alert_last_seen": "2024-01-16T13:42:39",
+        "alert_detection_stopped": "2024-01-16T13:42:44",
+        "alert_status": "inactive"
     }
 ]
