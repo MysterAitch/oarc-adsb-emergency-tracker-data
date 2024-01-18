@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "KLM590  ",
-        "hex": "4850f5",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=4850f5",
-        "alert_detected": "2024-01-18T05:26:25",
-        "alert_last_seen": "2024-01-18T05:27:50",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
