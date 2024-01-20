@@ -2198,5 +2198,15 @@
         "alert_last_seen": "2024-01-18T12:39:00",
         "alert_detection_stopped": "2024-01-18T12:39:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBKIT   ",
+        "hex": "40204a",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40204a",
+        "alert_detected": "2024-01-20T15:14:40",
+        "alert_last_seen": "2024-01-20T15:31:48",
+        "alert_detection_stopped": "2024-01-20T15:31:53",
+        "alert_status": "inactive"
     }
 ]
