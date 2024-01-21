@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EZY68DF ",
+        "hex": "407eec",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407eec",
+        "alert_detected": "2024-01-21T22:46:41",
+        "alert_last_seen": "2024-01-21T22:51:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
