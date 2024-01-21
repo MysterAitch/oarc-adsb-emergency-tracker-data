@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "flight": "EZY64PN ",
+        "hex": "407794",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407794",
+        "alert_detected": "2024-01-21T19:38:27",
+        "alert_last_seen": "2024-01-21T19:40:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "EXS71Q  ",
+        "hex": "406e2e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406e2e",
+        "alert_detected": "2024-01-21T19:38:37",
+        "alert_last_seen": "2024-01-21T19:40:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
