@@ -2218,5 +2218,25 @@
         "alert_last_seen": "2024-01-21T08:26:40",
         "alert_detection_stopped": "2024-01-21T08:26:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS71Q  ",
+        "hex": "406e2e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406e2e",
+        "alert_detected": "2024-01-21T19:38:37",
+        "alert_last_seen": "2024-01-21T20:04:25",
+        "alert_detection_stopped": "2024-01-21T20:04:30",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS71Q  ",
+        "hex": "406e2e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406e2e",
+        "alert_detected": "2024-01-21T20:06:15",
+        "alert_last_seen": "2024-01-21T20:07:11",
+        "alert_detection_stopped": "2024-01-21T20:07:16",
+        "alert_status": "inactive"
     }
 ]
