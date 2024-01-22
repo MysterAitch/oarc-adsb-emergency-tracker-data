@@ -2338,5 +2338,15 @@
         "alert_last_seen": "2024-01-22T01:37:25",
         "alert_detection_stopped": "2024-01-22T01:37:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY49EG ",
+        "hex": "406fdb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406fdb",
+        "alert_detected": "2024-01-22T01:47:01",
+        "alert_last_seen": "2024-01-22T02:06:12",
+        "alert_detection_stopped": "2024-01-22T02:06:17",
+        "alert_status": "inactive"
     }
 ]
