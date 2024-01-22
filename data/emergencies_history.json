@@ -2358,5 +2358,15 @@
         "alert_last_seen": "2024-01-22T11:28:51",
         "alert_detection_stopped": "2024-01-22T11:28:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR96   ",
+        "hex": "4cae48",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4cae48",
+        "alert_detected": "2024-01-22T11:30:11",
+        "alert_last_seen": "2024-01-22T11:34:12",
+        "alert_detection_stopped": "2024-01-22T11:34:17",
+        "alert_status": "inactive"
     }
 ]
