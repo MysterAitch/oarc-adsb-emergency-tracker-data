@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "UAF1230 ",
-        "hex": "896c2c",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=896c2c",
-        "alert_detected": "2024-01-22T00:58:30",
-        "alert_last_seen": "2024-01-22T01:18:28",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
