@@ -2408,5 +2408,15 @@
         "alert_last_seen": "2024-01-23T11:43:19",
         "alert_detection_stopped": "2024-01-23T11:43:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TAHOE053",
+        "hex": "ae17b0",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=ae17b0",
+        "alert_detected": "2024-01-23T13:18:42",
+        "alert_last_seen": "2024-01-23T13:18:47",
+        "alert_detection_stopped": "2024-01-23T13:18:52",
+        "alert_status": "inactive"
     }
 ]
