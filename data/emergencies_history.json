@@ -2398,5 +2398,15 @@
         "alert_last_seen": "2024-01-23T11:40:09",
         "alert_detection_stopped": "2024-01-23T11:40:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c7a0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c7a0",
+        "alert_detected": "2024-01-23T11:41:34",
+        "alert_last_seen": "2024-01-23T11:43:19",
+        "alert_detection_stopped": "2024-01-23T11:43:24",
+        "alert_status": "inactive"
     }
 ]
