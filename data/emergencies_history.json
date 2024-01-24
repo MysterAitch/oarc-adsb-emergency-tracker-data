@@ -2508,5 +2508,15 @@
         "alert_last_seen": "2024-01-24T13:26:51",
         "alert_detection_stopped": "2024-01-24T13:26:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF28   ",
+        "hex": "43c8ba",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8ba",
+        "alert_detected": "2024-01-24T14:24:47",
+        "alert_last_seen": "2024-01-24T14:25:57",
+        "alert_detection_stopped": "2024-01-24T14:26:02",
+        "alert_status": "inactive"
     }
 ]
