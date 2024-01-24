@@ -2448,5 +2448,35 @@
         "alert_last_seen": "2024-01-24T07:14:41",
         "alert_detection_stopped": "2024-01-24T07:14:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SIA52   ",
+        "hex": "76cd42",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=76cd42",
+        "alert_detected": "2024-01-24T09:46:59",
+        "alert_last_seen": "2024-01-24T10:04:42",
+        "alert_detection_stopped": "2024-01-24T10:04:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SIA52   ",
+        "hex": "76cd42",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=76cd42",
+        "alert_detected": "2024-01-24T10:05:07",
+        "alert_last_seen": "2024-01-24T10:06:58",
+        "alert_detection_stopped": "2024-01-24T10:07:03",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SIA52   ",
+        "hex": "76cd42",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=76cd42",
+        "alert_detected": "2024-01-24T10:09:18",
+        "alert_last_seen": "2024-01-24T10:10:18",
+        "alert_detection_stopped": "2024-01-24T10:10:23",
+        "alert_status": "inactive"
     }
 ]

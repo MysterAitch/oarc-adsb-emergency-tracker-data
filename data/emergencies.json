@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SIA52   ",
-        "hex": "76cd42",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=76cd42",
-        "alert_detected": "2024-01-24T09:46:59",
-        "alert_last_seen": "2024-01-24T10:03:52",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
