@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "flight": "NONE",
+        "hex": "43c77b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c77b",
+        "alert_detected": "2024-01-24T15:11:26",
+        "alert_last_seen": "2024-01-24T15:18:42",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "FANG0002",
+        "hex": "43c791",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c791",
+        "alert_detected": "2024-01-24T15:18:32",
+        "alert_last_seen": "2024-01-24T15:18:42",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
