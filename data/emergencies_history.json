@@ -2548,5 +2548,15 @@
         "alert_last_seen": "2024-01-24T15:30:04",
         "alert_detection_stopped": "2024-01-24T15:30:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JAVLN   ",
+        "hex": "43c966",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c966",
+        "alert_detected": "2024-01-24T15:42:47",
+        "alert_last_seen": "2024-01-24T15:48:08",
+        "alert_detection_stopped": "2024-01-24T15:48:13",
+        "alert_status": "inactive"
     }
 ]
