@@ -2588,5 +2588,25 @@
         "alert_last_seen": "2024-01-25T14:29:30",
         "alert_detection_stopped": "2024-01-25T14:29:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "407cf7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cf7",
+        "alert_detected": "2024-01-26T20:22:29",
+        "alert_last_seen": "2024-01-26T20:54:20",
+        "alert_detection_stopped": "2024-01-26T20:54:25",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DHK384  ",
+        "hex": "407cf7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cf7",
+        "alert_detected": "2024-01-26T20:55:05",
+        "alert_last_seen": "2024-01-26T20:56:00",
+        "alert_detection_stopped": "2024-01-26T20:56:05",
+        "alert_status": "inactive"
     }
 ]
