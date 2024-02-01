@@ -2688,5 +2688,15 @@
         "alert_last_seen": "2024-02-01T11:24:52",
         "alert_detection_stopped": "2024-02-01T11:24:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN15   ",
+        "hex": "06a21c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a21c",
+        "alert_detected": "2024-02-01T11:52:23",
+        "alert_last_seen": "2024-02-01T11:52:28",
+        "alert_detection_stopped": "2024-02-01T11:52:33",
+        "alert_status": "inactive"
     }
 ]
