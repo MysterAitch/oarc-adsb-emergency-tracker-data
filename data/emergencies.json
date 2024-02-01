@@ -1,11 +1,11 @@
 [
     {
-        "flight": "DLH452  ",
+        "flight": "NONE",
         "hex": "3c65ac",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=3c65ac",
-        "alert_detected": "2024-02-01T12:57:13",
-        "alert_last_seen": "2024-02-01T13:22:59",
+        "alert_detected": "2024-02-01T13:28:31",
+        "alert_last_seen": "2024-02-01T13:29:21",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
