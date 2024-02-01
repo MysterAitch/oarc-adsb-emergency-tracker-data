@@ -2678,5 +2678,15 @@
         "alert_last_seen": "2024-01-31T13:01:43",
         "alert_detection_stopped": "2024-01-31T13:01:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MCE01   ",
+        "hex": "ae2739",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae2739",
+        "alert_detected": "2024-02-01T11:19:20",
+        "alert_last_seen": "2024-02-01T11:24:52",
+        "alert_detection_stopped": "2024-02-01T11:24:57",
+        "alert_status": "inactive"
     }
 ]
