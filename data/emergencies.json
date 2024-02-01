@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GBHOZ   ",
-        "hex": "401e77",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=401e77",
-        "alert_detected": "2024-02-01T14:35:18",
-        "alert_last_seen": "2024-02-01T14:39:09",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
