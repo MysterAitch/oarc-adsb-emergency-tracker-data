@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AFR907  ",
-        "hex": "39644c",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=39644c",
-        "alert_detected": "2024-02-02T06:04:29",
-        "alert_last_seen": "2024-02-02T06:06:55",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
