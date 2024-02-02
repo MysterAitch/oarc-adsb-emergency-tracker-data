@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DLH423  ",
-        "hex": "3c64f0",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=3c64f0",
-        "alert_detected": "2024-02-02T04:04:34",
-        "alert_last_seen": "2024-02-02T04:34:20",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
