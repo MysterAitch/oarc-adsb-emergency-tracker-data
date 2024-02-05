@@ -2828,5 +2828,15 @@
         "alert_last_seen": "2024-02-05T06:48:26",
         "alert_detection_stopped": "2024-02-05T06:48:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BWY20   ",
+        "hex": "400e15",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e15",
+        "alert_detected": "2024-02-05T11:15:36",
+        "alert_last_seen": "2024-02-05T11:16:06",
+        "alert_detection_stopped": "2024-02-05T11:16:11",
+        "alert_status": "inactive"
     }
 ]
