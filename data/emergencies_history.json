@@ -2838,5 +2838,15 @@
         "alert_last_seen": "2024-02-05T11:16:06",
         "alert_detection_stopped": "2024-02-05T11:16:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HELCAT21",
+        "hex": "407eff",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407eff",
+        "alert_detected": "2024-02-06T16:58:09",
+        "alert_last_seen": "2024-02-06T17:10:16",
+        "alert_detection_stopped": "2024-02-06T17:10:21",
+        "alert_status": "inactive"
     }
 ]
