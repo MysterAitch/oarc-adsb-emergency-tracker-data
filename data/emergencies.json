@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "HELCAT21",
+        "hex": "407eff",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407eff",
+        "alert_detected": "2024-02-06T16:58:09",
+        "alert_last_seen": "2024-02-06T16:58:19",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
