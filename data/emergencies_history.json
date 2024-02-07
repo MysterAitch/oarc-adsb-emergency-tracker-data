@@ -2848,5 +2848,15 @@
         "alert_last_seen": "2024-02-06T17:10:16",
         "alert_detection_stopped": "2024-02-06T17:10:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR474  ",
+        "hex": "3949e9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3949e9",
+        "alert_detected": "2024-02-07T13:32:21",
+        "alert_last_seen": "2024-02-07T14:24:42",
+        "alert_detection_stopped": "2024-02-07T14:24:47",
+        "alert_status": "inactive"
     }
 ]
