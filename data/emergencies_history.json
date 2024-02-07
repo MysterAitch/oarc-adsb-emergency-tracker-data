@@ -2858,5 +2858,15 @@
         "alert_last_seen": "2024-02-07T14:24:42",
         "alert_detection_stopped": "2024-02-07T14:24:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N306GV  ",
+        "hex": "a33646",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a33646",
+        "alert_detected": "2024-02-07T23:00:19",
+        "alert_last_seen": "2024-02-07T23:02:19",
+        "alert_detection_stopped": "2024-02-07T23:02:24",
+        "alert_status": "inactive"
     }
 ]
