@@ -2878,5 +2878,15 @@
         "alert_last_seen": "2024-02-08T08:30:20",
         "alert_detection_stopped": "2024-02-08T08:30:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HGO211  ",
+        "hex": "407e56",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407e56",
+        "alert_detected": "2024-02-08T08:17:53",
+        "alert_last_seen": "2024-02-08T08:46:38",
+        "alert_detection_stopped": "2024-02-08T08:46:43",
+        "alert_status": "inactive"
     }
 ]
