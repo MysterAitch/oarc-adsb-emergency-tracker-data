@@ -2908,5 +2908,15 @@
         "alert_last_seen": "2024-02-08T14:32:37",
         "alert_detection_stopped": "2024-02-08T14:32:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SUMO76  ",
+        "hex": "ae20b7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae20b7",
+        "alert_detected": "2024-02-09T11:49:16",
+        "alert_last_seen": "2024-02-09T11:49:26",
+        "alert_detection_stopped": "2024-02-09T11:49:31",
+        "alert_status": "inactive"
     }
 ]
