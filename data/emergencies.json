@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TVF59LM ",
+        "hex": "3964f4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3964f4",
+        "alert_detected": "2024-02-13T20:47:42",
+        "alert_last_seen": "2024-02-13T20:50:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
