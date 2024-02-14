@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GBRUX   ",
-        "hex": "400b50",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=400b50",
-        "alert_detected": "2024-02-14T14:54:47",
-        "alert_last_seen": "2024-02-14T15:04:44",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
