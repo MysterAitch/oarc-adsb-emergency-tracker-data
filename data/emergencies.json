@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "WAGON01 ",
-        "hex": "400ebe",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=400ebe",
-        "alert_detected": "2024-02-15T15:53:54",
-        "alert_last_seen": "2024-02-15T15:55:49",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
