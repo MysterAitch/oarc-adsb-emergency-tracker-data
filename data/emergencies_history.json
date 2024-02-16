@@ -3048,5 +3048,15 @@
         "alert_last_seen": "2024-02-16T12:27:30",
         "alert_detection_stopped": "2024-02-16T12:27:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBUFH   ",
+        "hex": "4035ec",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4035ec",
+        "alert_detected": "2024-02-16T15:01:25",
+        "alert_last_seen": "2024-02-16T15:02:11",
+        "alert_detection_stopped": "2024-02-16T15:02:16",
+        "alert_status": "inactive"
     }
 ]
