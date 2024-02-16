@@ -3038,5 +3038,15 @@
         "alert_last_seen": "2024-02-15T16:02:36",
         "alert_detection_stopped": "2024-02-15T16:02:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBICW   ",
+        "hex": "401ed5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401ed5",
+        "alert_detected": "2024-02-16T12:27:25",
+        "alert_last_seen": "2024-02-16T12:27:30",
+        "alert_detection_stopped": "2024-02-16T12:27:35",
+        "alert_status": "inactive"
     }
 ]
