@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "LNX81SM ",
-        "hex": "40711b",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40711b",
-        "alert_detected": "2024-02-18T12:27:46",
-        "alert_last_seen": "2024-02-18T12:36:28",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
