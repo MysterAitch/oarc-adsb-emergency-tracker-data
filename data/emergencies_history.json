@@ -3078,5 +3078,15 @@
         "alert_last_seen": "2024-02-18T13:34:04",
         "alert_detection_stopped": "2024-02-18T13:34:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N592TT  ",
+        "hex": "a7a690",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a7a690",
+        "alert_detected": "2024-02-18T14:04:01",
+        "alert_last_seen": "2024-02-18T14:05:01",
+        "alert_detection_stopped": "2024-02-18T14:05:06",
+        "alert_status": "inactive"
     }
 ]
