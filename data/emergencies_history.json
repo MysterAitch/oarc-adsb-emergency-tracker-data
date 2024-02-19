@@ -3088,5 +3088,15 @@
         "alert_last_seen": "2024-02-18T14:05:01",
         "alert_detection_stopped": "2024-02-18T14:05:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EMU10   ",
+        "hex": "400eac",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eac",
+        "alert_detected": "2024-02-19T14:42:47",
+        "alert_last_seen": "2024-02-19T14:43:42",
+        "alert_detection_stopped": "2024-02-19T14:43:47",
+        "alert_status": "inactive"
     }
 ]
