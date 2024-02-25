@@ -3178,5 +3178,15 @@
         "alert_last_seen": "2024-02-25T12:23:20",
         "alert_detection_stopped": "2024-02-25T12:23:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EFW47F  ",
+        "hex": "406b80",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b80",
+        "alert_detected": "2024-02-25T21:35:16",
+        "alert_last_seen": "2024-02-25T21:37:56",
+        "alert_detection_stopped": "2024-02-25T21:38:01",
+        "alert_status": "inactive"
     }
 ]
