@@ -1,11 +1,11 @@
 [
     {
-        "flight": "NONE",
+        "flight": "UAE30Y  ",
         "hex": "8963e4",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=8963e4",
-        "alert_detected": "2024-02-25T07:41:44",
-        "alert_last_seen": "2024-02-25T07:42:04",
+        "alert_detected": "2024-02-25T07:43:40",
+        "alert_last_seen": "2024-02-25T07:48:35",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
