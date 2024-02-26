@@ -3198,5 +3198,15 @@
         "alert_last_seen": "2024-02-26T16:13:46",
         "alert_detection_stopped": "2024-02-26T16:13:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY41TX ",
+        "hex": "407f64",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f64",
+        "alert_detected": "2024-02-26T22:48:43",
+        "alert_last_seen": "2024-02-26T23:13:27",
+        "alert_detection_stopped": "2024-02-26T23:13:32",
+        "alert_status": "inactive"
     }
 ]
