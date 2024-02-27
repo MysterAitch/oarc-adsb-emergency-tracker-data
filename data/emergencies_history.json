@@ -3208,5 +3208,15 @@
         "alert_last_seen": "2024-02-26T23:13:27",
         "alert_detection_stopped": "2024-02-26T23:13:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW38D  ",
+        "hex": "406d79",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406d79",
+        "alert_detected": "2024-02-27T15:38:04",
+        "alert_last_seen": "2024-02-27T15:59:18",
+        "alert_detection_stopped": "2024-02-27T15:59:23",
+        "alert_status": "inactive"
     }
 ]
