@@ -3218,5 +3218,15 @@
         "alert_last_seen": "2024-02-27T15:59:18",
         "alert_detection_stopped": "2024-02-27T15:59:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BRX403  ",
+        "hex": "4ab56e",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ab56e",
+        "alert_detected": "2024-02-28T06:17:27",
+        "alert_last_seen": "2024-02-28T06:20:27",
+        "alert_detection_stopped": "2024-02-28T06:20:32",
+        "alert_status": "inactive"
     }
 ]
