@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "HELLCT21",
+        "hex": "407d83",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407d83",
+        "alert_detected": "2024-02-29T11:01:26",
+        "alert_last_seen": "2024-02-29T11:04:22",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
