@@ -3228,5 +3228,15 @@
         "alert_last_seen": "2024-02-28T06:20:27",
         "alert_detection_stopped": "2024-02-28T06:20:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HELLCT21",
+        "hex": "407d83",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407d83",
+        "alert_detected": "2024-02-29T11:01:26",
+        "alert_last_seen": "2024-02-29T11:20:35",
+        "alert_detection_stopped": "2024-02-29T11:20:40",
+        "alert_status": "inactive"
     }
 ]
