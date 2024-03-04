@@ -3258,5 +3258,15 @@
         "alert_last_seen": "2024-02-29T14:40:55",
         "alert_detection_stopped": "2024-02-29T14:41:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCDEF   ",
+        "hex": "404cde",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404cde",
+        "alert_detected": "2024-03-04T11:39:49",
+        "alert_last_seen": "2024-03-04T11:42:45",
+        "alert_detection_stopped": "2024-03-04T11:42:50",
+        "alert_status": "inactive"
     }
 ]
