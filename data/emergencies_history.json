@@ -3368,5 +3368,15 @@
         "alert_last_seen": "2024-03-06T22:05:47",
         "alert_detection_stopped": "2024-03-06T22:05:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DGLUX   ",
+        "hex": "3dad23",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3dad23",
+        "alert_detected": "2024-03-07T13:34:34",
+        "alert_last_seen": "2024-03-07T13:34:44",
+        "alert_detection_stopped": "2024-03-07T13:34:49",
+        "alert_status": "inactive"
     }
 ]

@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DGLUX   ",
+        "hex": "3dad23",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3dad23",
+        "alert_detected": "2024-03-07T13:35:29",
+        "alert_last_seen": "2024-03-07T13:36:04",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
