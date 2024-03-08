@@ -3398,5 +3398,15 @@
         "alert_last_seen": "2024-03-08T08:09:01",
         "alert_detection_stopped": "2024-03-08T08:09:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HRCLS38 ",
+        "hex": "ae6a14",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae6a14",
+        "alert_detected": "2024-03-08T15:19:47",
+        "alert_last_seen": "2024-03-08T15:19:57",
+        "alert_detection_stopped": "2024-03-08T15:20:02",
+        "alert_status": "inactive"
     }
 ]
