@@ -3418,5 +3418,25 @@
         "alert_last_seen": "2024-03-09T08:10:34",
         "alert_detection_stopped": "2024-03-09T08:10:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY70WJ ",
+        "hex": "406c71",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c71",
+        "alert_detected": "2024-03-10T07:22:21",
+        "alert_last_seen": "2024-03-10T07:38:09",
+        "alert_detection_stopped": "2024-03-10T07:38:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4007f3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4007f3",
+        "alert_detected": "2024-03-10T07:26:47",
+        "alert_last_seen": "2024-03-10T07:41:44",
+        "alert_detection_stopped": "2024-03-10T07:41:49",
+        "alert_status": "inactive"
     }
 ]
