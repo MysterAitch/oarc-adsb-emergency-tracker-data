@@ -3448,5 +3448,15 @@
         "alert_last_seen": "2024-03-12T08:28:57",
         "alert_detection_stopped": "2024-03-12T08:29:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DREAD021",
+        "hex": "43c709",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c709",
+        "alert_detected": "2024-03-12T15:49:21",
+        "alert_last_seen": "2024-03-12T15:49:56",
+        "alert_detection_stopped": "2024-03-12T15:50:01",
+        "alert_status": "inactive"
     }
 ]
