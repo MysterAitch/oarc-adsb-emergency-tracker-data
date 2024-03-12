@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DAL88   ",
-        "hex": "ab60e3",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ab60e3",
-        "alert_detected": "2024-03-12T08:23:06",
-        "alert_last_seen": "2024-03-12T08:24:11",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

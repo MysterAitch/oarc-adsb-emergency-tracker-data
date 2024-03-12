@@ -3438,5 +3438,15 @@
         "alert_last_seen": "2024-03-10T07:41:44",
         "alert_detection_stopped": "2024-03-10T07:41:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL88   ",
+        "hex": "ab60e3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab60e3",
+        "alert_detected": "2024-03-12T08:23:06",
+        "alert_last_seen": "2024-03-12T08:28:57",
+        "alert_detection_stopped": "2024-03-12T08:29:02",
+        "alert_status": "inactive"
     }
 ]
