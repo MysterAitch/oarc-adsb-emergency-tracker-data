@@ -3458,5 +3458,15 @@
         "alert_last_seen": "2024-03-12T15:49:56",
         "alert_detection_stopped": "2024-03-12T15:50:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAT851  ",
+        "hex": "400ea6",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=400ea6",
+        "alert_detected": "2024-03-13T14:48:05",
+        "alert_last_seen": "2024-03-13T14:50:00",
+        "alert_detection_stopped": "2024-03-13T14:50:05",
+        "alert_status": "inactive"
     }
 ]
