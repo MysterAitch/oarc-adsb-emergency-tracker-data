@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS17CY ",
-        "hex": "4070e1",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4070e1",
-        "alert_detected": "2024-03-14T11:10:46",
-        "alert_last_seen": "2024-03-14T11:30:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
