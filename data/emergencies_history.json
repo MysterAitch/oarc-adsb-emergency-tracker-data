@@ -3518,5 +3518,15 @@
         "alert_last_seen": "2024-03-15T09:43:31",
         "alert_detection_stopped": "2024-03-15T09:43:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SUMO74  ",
+        "hex": "ae5b69",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae5b69",
+        "alert_detected": "2024-03-15T11:55:38",
+        "alert_last_seen": "2024-03-15T11:55:48",
+        "alert_detection_stopped": "2024-03-15T11:55:53",
+        "alert_status": "inactive"
     }
 ]
