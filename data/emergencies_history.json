@@ -3498,5 +3498,15 @@
         "alert_last_seen": "2024-03-14T18:48:20",
         "alert_detection_stopped": "2024-03-14T18:48:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MINES   ",
+        "hex": "424b7e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=424b7e",
+        "alert_detected": "2024-03-15T08:10:43",
+        "alert_last_seen": "2024-03-15T08:10:43",
+        "alert_detection_stopped": "2024-03-15T08:10:48",
+        "alert_status": "inactive"
     }
 ]
