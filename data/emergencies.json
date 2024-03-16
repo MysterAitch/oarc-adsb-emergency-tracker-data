@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GBAXY   ",
-        "hex": "401a93",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=401a93",
-        "alert_detected": "2024-03-16T15:33:52",
-        "alert_last_seen": "2024-03-16T15:37:23",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
