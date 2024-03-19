@@ -3598,5 +3598,15 @@
         "alert_last_seen": "2024-03-19T15:32:25",
         "alert_detection_stopped": "2024-03-19T15:32:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "REV99   ",
+        "hex": "400a84",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400a84",
+        "alert_detected": "2024-03-19T22:50:47",
+        "alert_last_seen": "2024-03-19T22:59:59",
+        "alert_detection_stopped": "2024-03-19T23:00:04",
+        "alert_status": "inactive"
     }
 ]
