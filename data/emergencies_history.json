@@ -3558,5 +3558,15 @@
         "alert_last_seen": "2024-03-18T12:28:45",
         "alert_detection_stopped": "2024-03-18T12:28:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAT62   ",
+        "hex": "400ea2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ea2",
+        "alert_detected": "2024-03-19T09:08:53",
+        "alert_last_seen": "2024-03-19T09:15:09",
+        "alert_detection_stopped": "2024-03-19T09:15:14",
+        "alert_status": "inactive"
     }
 ]
