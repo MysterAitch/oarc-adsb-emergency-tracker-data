@@ -1,11 +1,11 @@
 [
     {
-        "flight": "ASY441  ",
-        "hex": "7cf925",
+        "flight": "CWL49   ",
+        "hex": "43c8d7",
         "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=7cf925",
-        "alert_detected": "2024-03-19T14:53:23",
-        "alert_last_seen": "2024-03-19T15:10:06",
+        "link": "https://adsb.oarc.uk/?icao=43c8d7",
+        "alert_detected": "2024-03-19T15:16:32",
+        "alert_last_seen": "2024-03-19T15:19:58",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
