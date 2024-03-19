@@ -3578,5 +3578,15 @@
         "alert_last_seen": "2024-03-19T15:15:07",
         "alert_detection_stopped": "2024-03-19T15:15:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL49   ",
+        "hex": "43c8d7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d7",
+        "alert_detected": "2024-03-19T15:16:32",
+        "alert_last_seen": "2024-03-19T15:23:23",
+        "alert_detection_stopped": "2024-03-19T15:23:28",
+        "alert_status": "inactive"
     }
 ]
