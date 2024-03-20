@@ -3638,5 +3638,15 @@
         "alert_last_seen": "2024-03-20T16:22:01",
         "alert_detection_stopped": "2024-03-20T16:22:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ABB278  ",
+        "hex": "440b9c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440b9c",
+        "alert_detected": "2024-03-20T21:55:18",
+        "alert_last_seen": "2024-03-20T23:07:48",
+        "alert_detection_stopped": "2024-03-20T23:07:53",
+        "alert_status": "inactive"
     }
 ]
