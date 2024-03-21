@@ -3678,5 +3678,15 @@
         "alert_last_seen": "2024-03-21T09:26:27",
         "alert_detection_stopped": "2024-03-21T09:26:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT53   ",
+        "hex": "43c550",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c550",
+        "alert_detected": "2024-03-21T13:27:43",
+        "alert_last_seen": "2024-03-21T13:31:34",
+        "alert_detection_stopped": "2024-03-21T13:31:39",
+        "alert_status": "inactive"
     }
 ]
