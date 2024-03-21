@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "VYT53   ",
+        "hex": "43c550",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c550",
+        "alert_detected": "2024-03-21T13:27:43",
+        "alert_last_seen": "2024-03-21T13:29:24",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
