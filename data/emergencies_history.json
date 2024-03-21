@@ -3658,5 +3658,15 @@
         "alert_last_seen": "2024-03-21T08:26:48",
         "alert_detection_stopped": "2024-03-21T08:26:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW51B  ",
+        "hex": "406a9f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406a9f",
+        "alert_detected": "2024-03-21T09:10:08",
+        "alert_last_seen": "2024-03-21T09:10:58",
+        "alert_detection_stopped": "2024-03-21T09:11:03",
+        "alert_status": "inactive"
     }
 ]
