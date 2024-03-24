@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SAS7405 ",
+        "hex": "4ac9ea",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ac9ea",
+        "alert_detected": "2024-03-24T06:48:42",
+        "alert_last_seen": "2024-03-24T06:54:28",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
