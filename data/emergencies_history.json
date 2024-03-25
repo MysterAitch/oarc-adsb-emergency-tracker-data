@@ -3698,5 +3698,15 @@
         "alert_last_seen": "2024-03-24T07:07:35",
         "alert_detection_stopped": "2024-03-24T07:07:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "IRL266  ",
+        "hex": "4ca1ed",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca1ed",
+        "alert_detected": "2024-03-25T12:45:02",
+        "alert_last_seen": "2024-03-25T12:58:15",
+        "alert_detection_stopped": "2024-03-25T12:58:20",
+        "alert_status": "inactive"
     }
 ]
