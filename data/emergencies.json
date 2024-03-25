@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "IRL266  ",
+        "hex": "4ca1ed",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca1ed",
+        "alert_detected": "2024-03-25T12:45:02",
+        "alert_last_seen": "2024-03-25T12:52:39",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
