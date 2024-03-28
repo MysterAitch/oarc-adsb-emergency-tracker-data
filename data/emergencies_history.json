@@ -3788,5 +3788,15 @@
         "alert_last_seen": "2024-03-28T13:01:02",
         "alert_detection_stopped": "2024-03-28T13:01:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG6RX  ",
+        "hex": "40092b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40092b",
+        "alert_detected": "2024-03-28T20:13:12",
+        "alert_last_seen": "2024-03-28T20:16:47",
+        "alert_detection_stopped": "2024-03-28T20:16:52",
+        "alert_status": "inactive"
     }
 ]
