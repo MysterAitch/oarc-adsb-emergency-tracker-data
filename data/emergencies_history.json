@@ -3798,5 +3798,15 @@
         "alert_last_seen": "2024-03-28T20:16:47",
         "alert_detection_stopped": "2024-03-28T20:16:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GWARY   ",
+        "hex": "403e55",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=403e55",
+        "alert_detected": "2024-03-30T10:01:38",
+        "alert_last_seen": "2024-03-30T10:02:53",
+        "alert_detection_stopped": "2024-03-30T10:02:58",
+        "alert_status": "inactive"
     }
 ]
