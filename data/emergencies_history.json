@@ -3808,5 +3808,15 @@
         "alert_last_seen": "2024-03-30T10:02:53",
         "alert_detection_stopped": "2024-03-30T10:02:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM94P  ",
+        "hex": "400ff4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ff4",
+        "alert_detected": "2024-04-02T16:06:02",
+        "alert_last_seen": "2024-04-02T16:07:08",
+        "alert_detection_stopped": "2024-04-02T16:07:13",
+        "alert_status": "inactive"
     }
 ]
