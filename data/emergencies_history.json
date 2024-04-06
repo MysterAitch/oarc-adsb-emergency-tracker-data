@@ -3848,5 +3848,15 @@
         "alert_last_seen": "2024-04-06T11:14:31",
         "alert_detection_stopped": "2024-04-06T11:14:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N710AM  ",
+        "hex": "a97c19",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a97c19",
+        "alert_detected": "2024-04-06T12:10:16",
+        "alert_last_seen": "2024-04-06T12:12:06",
+        "alert_detection_stopped": "2024-04-06T12:12:11",
+        "alert_status": "inactive"
     }
 ]
