@@ -3838,5 +3838,15 @@
         "alert_last_seen": "2024-04-04T10:03:43",
         "alert_detection_stopped": "2024-04-04T10:03:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "406c3a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c3a",
+        "alert_detected": "2024-04-06T10:46:47",
+        "alert_last_seen": "2024-04-06T11:14:31",
+        "alert_detection_stopped": "2024-04-06T11:14:36",
+        "alert_status": "inactive"
     }
 ]
