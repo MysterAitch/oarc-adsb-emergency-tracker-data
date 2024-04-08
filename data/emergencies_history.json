@@ -3858,5 +3858,15 @@
         "alert_last_seen": "2024-04-06T12:12:06",
         "alert_detection_stopped": "2024-04-06T12:12:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU40   ",
+        "hex": "400ed0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ed0",
+        "alert_detected": "2024-04-08T11:13:06",
+        "alert_last_seen": "2024-04-08T11:20:38",
+        "alert_detection_stopped": "2024-04-08T11:20:43",
+        "alert_status": "inactive"
     }
 ]
