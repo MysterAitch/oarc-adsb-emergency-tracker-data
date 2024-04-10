@@ -3878,5 +3878,15 @@
         "alert_last_seen": "2024-04-08T11:41:43",
         "alert_detection_stopped": "2024-04-08T11:41:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT14   ",
+        "hex": "43c8d1",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c8d1",
+        "alert_detected": "2024-04-10T10:15:37",
+        "alert_last_seen": "2024-04-10T10:18:22",
+        "alert_detection_stopped": "2024-04-10T10:18:27",
+        "alert_status": "inactive"
     }
 ]
