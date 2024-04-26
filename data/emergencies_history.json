@@ -3958,5 +3958,15 @@
         "alert_last_seen": "2024-04-24T17:32:00",
         "alert_detection_stopped": "2024-04-24T17:32:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL990  ",
+        "hex": "aa9300",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aa9300",
+        "alert_detected": "2024-04-26T08:47:31",
+        "alert_last_seen": "2024-04-26T09:00:03",
+        "alert_detection_stopped": "2024-04-26T09:00:08",
+        "alert_status": "inactive"
     }
 ]
