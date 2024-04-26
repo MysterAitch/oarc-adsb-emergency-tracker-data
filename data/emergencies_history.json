@@ -3968,5 +3968,15 @@
         "alert_last_seen": "2024-04-26T09:00:03",
         "alert_detection_stopped": "2024-04-26T09:00:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N3023W  ",
+        "hex": "a32996",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a32996",
+        "alert_detected": "2024-04-26T15:00:34",
+        "alert_last_seen": "2024-04-26T15:01:34",
+        "alert_detection_stopped": "2024-04-26T15:01:39",
+        "alert_status": "inactive"
     }
 ]
