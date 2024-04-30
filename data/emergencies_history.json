@@ -4028,5 +4028,15 @@
         "alert_last_seen": "2024-04-30T13:02:38",
         "alert_detection_stopped": "2024-04-30T13:02:43",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "OTIS03  ",
+        "hex": "ae040a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae040a",
+        "alert_detected": "2024-04-30T15:26:45",
+        "alert_last_seen": "2024-04-30T15:27:00",
+        "alert_detection_stopped": "2024-04-30T15:27:05",
+        "alert_status": "inactive"
     }
 ]
