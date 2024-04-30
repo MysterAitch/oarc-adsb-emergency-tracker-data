@@ -1,11 +1,11 @@
 [
     {
-        "flight": "PRF92   ",
+        "flight": "NONE",
         "hex": "43c8bb",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=43c8bb",
-        "alert_detected": "2024-04-30T15:27:05",
-        "alert_last_seen": "2024-04-30T15:31:36",
+        "alert_detected": "2024-04-30T15:36:12",
+        "alert_last_seen": "2024-04-30T15:37:53",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
