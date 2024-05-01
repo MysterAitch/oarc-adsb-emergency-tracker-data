@@ -4148,5 +4148,15 @@
         "alert_last_seen": "2024-05-01T09:45:22",
         "alert_detection_stopped": "2024-05-01T09:45:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCTCF   ",
+        "hex": "400d02",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400d02",
+        "alert_detected": "2024-05-01T13:51:09",
+        "alert_last_seen": "2024-05-01T13:57:01",
+        "alert_detection_stopped": "2024-05-01T13:57:06",
+        "alert_status": "inactive"
     }
 ]
