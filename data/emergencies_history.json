@@ -4138,5 +4138,15 @@
         "alert_last_seen": "2024-05-01T08:57:20",
         "alert_detection_stopped": "2024-05-01T08:57:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N604AJ  ",
+        "hex": "a7d624",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a7d624",
+        "alert_detected": "2024-05-01T09:41:31",
+        "alert_last_seen": "2024-05-01T09:45:22",
+        "alert_detection_stopped": "2024-05-01T09:45:27",
+        "alert_status": "inactive"
     }
 ]
