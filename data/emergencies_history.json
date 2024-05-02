@@ -4208,5 +4208,15 @@
         "alert_last_seen": "2024-05-02T19:12:45",
         "alert_detection_stopped": "2024-05-02T19:12:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCIAW   ",
+        "hex": "406999",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406999",
+        "alert_detected": "2024-05-02T19:15:11",
+        "alert_last_seen": "2024-05-02T19:17:31",
+        "alert_detection_stopped": "2024-05-02T19:17:36",
+        "alert_status": "inactive"
     }
 ]
