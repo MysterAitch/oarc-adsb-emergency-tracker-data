@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RCH229  ",
+        "hex": "ae023e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae023e",
+        "alert_detected": "2024-05-03T17:21:33",
+        "alert_last_seen": "2024-05-03T17:23:23",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
