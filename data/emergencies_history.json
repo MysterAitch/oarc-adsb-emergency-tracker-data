@@ -4238,5 +4238,15 @@
         "alert_last_seen": "2024-05-02T19:58:05",
         "alert_detection_stopped": "2024-05-02T19:58:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW2TC  ",
+        "hex": "407463",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407463",
+        "alert_detected": "2024-05-03T10:14:48",
+        "alert_last_seen": "2024-05-03T10:37:38",
+        "alert_detection_stopped": "2024-05-03T10:37:43",
+        "alert_status": "inactive"
     }
 ]

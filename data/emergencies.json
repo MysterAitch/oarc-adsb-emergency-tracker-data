@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BAW2TC  ",
-        "hex": "407463",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407463",
-        "alert_detected": "2024-05-03T10:14:48",
-        "alert_last_seen": "2024-05-03T10:33:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
