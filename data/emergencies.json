@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EZY62TA ",
-        "hex": "40622b",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40622b",
-        "alert_detected": "2024-05-05T18:03:38",
-        "alert_last_seen": "2024-05-05T18:14:10",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
