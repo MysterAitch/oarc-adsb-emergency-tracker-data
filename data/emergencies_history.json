@@ -4338,5 +4338,15 @@
         "alert_last_seen": "2024-05-05T19:02:33",
         "alert_detection_stopped": "2024-05-05T19:02:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOBAL   ",
+        "hex": "400c29",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400c29",
+        "alert_detected": "2024-05-05T19:10:44",
+        "alert_last_seen": "2024-05-05T19:12:25",
+        "alert_detection_stopped": "2024-05-05T19:12:30",
+        "alert_status": "inactive"
     }
 ]
