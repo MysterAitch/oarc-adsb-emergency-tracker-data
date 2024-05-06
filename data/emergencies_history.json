@@ -4348,5 +4348,15 @@
         "alert_last_seen": "2024-05-05T19:12:25",
         "alert_detection_stopped": "2024-05-05T19:12:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY3498 ",
+        "hex": "40756c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40756c",
+        "alert_detected": "2024-05-06T02:12:04",
+        "alert_last_seen": "2024-05-06T02:27:46",
+        "alert_detection_stopped": "2024-05-06T02:27:51",
+        "alert_status": "inactive"
     }
 ]
