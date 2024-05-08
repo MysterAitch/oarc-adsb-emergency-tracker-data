@@ -4368,5 +4368,15 @@
         "alert_last_seen": "2024-05-08T16:55:59",
         "alert_detection_stopped": "2024-05-08T16:56:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FDX27   ",
+        "hex": "a7818f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a7818f",
+        "alert_detected": "2024-05-08T20:15:03",
+        "alert_last_seen": "2024-05-08T21:02:58",
+        "alert_detection_stopped": "2024-05-08T21:03:04",
+        "alert_status": "inactive"
     }
 ]
