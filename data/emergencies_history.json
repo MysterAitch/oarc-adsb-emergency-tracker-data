@@ -4388,5 +4388,15 @@
         "alert_last_seen": "2024-05-09T12:16:01",
         "alert_detection_stopped": "2024-05-09T12:16:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL905  ",
+        "hex": "a9178d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9178d",
+        "alert_detected": "2024-05-09T14:20:39",
+        "alert_last_seen": "2024-05-09T14:38:34",
+        "alert_detection_stopped": "2024-05-09T14:38:39",
+        "alert_status": "inactive"
     }
 ]
