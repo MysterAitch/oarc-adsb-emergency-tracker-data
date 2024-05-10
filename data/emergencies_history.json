@@ -4398,5 +4398,25 @@
         "alert_last_seen": "2024-05-09T14:38:34",
         "alert_detection_stopped": "2024-05-09T14:38:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCEZI   ",
+        "hex": "40556f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40556f",
+        "alert_detected": "2024-05-10T12:55:06",
+        "alert_last_seen": "2024-05-10T12:56:36",
+        "alert_detection_stopped": "2024-05-10T12:56:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "40556f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40556f",
+        "alert_detected": "2024-05-10T13:02:47",
+        "alert_last_seen": "2024-05-10T13:04:28",
+        "alert_detection_stopped": "2024-05-10T13:04:33",
+        "alert_status": "inactive"
     }
 ]
