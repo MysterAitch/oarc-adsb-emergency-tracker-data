@@ -4528,5 +4528,15 @@
         "alert_last_seen": "2024-05-14T16:09:28",
         "alert_detection_stopped": "2024-05-14T16:09:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SAS34N  ",
+        "hex": "4ac9f4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ac9f4",
+        "alert_detected": "2024-05-15T08:21:11",
+        "alert_last_seen": "2024-05-15T09:04:00",
+        "alert_detection_stopped": "2024-05-15T09:04:05",
+        "alert_status": "inactive"
     }
 ]
