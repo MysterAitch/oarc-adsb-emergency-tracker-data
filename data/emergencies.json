@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SAS34N  ",
+        "hex": "4ac9f4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ac9f4",
+        "alert_detected": "2024-05-15T08:21:11",
+        "alert_last_seen": "2024-05-15T08:24:37",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
