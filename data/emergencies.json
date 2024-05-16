@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SHT12K  ",
-        "hex": "4008f1",
-        "squawk": "1461",
-        "link": "https://adsb.oarc.uk/?icao=4008f1",
-        "alert_detected": "2024-05-16T08:29:32",
-        "alert_last_seen": "2024-05-16T08:29:43",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
