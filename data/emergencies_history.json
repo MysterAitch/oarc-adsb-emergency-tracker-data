@@ -4618,5 +4618,15 @@
         "alert_last_seen": "2024-05-21T10:17:32",
         "alert_detection_stopped": "2024-05-21T10:17:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL935  ",
+        "hex": "a2cb13",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a2cb13",
+        "alert_detected": "2024-05-21T15:18:50",
+        "alert_last_seen": "2024-05-21T15:41:35",
+        "alert_detection_stopped": "2024-05-21T15:41:40",
+        "alert_status": "inactive"
     }
 ]
