@@ -4648,5 +4648,15 @@
         "alert_last_seen": "2024-05-22T12:32:41",
         "alert_detection_stopped": "2024-05-22T12:32:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "APOLLO21",
+        "hex": "43c6cb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6cb",
+        "alert_detected": "2024-05-22T15:21:55",
+        "alert_last_seen": "2024-05-22T15:29:17",
+        "alert_detection_stopped": "2024-05-22T15:29:22",
+        "alert_status": "inactive"
     }
 ]
