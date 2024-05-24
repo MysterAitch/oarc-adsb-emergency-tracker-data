@@ -4718,5 +4718,25 @@
         "alert_last_seen": "2024-05-24T14:03:20",
         "alert_detection_stopped": "2024-05-24T14:03:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EJM18   ",
+        "hex": "a13e9d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a13e9d",
+        "alert_detected": "2024-05-24T13:58:23",
+        "alert_last_seen": "2024-05-24T14:14:23",
+        "alert_detection_stopped": "2024-05-24T14:14:28",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "A7HMD   ",
+        "hex": "06a0c4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a0c4",
+        "alert_detected": "2024-05-24T14:15:44",
+        "alert_last_seen": "2024-05-24T14:15:54",
+        "alert_detection_stopped": "2024-05-24T14:15:59",
+        "alert_status": "inactive"
     }
 ]
