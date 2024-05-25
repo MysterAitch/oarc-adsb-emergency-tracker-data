@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "BAW63GV ",
+        "hex": "4008e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4008e5",
+        "alert_detected": "2024-05-25T07:05:44",
+        "alert_last_seen": "2024-05-25T07:11:31",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
