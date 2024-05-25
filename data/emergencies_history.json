@@ -4758,5 +4758,35 @@
         "alert_last_seen": "2024-05-24T16:40:22",
         "alert_detection_stopped": "2024-05-24T16:40:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW63GV ",
+        "hex": "4008e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4008e5",
+        "alert_detected": "2024-05-25T07:05:44",
+        "alert_last_seen": "2024-05-25T07:18:17",
+        "alert_detection_stopped": "2024-05-25T07:18:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW63GV ",
+        "hex": "4008e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4008e5",
+        "alert_detected": "2024-05-25T07:18:52",
+        "alert_last_seen": "2024-05-25T07:20:23",
+        "alert_detection_stopped": "2024-05-25T07:20:28",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW63GV ",
+        "hex": "4008e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4008e5",
+        "alert_detected": "2024-05-25T07:20:33",
+        "alert_last_seen": "2024-05-25T07:21:34",
+        "alert_detection_stopped": "2024-05-25T07:21:39",
+        "alert_status": "inactive"
     }
 ]
