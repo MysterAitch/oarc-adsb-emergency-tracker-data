@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "KLM77A  ",
+        "hex": "485779",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=485779",
+        "alert_detected": "2024-05-27T20:23:41",
+        "alert_last_seen": "2024-05-27T20:28:53",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
