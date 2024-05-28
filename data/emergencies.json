@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "BTNIA32 ",
+        "hex": "400e8e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e8e",
+        "alert_detected": "2024-05-28T14:43:42",
+        "alert_last_seen": "2024-05-28T14:44:23",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
