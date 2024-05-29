@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DLH4YJ  ",
+        "hex": "3c6484",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c6484",
+        "alert_detected": "2024-05-29T07:28:00",
+        "alert_last_seen": "2024-05-29T07:33:27",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
