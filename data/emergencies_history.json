@@ -4958,5 +4958,15 @@
         "alert_last_seen": "2024-05-30T11:31:00",
         "alert_detection_stopped": "2024-05-30T11:31:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WTN10   ",
+        "hex": "06a21d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=06a21d",
+        "alert_detected": "2024-05-30T14:50:33",
+        "alert_last_seen": "2024-05-30T14:50:39",
+        "alert_detection_stopped": "2024-05-30T14:50:44",
+        "alert_status": "inactive"
     }
 ]
