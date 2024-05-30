@@ -4928,5 +4928,25 @@
         "alert_last_seen": "2024-05-30T09:51:19",
         "alert_detection_stopped": "2024-05-30T09:51:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "APOLLO11",
+        "hex": "43c746",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c746",
+        "alert_detected": "2024-05-30T10:13:43",
+        "alert_last_seen": "2024-05-30T10:14:09",
+        "alert_detection_stopped": "2024-05-30T10:14:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "APOLLO11",
+        "hex": "43c746",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c746",
+        "alert_detected": "2024-05-30T10:14:34",
+        "alert_last_seen": "2024-05-30T10:15:19",
+        "alert_detection_stopped": "2024-05-30T10:15:24",
+        "alert_status": "inactive"
     }
 ]
