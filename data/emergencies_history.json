@@ -4978,5 +4978,15 @@
         "alert_last_seen": "2024-05-31T12:33:42",
         "alert_detection_stopped": "2024-05-31T12:33:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GTCNM   ",
+        "hex": "4047fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4047fd",
+        "alert_detected": "2024-05-31T16:13:24",
+        "alert_last_seen": "2024-05-31T16:13:39",
+        "alert_detection_stopped": "2024-05-31T16:13:44",
+        "alert_status": "inactive"
     }
 ]
