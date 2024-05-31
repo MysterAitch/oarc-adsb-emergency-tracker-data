@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BCI96C  ",
-        "hex": "407dcd",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407dcd",
-        "alert_detected": "2024-05-31T17:23:38",
-        "alert_last_seen": "2024-05-31T17:26:30",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
