@@ -5038,5 +5038,15 @@
         "alert_last_seen": "2024-06-05T11:36:46",
         "alert_detection_stopped": "2024-06-05T11:36:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBBMW   ",
+        "hex": "401af1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401af1",
+        "alert_detected": "2024-06-05T15:45:13",
+        "alert_last_seen": "2024-06-05T15:45:13",
+        "alert_detection_stopped": "2024-06-05T15:45:18",
+        "alert_status": "inactive"
     }
 ]
