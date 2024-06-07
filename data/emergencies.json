@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GSPED   ",
+        "hex": "405d98",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405d98",
+        "alert_detected": "2024-06-07T12:26:53",
+        "alert_last_seen": "2024-06-07T12:32:40",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
