@@ -5088,5 +5088,15 @@
         "alert_last_seen": "2024-06-07T12:59:23",
         "alert_detection_stopped": "2024-06-07T12:59:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM9PB  ",
+        "hex": "40773b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40773b",
+        "alert_detected": "2024-06-08T06:48:43",
+        "alert_last_seen": "2024-06-08T07:12:43",
+        "alert_detection_stopped": "2024-06-08T07:12:48",
+        "alert_status": "inactive"
     }
 ]
