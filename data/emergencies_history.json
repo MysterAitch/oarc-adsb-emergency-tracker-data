@@ -5138,5 +5138,15 @@
         "alert_last_seen": "2024-06-09T12:40:21",
         "alert_detection_stopped": "2024-06-09T12:40:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GVELA   ",
+        "hex": "402ff4",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402ff4",
+        "alert_detected": "2024-06-09T15:24:56",
+        "alert_last_seen": "2024-06-09T15:31:13",
+        "alert_detection_stopped": "2024-06-09T15:31:18",
+        "alert_status": "inactive"
     }
 ]
