@@ -5128,5 +5128,15 @@
         "alert_last_seen": "2024-06-08T17:33:30",
         "alert_detection_stopped": "2024-06-08T17:33:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBNSR   ",
+        "hex": "402989",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402989",
+        "alert_detected": "2024-06-09T12:35:04",
+        "alert_last_seen": "2024-06-09T12:40:21",
+        "alert_detection_stopped": "2024-06-09T12:40:26",
+        "alert_status": "inactive"
     }
 ]
