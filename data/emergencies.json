@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR818C ",
+        "hex": "4cadb8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cadb8",
+        "alert_detected": "2024-06-10T06:58:45",
+        "alert_last_seen": "2024-06-10T07:01:06",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
