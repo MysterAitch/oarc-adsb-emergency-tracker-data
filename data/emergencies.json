@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "BAW143  ",
+        "hex": "406a9e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406a9e",
+        "alert_detected": "2024-06-11T11:44:49",
+        "alert_last_seen": "2024-06-11T11:45:55",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
