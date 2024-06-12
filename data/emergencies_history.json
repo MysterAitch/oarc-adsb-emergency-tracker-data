@@ -5198,5 +5198,15 @@
         "alert_last_seen": "2024-06-12T09:59:41",
         "alert_detection_stopped": "2024-06-12T09:59:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBXAY   ",
+        "hex": "403d20",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=403d20",
+        "alert_detected": "2024-06-12T13:27:21",
+        "alert_last_seen": "2024-06-12T13:27:26",
+        "alert_detection_stopped": "2024-06-12T13:27:31",
+        "alert_status": "inactive"
     }
 ]
