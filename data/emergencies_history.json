@@ -5228,5 +5228,15 @@
         "alert_last_seen": "2024-06-13T15:46:52",
         "alert_detection_stopped": "2024-06-13T15:46:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM51D  ",
+        "hex": "485876",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=485876",
+        "alert_detected": "2024-06-13T18:52:26",
+        "alert_last_seen": "2024-06-13T18:59:38",
+        "alert_detection_stopped": "2024-06-13T18:59:43",
+        "alert_status": "inactive"
     }
 ]
