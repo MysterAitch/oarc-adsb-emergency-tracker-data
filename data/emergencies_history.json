@@ -5258,5 +5258,15 @@
         "alert_last_seen": "2024-06-15T05:27:08",
         "alert_detection_stopped": "2024-06-15T05:27:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBAXY   ",
+        "hex": "401a93",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401a93",
+        "alert_detected": "2024-06-15T10:47:55",
+        "alert_last_seen": "2024-06-15T10:48:55",
+        "alert_detection_stopped": "2024-06-15T10:49:00",
+        "alert_status": "inactive"
     }
 ]
