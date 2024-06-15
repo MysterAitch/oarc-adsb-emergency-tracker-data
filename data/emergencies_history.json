@@ -5248,5 +5248,15 @@
         "alert_last_seen": "2024-06-14T12:52:47",
         "alert_detection_stopped": "2024-06-14T12:52:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL16   ",
+        "hex": "abac50",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abac50",
+        "alert_detected": "2024-06-15T05:19:56",
+        "alert_last_seen": "2024-06-15T05:27:08",
+        "alert_detection_stopped": "2024-06-15T05:27:13",
+        "alert_status": "inactive"
     }
 ]

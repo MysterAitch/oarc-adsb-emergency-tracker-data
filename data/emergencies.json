@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DAL16   ",
-        "hex": "abac50",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=abac50",
-        "alert_detected": "2024-06-15T05:19:56",
-        "alert_last_seen": "2024-06-15T05:25:17",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
