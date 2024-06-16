@@ -5268,5 +5268,15 @@
         "alert_last_seen": "2024-06-15T10:48:55",
         "alert_detection_stopped": "2024-06-15T10:49:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBAMU   ",
+        "hex": "401a10",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401a10",
+        "alert_detected": "2024-06-16T14:45:24",
+        "alert_last_seen": "2024-06-16T14:46:10",
+        "alert_detection_stopped": "2024-06-16T14:46:15",
+        "alert_status": "inactive"
     }
 ]
