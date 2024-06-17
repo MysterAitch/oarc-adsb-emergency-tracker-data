@@ -5328,5 +5328,15 @@
         "alert_last_seen": "2024-06-17T11:38:14",
         "alert_detection_stopped": "2024-06-17T11:38:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF35   ",
+        "hex": "43c8b4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8b4",
+        "alert_detected": "2024-06-17T13:53:34",
+        "alert_last_seen": "2024-06-17T13:58:11",
+        "alert_detection_stopped": "2024-06-17T13:58:16",
+        "alert_status": "inactive"
     }
 ]
