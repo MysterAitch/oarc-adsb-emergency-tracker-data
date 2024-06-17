@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EMU5    ",
-        "hex": "400edb",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=400edb",
-        "alert_detected": "2024-06-17T11:37:18",
-        "alert_last_seen": "2024-06-17T11:38:09",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
