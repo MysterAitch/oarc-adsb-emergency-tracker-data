@@ -5368,5 +5368,15 @@
         "alert_last_seen": "2024-06-18T13:32:04",
         "alert_detection_stopped": "2024-06-18T13:32:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "F35LTNG ",
+        "hex": "af351f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2024-06-18T15:45:45",
+        "alert_last_seen": "2024-06-18T15:47:41",
+        "alert_detection_stopped": "2024-06-18T15:47:46",
+        "alert_status": "inactive"
     }
 ]
