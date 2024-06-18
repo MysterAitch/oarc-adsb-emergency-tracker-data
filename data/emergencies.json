@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS6MT  ",
-        "hex": "4062d5",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4062d5",
-        "alert_detected": "2024-06-19T00:00:31",
-        "alert_last_seen": "2024-06-19T00:05:08",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
