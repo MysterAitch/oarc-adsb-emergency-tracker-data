@@ -5428,5 +5428,15 @@
         "alert_last_seen": "2024-06-19T12:28:22",
         "alert_detection_stopped": "2024-06-19T12:28:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FGIED   ",
+        "hex": "392083",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=392083",
+        "alert_detected": "2024-06-19T14:47:16",
+        "alert_last_seen": "2024-06-19T14:47:56",
+        "alert_detection_stopped": "2024-06-19T14:48:01",
+        "alert_status": "inactive"
     }
 ]
