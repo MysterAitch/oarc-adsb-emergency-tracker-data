@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AFR38MY ",
-        "hex": "394c18",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=394c18",
-        "alert_detected": "2024-06-20T12:51:52",
-        "alert_last_seen": "2024-06-20T12:56:49",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
