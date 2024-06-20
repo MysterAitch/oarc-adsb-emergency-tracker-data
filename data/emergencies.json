@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "CFE5C   ",
+        "hex": "40676a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40676a",
+        "alert_detected": "2024-06-20T08:18:34",
+        "alert_last_seen": "2024-06-20T08:20:55",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
