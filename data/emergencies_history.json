@@ -5448,5 +5448,15 @@
         "alert_last_seen": "2024-06-19T20:49:11",
         "alert_detection_stopped": "2024-06-19T20:49:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE5C   ",
+        "hex": "40676a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40676a",
+        "alert_detected": "2024-06-20T08:18:34",
+        "alert_last_seen": "2024-06-20T08:47:11",
+        "alert_detection_stopped": "2024-06-20T08:47:16",
+        "alert_status": "inactive"
     }
 ]
