@@ -5488,5 +5488,15 @@
         "alert_last_seen": "2024-06-21T09:33:33",
         "alert_detection_stopped": "2024-06-21T09:33:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBRIV   ",
+        "hex": "402f74",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402f74",
+        "alert_detected": "2024-06-21T19:20:22",
+        "alert_last_seen": "2024-06-21T19:20:22",
+        "alert_detection_stopped": "2024-06-21T19:20:27",
+        "alert_status": "inactive"
     }
 ]
