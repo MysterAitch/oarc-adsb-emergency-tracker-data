@@ -5498,5 +5498,35 @@
         "alert_last_seen": "2024-06-21T19:20:22",
         "alert_detection_stopped": "2024-06-21T19:20:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MAC224B ",
+        "hex": "02012b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=02012b",
+        "alert_detected": "2024-06-22T12:21:11",
+        "alert_last_seen": "2024-06-22T12:22:42",
+        "alert_detection_stopped": "2024-06-22T12:22:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "02012b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=02012b",
+        "alert_detected": "2024-06-22T12:23:02",
+        "alert_last_seen": "2024-06-22T12:23:02",
+        "alert_detection_stopped": "2024-06-22T12:23:08",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "02012b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=02012b",
+        "alert_detected": "2024-06-22T12:23:28",
+        "alert_last_seen": "2024-06-22T12:24:23",
+        "alert_detection_stopped": "2024-06-22T12:24:28",
+        "alert_status": "inactive"
     }
 ]

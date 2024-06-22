@@ -1,11 +1,11 @@
 [
     {
-        "flight": "MAC224B ",
+        "flight": "NONE",
         "hex": "02012b",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=02012b",
-        "alert_detected": "2024-06-22T12:21:11",
-        "alert_last_seen": "2024-06-22T12:21:27",
+        "alert_detected": "2024-06-22T12:25:03",
+        "alert_last_seen": "2024-06-22T12:27:45",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
