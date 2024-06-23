@@ -5558,5 +5558,15 @@
         "alert_last_seen": "2024-06-22T19:41:28",
         "alert_detection_stopped": "2024-06-22T19:41:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM705  ",
+        "hex": "484369",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=484369",
+        "alert_detected": "2024-06-23T13:01:34",
+        "alert_last_seen": "2024-06-23T13:16:53",
+        "alert_detection_stopped": "2024-06-23T13:16:58",
+        "alert_status": "inactive"
     }
 ]
