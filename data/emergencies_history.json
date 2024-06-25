@@ -5648,5 +5648,25 @@
         "alert_last_seen": "2024-06-25T09:39:43",
         "alert_detection_stopped": "2024-06-25T09:39:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCLNO   ",
+        "hex": "407a16",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407a16",
+        "alert_detected": "2024-06-25T10:51:34",
+        "alert_last_seen": "2024-06-25T10:54:30",
+        "alert_detection_stopped": "2024-06-25T10:54:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "407a16",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407a16",
+        "alert_detected": "2024-06-25T10:56:11",
+        "alert_last_seen": "2024-06-25T10:57:06",
+        "alert_detection_stopped": "2024-06-25T10:57:11",
+        "alert_status": "inactive"
     }
 ]
