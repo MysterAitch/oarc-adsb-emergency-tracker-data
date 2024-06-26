@@ -5688,5 +5688,15 @@
         "alert_last_seen": "2024-06-25T23:51:44",
         "alert_detection_stopped": "2024-06-25T23:51:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCBBC   ",
+        "hex": "400d23",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400d23",
+        "alert_detected": "2024-06-26T10:56:46",
+        "alert_last_seen": "2024-06-26T10:57:02",
+        "alert_detection_stopped": "2024-06-26T10:57:07",
+        "alert_status": "inactive"
     }
 ]
