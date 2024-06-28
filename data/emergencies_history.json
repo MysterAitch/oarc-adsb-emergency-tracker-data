@@ -5788,5 +5788,15 @@
         "alert_last_seen": "2024-06-26T13:57:35",
         "alert_detection_stopped": "2024-06-26T13:57:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N801KF  ",
+        "hex": "aae67b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aae67b",
+        "alert_detected": "2024-06-28T06:27:45",
+        "alert_last_seen": "2024-06-28T07:06:19",
+        "alert_detection_stopped": "2024-06-28T07:06:24",
+        "alert_status": "inactive"
     }
 ]
