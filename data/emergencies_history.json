@@ -5818,5 +5818,15 @@
         "alert_last_seen": "2024-06-29T13:23:42",
         "alert_detection_stopped": "2024-06-29T13:23:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR15UP ",
+        "hex": "39e684",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=39e684",
+        "alert_detected": "2024-06-29T20:31:45",
+        "alert_last_seen": "2024-06-29T20:34:06",
+        "alert_detection_stopped": "2024-06-29T20:34:11",
+        "alert_status": "inactive"
     }
 ]
