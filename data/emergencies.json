@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GOCFD   ",
+        "hex": "402d8b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402d8b",
+        "alert_detected": "2024-06-30T09:49:08",
+        "alert_last_seen": "2024-06-30T09:52:09",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
