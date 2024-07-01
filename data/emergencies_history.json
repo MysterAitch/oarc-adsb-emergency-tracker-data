@@ -5858,5 +5858,25 @@
         "alert_last_seen": "2024-07-01T00:27:08",
         "alert_detection_stopped": "2024-07-01T00:27:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH737  ",
+        "hex": "ae1465",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae1465",
+        "alert_detected": "2024-07-01T10:04:05",
+        "alert_last_seen": "2024-07-01T10:48:21",
+        "alert_detection_stopped": "2024-07-01T10:48:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "ae1465",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae1465",
+        "alert_detected": "2024-07-01T10:49:11",
+        "alert_last_seen": "2024-07-01T10:51:37",
+        "alert_detection_stopped": "2024-07-01T10:51:42",
+        "alert_status": "inactive"
     }
 ]
