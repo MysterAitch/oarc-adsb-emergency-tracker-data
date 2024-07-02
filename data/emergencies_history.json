@@ -5878,5 +5878,15 @@
         "alert_last_seen": "2024-07-01T10:51:37",
         "alert_detection_stopped": "2024-07-01T10:51:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SPARTA11",
+        "hex": "43c610",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c610",
+        "alert_detected": "2024-07-02T11:47:02",
+        "alert_last_seen": "2024-07-02T12:01:47",
+        "alert_detection_stopped": "2024-07-02T12:01:52",
+        "alert_status": "inactive"
     }
 ]
