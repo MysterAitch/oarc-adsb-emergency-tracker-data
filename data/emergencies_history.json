@@ -5918,5 +5918,15 @@
         "alert_last_seen": "2024-07-02T19:29:05",
         "alert_detection_stopped": "2024-07-02T19:29:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CMNDO98 ",
+        "hex": "43c614",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c614",
+        "alert_detected": "2024-07-03T12:59:41",
+        "alert_last_seen": "2024-07-03T13:00:11",
+        "alert_detection_stopped": "2024-07-03T13:00:16",
+        "alert_status": "inactive"
     }
 ]
