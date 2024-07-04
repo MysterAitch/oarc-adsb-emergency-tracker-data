@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "KNGHT46 ",
-        "hex": "43c2b2",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c2b2",
-        "alert_detected": "2024-07-04T23:42:41",
-        "alert_last_seen": "2024-07-04T23:45:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

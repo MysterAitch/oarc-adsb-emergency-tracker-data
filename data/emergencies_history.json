@@ -5988,5 +5988,15 @@
         "alert_last_seen": "2024-07-04T17:48:19",
         "alert_detection_stopped": "2024-07-04T17:48:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KNGHT46 ",
+        "hex": "43c2b2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c2b2",
+        "alert_detected": "2024-07-04T23:42:41",
+        "alert_last_seen": "2024-07-04T23:46:37",
+        "alert_detection_stopped": "2024-07-04T23:46:42",
+        "alert_status": "inactive"
     }
 ]
