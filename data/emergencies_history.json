@@ -5968,5 +5968,15 @@
         "alert_last_seen": "2024-07-04T08:56:45",
         "alert_detection_stopped": "2024-07-04T08:56:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY59AY ",
+        "hex": "4078f0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4078f0",
+        "alert_detected": "2024-07-04T08:57:05",
+        "alert_last_seen": "2024-07-04T10:30:11",
+        "alert_detection_stopped": "2024-07-04T10:30:16",
+        "alert_status": "inactive"
     }
 ]
