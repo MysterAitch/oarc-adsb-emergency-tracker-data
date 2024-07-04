@@ -5978,5 +5978,15 @@
         "alert_last_seen": "2024-07-04T10:30:11",
         "alert_detection_stopped": "2024-07-04T10:30:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOODW   ",
+        "hex": "402948",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402948",
+        "alert_detected": "2024-07-04T17:41:12",
+        "alert_last_seen": "2024-07-04T17:48:19",
+        "alert_detection_stopped": "2024-07-04T17:48:24",
+        "alert_status": "inactive"
     }
 ]
