@@ -5998,5 +5998,15 @@
         "alert_last_seen": "2024-07-04T23:46:37",
         "alert_detection_stopped": "2024-07-04T23:46:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LNCLN1  ",
+        "hex": "43c8c4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c4",
+        "alert_detected": "2024-07-05T11:29:23",
+        "alert_last_seen": "2024-07-05T11:31:03",
+        "alert_detection_stopped": "2024-07-05T11:31:08",
+        "alert_status": "inactive"
     }
 ]
