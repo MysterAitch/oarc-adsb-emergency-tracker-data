@@ -6018,5 +6018,15 @@
         "alert_last_seen": "2024-07-05T19:47:40",
         "alert_detection_stopped": "2024-07-05T19:47:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TAP752  ",
+        "hex": "4952c2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4952c2",
+        "alert_detected": "2024-07-07T08:38:02",
+        "alert_last_seen": "2024-07-07T08:40:42",
+        "alert_detection_stopped": "2024-07-07T08:40:47",
+        "alert_status": "inactive"
     }
 ]
