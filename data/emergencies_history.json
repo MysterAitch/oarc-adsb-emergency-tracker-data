@@ -6048,5 +6048,35 @@
         "alert_last_seen": "2024-07-08T09:12:07",
         "alert_detection_stopped": "2024-07-08T09:12:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL266  ",
+        "hex": "ab5365",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab5365",
+        "alert_detected": "2024-07-08T20:02:17",
+        "alert_last_seen": "2024-07-08T20:07:33",
+        "alert_detection_stopped": "2024-07-08T20:07:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL266  ",
+        "hex": "ab5365",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab5365",
+        "alert_detected": "2024-07-08T20:07:48",
+        "alert_last_seen": "2024-07-08T20:10:39",
+        "alert_detection_stopped": "2024-07-08T20:10:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL266  ",
+        "hex": "ab5365",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab5365",
+        "alert_detected": "2024-07-08T20:11:04",
+        "alert_last_seen": "2024-07-08T20:12:55",
+        "alert_detection_stopped": "2024-07-08T20:13:00",
+        "alert_status": "inactive"
     }
 ]
