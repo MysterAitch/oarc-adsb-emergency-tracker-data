@@ -6078,5 +6078,15 @@
         "alert_last_seen": "2024-07-08T20:12:55",
         "alert_detection_stopped": "2024-07-08T20:13:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GHCNX   ",
+        "hex": "407968",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=407968",
+        "alert_detected": "2024-07-09T08:46:42",
+        "alert_last_seen": "2024-07-09T08:46:53",
+        "alert_detection_stopped": "2024-07-09T08:46:58",
+        "alert_status": "inactive"
     }
 ]
