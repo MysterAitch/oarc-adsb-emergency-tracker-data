@@ -6108,5 +6108,15 @@
         "alert_last_seen": "2024-07-10T12:03:17",
         "alert_detection_stopped": "2024-07-10T12:03:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOFFC   ",
+        "hex": "407faa",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407faa",
+        "alert_detected": "2024-07-10T17:08:52",
+        "alert_last_seen": "2024-07-10T17:09:03",
+        "alert_detection_stopped": "2024-07-10T17:09:08",
+        "alert_status": "inactive"
     }
 ]
