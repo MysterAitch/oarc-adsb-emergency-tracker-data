@@ -6098,5 +6098,15 @@
         "alert_last_seen": "2024-07-09T11:05:34",
         "alert_detection_stopped": "2024-07-09T11:05:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SUMO90  ",
+        "hex": "ae6042",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae6042",
+        "alert_detected": "2024-07-10T12:03:07",
+        "alert_last_seen": "2024-07-10T12:03:17",
+        "alert_detection_stopped": "2024-07-10T12:03:22",
+        "alert_status": "inactive"
     }
 ]
