@@ -6138,5 +6138,25 @@
         "alert_last_seen": "2024-07-11T10:43:09",
         "alert_detection_stopped": "2024-07-11T10:43:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKJI   ",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2024-07-11T14:27:31",
+        "alert_last_seen": "2024-07-11T14:33:38",
+        "alert_detection_stopped": "2024-07-11T14:33:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKJI   ",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2024-07-11T14:34:18",
+        "alert_last_seen": "2024-07-11T14:35:49",
+        "alert_detection_stopped": "2024-07-11T14:35:54",
+        "alert_status": "inactive"
     }
 ]
