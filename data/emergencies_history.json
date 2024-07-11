@@ -6128,5 +6128,15 @@
         "alert_last_seen": "2024-07-10T17:37:34",
         "alert_detection_stopped": "2024-07-10T17:37:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCGVX   ",
+        "hex": "4065b6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4065b6",
+        "alert_detected": "2024-07-11T10:42:43",
+        "alert_last_seen": "2024-07-11T10:43:09",
+        "alert_detection_stopped": "2024-07-11T10:43:14",
+        "alert_status": "inactive"
     }
 ]
