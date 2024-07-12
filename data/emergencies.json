@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "MAPLE67 ",
-        "hex": "43c6c1",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c6c1",
-        "alert_detected": "2024-07-12T09:54:55",
-        "alert_last_seen": "2024-07-12T09:55:51",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
