@@ -6198,5 +6198,15 @@
         "alert_last_seen": "2024-07-12T09:59:07",
         "alert_detection_stopped": "2024-07-12T09:59:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS52WT ",
+        "hex": "4062d5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4062d5",
+        "alert_detected": "2024-07-12T15:07:19",
+        "alert_last_seen": "2024-07-12T15:24:38",
+        "alert_detection_stopped": "2024-07-12T15:24:43",
+        "alert_status": "inactive"
     }
 ]
