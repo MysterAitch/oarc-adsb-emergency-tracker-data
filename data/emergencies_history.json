@@ -6168,5 +6168,25 @@
         "alert_last_seen": "2024-07-11T15:40:30",
         "alert_detection_stopped": "2024-07-11T15:40:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BCS4EP  ",
+        "hex": "345292",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=345292",
+        "alert_detected": "2024-07-12T02:14:27",
+        "alert_last_seen": "2024-07-12T02:19:08",
+        "alert_detection_stopped": "2024-07-12T02:19:13",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BCS4EP  ",
+        "hex": "345292",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=345292",
+        "alert_detected": "2024-07-12T02:19:43",
+        "alert_last_seen": "2024-07-12T02:27:09",
+        "alert_detection_stopped": "2024-07-12T02:27:14",
+        "alert_status": "inactive"
     }
 ]
