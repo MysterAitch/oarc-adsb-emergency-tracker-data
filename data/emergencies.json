@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GCICK   ",
+        "hex": "406a97",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406a97",
+        "alert_detected": "2024-07-13T17:47:23",
+        "alert_last_seen": "2024-07-13T17:47:43",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
