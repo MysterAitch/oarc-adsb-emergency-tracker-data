@@ -6248,5 +6248,15 @@
         "alert_last_seen": "2024-07-14T08:37:03",
         "alert_detection_stopped": "2024-07-14T08:37:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL293  ",
+        "hex": "a9aebe",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9aebe",
+        "alert_detected": "2024-07-15T05:20:02",
+        "alert_last_seen": "2024-07-15T05:52:32",
+        "alert_detection_stopped": "2024-07-15T05:52:37",
+        "alert_status": "inactive"
     }
 ]
