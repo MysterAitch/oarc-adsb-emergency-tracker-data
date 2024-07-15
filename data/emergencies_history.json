@@ -6268,5 +6268,15 @@
         "alert_last_seen": "2024-07-15T10:37:04",
         "alert_detection_stopped": "2024-07-15T10:37:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MLEOG   ",
+        "hex": "424b6c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=424b6c",
+        "alert_detected": "2024-07-15T11:23:30",
+        "alert_last_seen": "2024-07-15T11:26:06",
+        "alert_detection_stopped": "2024-07-15T11:26:11",
+        "alert_status": "inactive"
     }
 ]
