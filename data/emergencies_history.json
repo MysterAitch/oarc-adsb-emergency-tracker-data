@@ -6368,5 +6368,25 @@
         "alert_last_seen": "2024-07-19T13:07:47",
         "alert_detection_stopped": "2024-07-19T13:07:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL293  ",
+        "hex": "a99d89",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a99d89",
+        "alert_detected": "2024-07-20T04:57:21",
+        "alert_last_seen": "2024-07-20T05:00:22",
+        "alert_detection_stopped": "2024-07-20T05:00:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL293  ",
+        "hex": "a99d89",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a99d89",
+        "alert_detected": "2024-07-20T05:01:37",
+        "alert_last_seen": "2024-07-20T05:03:43",
+        "alert_detection_stopped": "2024-07-20T05:03:48",
+        "alert_status": "inactive"
     }
 ]
