@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BAW665Y ",
-        "hex": "40780e",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40780e",
-        "alert_detected": "2024-07-21T18:10:26",
-        "alert_last_seen": "2024-07-21T18:19:34",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
