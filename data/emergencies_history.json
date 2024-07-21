@@ -6398,5 +6398,15 @@
         "alert_last_seen": "2024-07-20T05:24:51",
         "alert_detection_stopped": "2024-07-20T05:24:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GSHBA   ",
+        "hex": "4068b3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4068b3",
+        "alert_detected": "2024-07-21T15:35:51",
+        "alert_last_seen": "2024-07-21T15:37:37",
+        "alert_detection_stopped": "2024-07-21T15:37:42",
+        "alert_status": "inactive"
     }
 ]
