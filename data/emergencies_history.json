@@ -6448,5 +6448,15 @@
         "alert_last_seen": "2024-07-23T10:32:59",
         "alert_detection_stopped": "2024-07-23T10:33:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG42EH ",
+        "hex": "407c89",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407c89",
+        "alert_detected": "2024-07-23T13:03:14",
+        "alert_last_seen": "2024-07-23T13:25:04",
+        "alert_detection_stopped": "2024-07-23T13:25:09",
+        "alert_status": "inactive"
     }
 ]
