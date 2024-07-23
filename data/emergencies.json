@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "LOG42EH ",
+        "hex": "407c89",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407c89",
+        "alert_detected": "2024-07-23T13:03:14",
+        "alert_last_seen": "2024-07-23T13:12:21",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
