@@ -6488,5 +6488,15 @@
         "alert_last_seen": "2024-07-24T12:08:06",
         "alert_detection_stopped": "2024-07-24T12:08:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ZD983   ",
+        "hex": "43c4ce",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4ce",
+        "alert_detected": "2024-07-24T13:14:54",
+        "alert_last_seen": "2024-07-24T13:14:54",
+        "alert_detection_stopped": "2024-07-24T13:14:59",
+        "alert_status": "inactive"
     }
 ]
