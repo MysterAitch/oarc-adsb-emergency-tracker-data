@@ -6478,5 +6478,15 @@
         "alert_last_seen": "2024-07-23T19:11:52",
         "alert_detection_stopped": "2024-07-23T19:11:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KC3806  ",
+        "hex": "ae273a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae273a",
+        "alert_detected": "2024-07-24T12:08:06",
+        "alert_last_seen": "2024-07-24T12:08:06",
+        "alert_detection_stopped": "2024-07-24T12:08:11",
+        "alert_status": "inactive"
     }
 ]
