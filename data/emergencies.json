@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "WIT31   ",
+        "hex": "400e92",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e92",
+        "alert_detected": "2024-07-25T15:00:52",
+        "alert_last_seen": "2024-07-25T15:03:13",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
