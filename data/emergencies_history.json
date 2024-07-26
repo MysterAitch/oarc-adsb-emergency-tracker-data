@@ -6538,5 +6538,25 @@
         "alert_last_seen": "2024-07-26T10:05:09",
         "alert_detection_stopped": "2024-07-26T10:05:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CMNDO98 ",
+        "hex": "43c616",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c616",
+        "alert_detected": "2024-07-26T11:23:53",
+        "alert_last_seen": "2024-07-26T11:23:53",
+        "alert_detection_stopped": "2024-07-26T11:23:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT84   ",
+        "hex": "43c924",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c924",
+        "alert_detected": "2024-07-26T11:23:47",
+        "alert_last_seen": "2024-07-26T11:28:49",
+        "alert_detection_stopped": "2024-07-26T11:28:54",
+        "alert_status": "inactive"
     }
 ]
