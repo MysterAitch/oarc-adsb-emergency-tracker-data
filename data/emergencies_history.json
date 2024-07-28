@@ -6588,5 +6588,15 @@
         "alert_last_seen": "2024-07-26T20:35:37",
         "alert_detection_stopped": "2024-07-26T20:35:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JME210N ",
+        "hex": "3431c9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3431c9",
+        "alert_detected": "2024-07-28T15:59:00",
+        "alert_last_seen": "2024-07-28T16:06:22",
+        "alert_detection_stopped": "2024-07-28T16:06:27",
+        "alert_status": "inactive"
     }
 ]
