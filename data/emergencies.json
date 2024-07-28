@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "JME210N ",
+        "hex": "3431c9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3431c9",
+        "alert_detected": "2024-07-28T15:59:00",
+        "alert_last_seen": "2024-07-28T16:00:36",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
