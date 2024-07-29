@@ -6608,5 +6608,15 @@
         "alert_last_seen": "2024-07-28T17:02:35",
         "alert_detection_stopped": "2024-07-28T17:02:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMOM   ",
+        "hex": "407f02",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407f02",
+        "alert_detected": "2024-07-29T10:39:26",
+        "alert_last_seen": "2024-07-29T10:40:27",
+        "alert_detection_stopped": "2024-07-29T10:40:32",
+        "alert_status": "inactive"
     }
 ]
