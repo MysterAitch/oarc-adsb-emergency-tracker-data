@@ -6658,5 +6658,15 @@
         "alert_last_seen": "2024-07-31T09:25:58",
         "alert_detection_stopped": "2024-07-31T09:26:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "abb748",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abb748",
+        "alert_detected": "2024-07-31T13:59:45",
+        "alert_last_seen": "2024-07-31T14:00:25",
+        "alert_detection_stopped": "2024-07-31T14:00:30",
+        "alert_status": "inactive"
     }
 ]
