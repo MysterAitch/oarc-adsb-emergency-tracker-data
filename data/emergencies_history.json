@@ -6748,5 +6748,15 @@
         "alert_last_seen": "2024-08-03T15:59:49",
         "alert_detection_stopped": "2024-08-03T15:59:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAWCN   ",
+        "hex": "401775",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401775",
+        "alert_detected": "2024-08-03T17:06:13",
+        "alert_last_seen": "2024-08-03T17:08:34",
+        "alert_detection_stopped": "2024-08-03T17:08:39",
+        "alert_status": "inactive"
     }
 ]
