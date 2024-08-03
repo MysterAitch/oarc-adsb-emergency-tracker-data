@@ -6738,5 +6738,15 @@
         "alert_last_seen": "2024-08-03T15:00:05",
         "alert_detection_stopped": "2024-08-03T15:00:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FFC025  ",
+        "hex": "404166",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=404166",
+        "alert_detected": "2024-08-03T15:59:49",
+        "alert_last_seen": "2024-08-03T15:59:49",
+        "alert_detection_stopped": "2024-08-03T15:59:55",
+        "alert_status": "inactive"
     }
 ]
