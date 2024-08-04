@@ -6768,5 +6768,15 @@
         "alert_last_seen": "2024-08-03T18:51:24",
         "alert_detection_stopped": "2024-08-03T18:51:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOCTU   ",
+        "hex": "403020",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=403020",
+        "alert_detected": "2024-08-04T10:06:09",
+        "alert_last_seen": "2024-08-04T10:06:24",
+        "alert_detection_stopped": "2024-08-04T10:06:29",
+        "alert_status": "inactive"
     }
 ]
