@@ -6888,5 +6888,15 @@
         "alert_last_seen": "2024-08-06T21:39:14",
         "alert_detection_stopped": "2024-08-06T21:39:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ZH901   ",
+        "hex": "43c5f8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c5f8",
+        "alert_detected": "2024-08-07T14:44:20",
+        "alert_last_seen": "2024-08-07T14:44:20",
+        "alert_detection_stopped": "2024-08-07T14:44:25",
+        "alert_status": "inactive"
     }
 ]
