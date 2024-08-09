@@ -6928,5 +6928,35 @@
         "alert_last_seen": "2024-08-08T19:48:33",
         "alert_detection_stopped": "2024-08-08T19:48:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL966  ",
+        "hex": "a8f00e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8f00e",
+        "alert_detected": "2024-08-09T08:07:57",
+        "alert_last_seen": "2024-08-09T08:09:53",
+        "alert_detection_stopped": "2024-08-09T08:09:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH874  ",
+        "hex": "ae117b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae117b",
+        "alert_detected": "2024-08-09T08:14:34",
+        "alert_last_seen": "2024-08-09T08:16:35",
+        "alert_detection_stopped": "2024-08-09T08:16:40",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "a8f00e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8f00e",
+        "alert_detected": "2024-08-09T08:13:39",
+        "alert_last_seen": "2024-08-09T08:17:00",
+        "alert_detection_stopped": "2024-08-09T08:17:05",
+        "alert_status": "inactive"
     }
 ]
