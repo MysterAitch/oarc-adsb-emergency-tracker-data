@@ -6958,5 +6958,15 @@
         "alert_last_seen": "2024-08-09T08:17:00",
         "alert_detection_stopped": "2024-08-09T08:17:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DMYRG   ",
+        "hex": "3ffba5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3ffba5",
+        "alert_detected": "2024-08-11T16:53:32",
+        "alert_last_seen": "2024-08-11T16:54:22",
+        "alert_detection_stopped": "2024-08-11T16:54:27",
+        "alert_status": "inactive"
     }
 ]
