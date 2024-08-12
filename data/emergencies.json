@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GSABA   ",
-        "hex": "4022e9",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=4022e9",
-        "alert_detected": "2024-08-12T13:35:35",
-        "alert_last_seen": "2024-08-12T13:42:27",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
