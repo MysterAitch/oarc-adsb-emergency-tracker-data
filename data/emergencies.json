@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR77JV ",
+        "hex": "4cae51",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cae51",
+        "alert_detected": "2024-08-12T13:16:56",
+        "alert_last_seen": "2024-08-12T13:24:43",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
