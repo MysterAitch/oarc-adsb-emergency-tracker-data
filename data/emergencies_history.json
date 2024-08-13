@@ -7018,5 +7018,25 @@
         "alert_last_seen": "2024-08-13T11:26:03",
         "alert_detection_stopped": "2024-08-13T11:26:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCJOT   ",
+        "hex": "407132",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407132",
+        "alert_detected": "2024-08-13T11:26:23",
+        "alert_last_seen": "2024-08-13T11:29:09",
+        "alert_detection_stopped": "2024-08-13T11:29:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCJOT   ",
+        "hex": "407132",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407132",
+        "alert_detected": "2024-08-13T11:30:00",
+        "alert_last_seen": "2024-08-13T11:30:45",
+        "alert_detection_stopped": "2024-08-13T11:30:50",
+        "alert_status": "inactive"
     }
 ]
