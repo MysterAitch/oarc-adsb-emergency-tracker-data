@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EXS52WT ",
+        "hex": "400e4e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e4e",
+        "alert_detected": "2024-08-14T15:25:56",
+        "alert_last_seen": "2024-08-14T15:28:07",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]

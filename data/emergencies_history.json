@@ -7158,5 +7158,15 @@
         "alert_last_seen": "2024-08-13T13:18:29",
         "alert_detection_stopped": "2024-08-13T13:18:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCRZA   ",
+        "hex": "405b78",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=405b78",
+        "alert_detected": "2024-08-14T15:22:10",
+        "alert_last_seen": "2024-08-14T15:22:10",
+        "alert_detection_stopped": "2024-08-14T15:22:15",
+        "alert_status": "inactive"
     }
 ]
