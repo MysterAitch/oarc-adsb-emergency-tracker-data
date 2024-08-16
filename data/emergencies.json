@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "KLM39M  ",
-        "hex": "4863db",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4863db",
-        "alert_detected": "2024-08-16T06:52:14",
-        "alert_last_seen": "2024-08-16T07:00:56",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
