@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GCDZG   ",
+        "hex": "404fa7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404fa7",
+        "alert_detected": "2024-08-17T09:59:17",
+        "alert_last_seen": "2024-08-17T10:00:18",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
