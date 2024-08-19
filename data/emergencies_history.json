@@ -7268,5 +7268,25 @@
         "alert_last_seen": "2024-08-19T07:45:11",
         "alert_detection_stopped": "2024-08-19T07:45:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "        ",
+        "hex": "ae04fb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae04fb",
+        "alert_detected": "2024-08-19T08:12:43",
+        "alert_last_seen": "2024-08-19T09:32:57",
+        "alert_detection_stopped": "2024-08-19T09:33:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SARAB   ",
+        "hex": "43c965",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c965",
+        "alert_detected": "2024-08-19T09:32:57",
+        "alert_last_seen": "2024-08-19T09:33:02",
+        "alert_detection_stopped": "2024-08-19T09:33:07",
+        "alert_status": "inactive"
     }
 ]
