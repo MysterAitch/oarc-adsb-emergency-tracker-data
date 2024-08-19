@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SARAB   ",
-        "hex": "43c965",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c965",
-        "alert_detected": "2024-08-19T09:33:12",
-        "alert_last_seen": "2024-08-19T09:37:59",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
