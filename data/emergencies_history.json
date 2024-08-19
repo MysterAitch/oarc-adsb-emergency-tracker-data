@@ -7308,5 +7308,25 @@
         "alert_last_seen": "2024-08-19T12:20:12",
         "alert_detection_stopped": "2024-08-19T12:20:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N178MH  ",
+        "hex": "a13800",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a13800",
+        "alert_detected": "2024-08-19T12:13:14",
+        "alert_last_seen": "2024-08-19T12:24:28",
+        "alert_detection_stopped": "2024-08-19T12:24:33",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TEU69B  ",
+        "hex": "4d250c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d250c",
+        "alert_detected": "2024-08-19T12:23:28",
+        "alert_last_seen": "2024-08-19T12:26:08",
+        "alert_detection_stopped": "2024-08-19T12:26:14",
+        "alert_status": "inactive"
     }
 ]
