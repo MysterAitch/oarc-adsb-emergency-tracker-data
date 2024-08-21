@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NONE",
-        "hex": "ab5975",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ab5975",
-        "alert_detected": "2024-08-21T08:48:37",
-        "alert_last_seen": "2024-08-21T08:54:48",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
