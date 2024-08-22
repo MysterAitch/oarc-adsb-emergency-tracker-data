@@ -7438,5 +7438,25 @@
         "alert_last_seen": "2024-08-22T18:50:51",
         "alert_detection_stopped": "2024-08-22T18:50:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL43   ",
+        "hex": "ab5c12",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab5c12",
+        "alert_detected": "2024-08-22T18:51:56",
+        "alert_last_seen": "2024-08-22T18:52:52",
+        "alert_detection_stopped": "2024-08-22T18:52:57",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL43   ",
+        "hex": "ab5c12",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab5c12",
+        "alert_detected": "2024-08-22T18:55:32",
+        "alert_last_seen": "2024-08-22T18:56:43",
+        "alert_detection_stopped": "2024-08-22T18:56:48",
+        "alert_status": "inactive"
     }
 ]
