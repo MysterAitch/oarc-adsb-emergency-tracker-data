@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TEU70B  ",
+        "hex": "4d250c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d250c",
+        "alert_detected": "2024-08-22T13:38:04",
+        "alert_last_seen": "2024-08-22T13:39:30",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
