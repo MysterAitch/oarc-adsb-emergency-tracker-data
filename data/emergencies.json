@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EZY58AX ",
-        "hex": "406135",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=406135",
-        "alert_detected": "2024-08-23T18:59:42",
-        "alert_last_seen": "2024-08-23T19:07:39",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
