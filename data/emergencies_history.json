@@ -7478,5 +7478,15 @@
         "alert_last_seen": "2024-08-25T01:58:17",
         "alert_detection_stopped": "2024-08-25T01:58:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EMO18   ",
+        "hex": "440d78",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440d78",
+        "alert_detected": "2024-08-25T19:33:34",
+        "alert_last_seen": "2024-08-25T20:21:29",
+        "alert_detection_stopped": "2024-08-25T20:21:34",
+        "alert_status": "inactive"
     }
 ]
