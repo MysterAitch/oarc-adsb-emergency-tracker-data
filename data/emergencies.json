@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EXS8DK  ",
+        "hex": "4062d5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4062d5",
+        "alert_detected": "2024-08-25T01:40:14",
+        "alert_last_seen": "2024-08-25T01:52:31",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
