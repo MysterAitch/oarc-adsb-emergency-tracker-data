@@ -7498,5 +7498,15 @@
         "alert_last_seen": "2024-08-26T17:18:04",
         "alert_detection_stopped": "2024-08-26T17:18:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GHOMA   ",
+        "hex": "407c22",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407c22",
+        "alert_detected": "2024-08-26T18:34:42",
+        "alert_last_seen": "2024-08-26T18:34:48",
+        "alert_detection_stopped": "2024-08-26T18:34:53",
+        "alert_status": "inactive"
     }
 ]
