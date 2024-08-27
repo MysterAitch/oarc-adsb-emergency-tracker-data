@@ -7538,5 +7538,15 @@
         "alert_last_seen": "2024-08-27T09:52:27",
         "alert_detection_stopped": "2024-08-27T09:52:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TARTN29 ",
+        "hex": "43c6f9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6f9",
+        "alert_detected": "2024-08-27T15:39:53",
+        "alert_last_seen": "2024-08-27T16:53:07",
+        "alert_detection_stopped": "2024-08-27T16:53:12",
+        "alert_status": "inactive"
     }
 ]
