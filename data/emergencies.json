@@ -4,8 +4,8 @@
         "hex": "484a11",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=484a11",
-        "alert_detected": "2024-08-28T00:51:46",
-        "alert_last_seen": "2024-08-28T00:55:32",
+        "alert_detected": "2024-08-28T01:01:33",
+        "alert_last_seen": "2024-08-28T01:10:19",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
