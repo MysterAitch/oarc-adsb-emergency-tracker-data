@@ -7838,5 +7838,25 @@
         "alert_last_seen": "2024-08-28T02:30:13",
         "alert_detection_stopped": "2024-08-28T02:30:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW778F ",
+        "hex": "400877",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400877",
+        "alert_detected": "2024-08-28T12:50:17",
+        "alert_last_seen": "2024-08-28T12:51:58",
+        "alert_detection_stopped": "2024-08-28T12:52:03",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW778F ",
+        "hex": "400877",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400877",
+        "alert_detected": "2024-08-28T12:52:18",
+        "alert_last_seen": "2024-08-28T12:53:19",
+        "alert_detection_stopped": "2024-08-28T12:53:24",
+        "alert_status": "inactive"
     }
 ]
