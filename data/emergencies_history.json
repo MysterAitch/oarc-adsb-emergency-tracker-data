@@ -7898,5 +7898,15 @@
         "alert_last_seen": "2024-08-29T07:12:16",
         "alert_detection_stopped": "2024-08-29T07:12:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CASTLE14",
+        "hex": "4079e6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079e6",
+        "alert_detected": "2024-08-29T10:43:13",
+        "alert_last_seen": "2024-08-29T10:48:49",
+        "alert_detection_stopped": "2024-08-29T10:48:55",
+        "alert_status": "inactive"
     }
 ]
