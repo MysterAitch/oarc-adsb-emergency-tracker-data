@@ -7888,5 +7888,15 @@
         "alert_last_seen": "2024-08-28T18:18:43",
         "alert_detection_stopped": "2024-08-28T18:18:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM3BV  ",
+        "hex": "4080cf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4080cf",
+        "alert_detected": "2024-08-29T07:11:26",
+        "alert_last_seen": "2024-08-29T07:12:16",
+        "alert_detection_stopped": "2024-08-29T07:12:21",
+        "alert_status": "inactive"
     }
 ]
