@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GCTZO   ",
+        "hex": "404720",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404720",
+        "alert_detected": "2024-08-31T18:47:51",
+        "alert_last_seen": "2024-08-31T18:47:51",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
