@@ -8008,5 +8008,15 @@
         "alert_last_seen": "2024-08-31T10:53:28",
         "alert_detection_stopped": "2024-08-31T10:53:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR226  ",
+        "hex": "4080a2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4080a2",
+        "alert_detected": "2024-08-31T10:55:24",
+        "alert_last_seen": "2024-08-31T10:57:04",
+        "alert_detection_stopped": "2024-08-31T10:57:09",
+        "alert_status": "inactive"
     }
 ]
