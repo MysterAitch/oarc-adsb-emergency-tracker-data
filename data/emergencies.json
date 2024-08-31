@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "VIR226  ",
+        "hex": "4080a2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4080a2",
+        "alert_detected": "2024-08-31T10:16:49",
+        "alert_last_seen": "2024-08-31T10:24:56",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
