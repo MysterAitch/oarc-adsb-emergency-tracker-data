@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "VIR3N   ",
+        "hex": "40808b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40808b",
+        "alert_detected": "2024-09-03T09:19:47",
+        "alert_last_seen": "2024-09-03T09:22:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
