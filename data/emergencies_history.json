@@ -8128,5 +8128,15 @@
         "alert_last_seen": "2024-09-03T15:23:21",
         "alert_detection_stopped": "2024-09-03T15:23:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VLG7VY  ",
+        "hex": "346691",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=346691",
+        "alert_detected": "2024-09-03T20:33:31",
+        "alert_last_seen": "2024-09-03T20:46:50",
+        "alert_detection_stopped": "2024-09-03T20:46:55",
+        "alert_status": "inactive"
     }
 ]
