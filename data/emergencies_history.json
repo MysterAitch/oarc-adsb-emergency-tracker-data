@@ -8138,5 +8138,15 @@
         "alert_last_seen": "2024-09-03T20:46:50",
         "alert_detection_stopped": "2024-09-03T20:46:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ELY314  ",
+        "hex": "738061",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=738061",
+        "alert_detected": "2024-09-03T21:53:34",
+        "alert_last_seen": "2024-09-03T21:54:20",
+        "alert_detection_stopped": "2024-09-03T21:54:25",
+        "alert_status": "inactive"
     }
 ]
