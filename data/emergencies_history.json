@@ -8168,5 +8168,55 @@
         "alert_last_seen": "2024-09-04T07:01:55",
         "alert_detection_stopped": "2024-09-04T07:02:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY17TE ",
+        "hex": "407568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407568",
+        "alert_detected": "2024-09-04T07:02:46",
+        "alert_last_seen": "2024-09-04T07:04:36",
+        "alert_detection_stopped": "2024-09-04T07:04:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY14LE ",
+        "hex": "407568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407568",
+        "alert_detected": "2024-09-04T07:05:26",
+        "alert_last_seen": "2024-09-04T07:05:57",
+        "alert_detection_stopped": "2024-09-04T07:06:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY83UW ",
+        "hex": "407568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407568",
+        "alert_detected": "2024-09-04T07:07:22",
+        "alert_last_seen": "2024-09-04T07:07:53",
+        "alert_detection_stopped": "2024-09-04T07:07:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY17TE ",
+        "hex": "407568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407568",
+        "alert_detected": "2024-09-04T07:08:18",
+        "alert_last_seen": "2024-09-04T07:08:28",
+        "alert_detection_stopped": "2024-09-04T07:08:33",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY83UW ",
+        "hex": "407568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407568",
+        "alert_detected": "2024-09-04T07:09:19",
+        "alert_last_seen": "2024-09-04T07:10:54",
+        "alert_detection_stopped": "2024-09-04T07:10:59",
+        "alert_status": "inactive"
     }
 ]
