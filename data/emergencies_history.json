@@ -8328,5 +8328,15 @@
         "alert_last_seen": "2024-09-05T11:00:09",
         "alert_detection_stopped": "2024-09-05T11:00:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "COBRA032",
+        "hex": "43c6d1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6d1",
+        "alert_detected": "2024-09-05T14:51:16",
+        "alert_last_seen": "2024-09-05T14:52:47",
+        "alert_detection_stopped": "2024-09-05T14:52:52",
+        "alert_status": "inactive"
     }
 ]
