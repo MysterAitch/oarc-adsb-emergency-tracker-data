@@ -8388,5 +8388,15 @@
         "alert_last_seen": "2024-09-05T16:52:35",
         "alert_detection_stopped": "2024-09-05T16:52:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS3BU  ",
+        "hex": "4066b9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4066b9",
+        "alert_detected": "2024-09-05T17:57:56",
+        "alert_last_seen": "2024-09-05T18:21:38",
+        "alert_detection_stopped": "2024-09-05T18:21:43",
+        "alert_status": "inactive"
     }
 ]
