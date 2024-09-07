@@ -8498,5 +8498,15 @@
         "alert_last_seen": "2024-09-07T14:06:18",
         "alert_detection_stopped": "2024-09-07T14:06:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SRD224B ",
+        "hex": "407843",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407843",
+        "alert_detected": "2024-09-07T22:39:10",
+        "alert_last_seen": "2024-09-07T23:16:28",
+        "alert_detection_stopped": "2024-09-07T23:16:33",
+        "alert_status": "inactive"
     }
 ]
