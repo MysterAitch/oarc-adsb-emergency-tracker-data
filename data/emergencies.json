@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EXS3DH  ",
+        "hex": "4072dc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4072dc",
+        "alert_detected": "2024-09-07T13:40:15",
+        "alert_last_seen": "2024-09-07T13:48:23",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
