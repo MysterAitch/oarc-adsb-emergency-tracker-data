@@ -8608,5 +8608,25 @@
         "alert_last_seen": "2024-09-09T15:44:54",
         "alert_detection_stopped": "2024-09-09T15:44:59",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4022ef",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4022ef",
+        "alert_detected": "2024-09-09T19:01:25",
+        "alert_last_seen": "2024-09-09T19:19:30",
+        "alert_detection_stopped": "2024-09-09T19:19:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GSAMG   ",
+        "hex": "4022ef",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4022ef",
+        "alert_detected": "2024-09-09T19:20:05",
+        "alert_last_seen": "2024-09-09T19:21:56",
+        "alert_detection_stopped": "2024-09-09T19:22:01",
+        "alert_status": "inactive"
     }
 ]
