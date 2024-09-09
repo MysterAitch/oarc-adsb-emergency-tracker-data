@@ -8588,5 +8588,15 @@
         "alert_last_seen": "2024-09-09T13:47:21",
         "alert_detection_stopped": "2024-09-09T13:47:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCRED   ",
+        "hex": "407622",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407622",
+        "alert_detected": "2024-09-09T14:40:31",
+        "alert_last_seen": "2024-09-09T14:40:46",
+        "alert_detection_stopped": "2024-09-09T14:40:51",
+        "alert_status": "inactive"
     }
 ]
