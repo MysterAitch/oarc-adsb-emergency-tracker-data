@@ -8548,5 +8548,15 @@
         "alert_last_seen": "2024-09-08T09:05:20",
         "alert_detection_stopped": "2024-09-08T09:05:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VNTRE65 ",
+        "hex": "43c6c2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6c2",
+        "alert_detected": "2024-09-09T12:30:19",
+        "alert_last_seen": "2024-09-09T12:30:19",
+        "alert_detection_stopped": "2024-09-09T12:30:24",
+        "alert_status": "inactive"
     }
 ]
