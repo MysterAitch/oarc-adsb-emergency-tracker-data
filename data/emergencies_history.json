@@ -8638,5 +8638,15 @@
         "alert_last_seen": "2024-09-10T09:11:08",
         "alert_detection_stopped": "2024-09-10T09:11:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BGA123I ",
+        "hex": "395d68",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=395d68",
+        "alert_detected": "2024-09-10T13:25:36",
+        "alert_last_seen": "2024-09-10T13:42:00",
+        "alert_detection_stopped": "2024-09-10T13:42:05",
+        "alert_status": "inactive"
     }
 ]
