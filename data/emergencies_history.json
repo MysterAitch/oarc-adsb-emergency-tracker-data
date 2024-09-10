@@ -8648,5 +8648,15 @@
         "alert_last_seen": "2024-09-10T13:42:00",
         "alert_detection_stopped": "2024-09-10T13:42:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JAVELN  ",
+        "hex": "43c968",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c968",
+        "alert_detected": "2024-09-10T16:56:21",
+        "alert_last_seen": "2024-09-10T16:56:21",
+        "alert_detection_stopped": "2024-09-10T16:56:26",
+        "alert_status": "inactive"
     }
 ]
