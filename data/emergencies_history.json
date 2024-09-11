@@ -8658,5 +8658,15 @@
         "alert_last_seen": "2024-09-10T16:56:21",
         "alert_detection_stopped": "2024-09-10T16:56:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF51   ",
+        "hex": "43c8c0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8c0",
+        "alert_detected": "2024-09-11T11:49:40",
+        "alert_last_seen": "2024-09-11T11:51:16",
+        "alert_detection_stopped": "2024-09-11T11:51:21",
+        "alert_status": "inactive"
     }
 ]
