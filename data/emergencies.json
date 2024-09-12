@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "STEIN99 ",
+        "hex": "ae0193",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae0193",
+        "alert_detected": "2024-09-12T15:53:54",
+        "alert_last_seen": "2024-09-12T15:54:20",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
