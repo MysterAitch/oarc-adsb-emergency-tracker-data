@@ -8718,5 +8718,15 @@
         "alert_last_seen": "2024-09-12T11:57:32",
         "alert_detection_stopped": "2024-09-12T11:57:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "STEIN99 ",
+        "hex": "ae0193",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae0193",
+        "alert_detected": "2024-09-12T15:53:54",
+        "alert_last_seen": "2024-09-12T15:58:11",
+        "alert_detection_stopped": "2024-09-12T15:58:16",
+        "alert_status": "inactive"
     }
 ]
