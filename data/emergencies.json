@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GAVIL   ",
+        "hex": "4016e5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4016e5",
+        "alert_detected": "2024-09-12T11:36:34",
+        "alert_last_seen": "2024-09-12T11:38:10",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
