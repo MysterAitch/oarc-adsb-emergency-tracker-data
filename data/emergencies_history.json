@@ -8708,5 +8708,15 @@
         "alert_last_seen": "2024-09-12T11:53:30",
         "alert_detection_stopped": "2024-09-12T11:53:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LDX344C ",
+        "hex": "440637",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440637",
+        "alert_detected": "2024-09-12T11:54:15",
+        "alert_last_seen": "2024-09-12T11:57:32",
+        "alert_detection_stopped": "2024-09-12T11:57:37",
+        "alert_status": "inactive"
     }
 ]
