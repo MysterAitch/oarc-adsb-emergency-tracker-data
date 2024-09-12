@@ -8728,5 +8728,15 @@
         "alert_last_seen": "2024-09-12T15:58:11",
         "alert_detection_stopped": "2024-09-12T15:58:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT73   ",
+        "hex": "43c8cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cd",
+        "alert_detected": "2024-09-12T16:35:21",
+        "alert_last_seen": "2024-09-12T16:38:22",
+        "alert_detection_stopped": "2024-09-12T16:38:27",
+        "alert_status": "inactive"
     }
 ]
