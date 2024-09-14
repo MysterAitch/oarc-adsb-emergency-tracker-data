@@ -8758,5 +8758,15 @@
         "alert_last_seen": "2024-09-13T14:27:19",
         "alert_detection_stopped": "2024-09-13T14:27:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBNRG   ",
+        "hex": "402939",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402939",
+        "alert_detected": "2024-09-14T14:04:38",
+        "alert_last_seen": "2024-09-14T14:08:05",
+        "alert_detection_stopped": "2024-09-14T14:08:10",
+        "alert_status": "inactive"
     }
 ]
