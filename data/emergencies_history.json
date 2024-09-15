@@ -8788,5 +8788,15 @@
         "alert_last_seen": "2024-09-15T10:49:04",
         "alert_detection_stopped": "2024-09-15T10:49:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SXS5Q   ",
+        "hex": "4bce10",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4bce10",
+        "alert_detected": "2024-09-15T18:06:26",
+        "alert_last_seen": "2024-09-15T18:16:39",
+        "alert_detection_stopped": "2024-09-15T18:16:44",
+        "alert_status": "inactive"
     }
 ]
