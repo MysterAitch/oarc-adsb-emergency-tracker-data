@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SXS5Q   ",
+        "hex": "4bce10",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4bce10",
+        "alert_detected": "2024-09-15T18:06:26",
+        "alert_last_seen": "2024-09-15T18:12:28",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
