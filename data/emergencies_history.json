@@ -8868,5 +8868,15 @@
         "alert_last_seen": "2024-09-16T13:32:21",
         "alert_detection_stopped": "2024-09-16T13:32:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N120MX  ",
+        "hex": "a054db",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a054db",
+        "alert_detected": "2024-09-16T14:13:53",
+        "alert_last_seen": "2024-09-16T14:20:11",
+        "alert_detection_stopped": "2024-09-16T14:20:16",
+        "alert_status": "inactive"
     }
 ]
