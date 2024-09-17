@@ -8888,5 +8888,25 @@
         "alert_last_seen": "2024-09-16T14:53:40",
         "alert_detection_stopped": "2024-09-16T14:53:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBFFW   ",
+        "hex": "401ce7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401ce7",
+        "alert_detected": "2024-09-17T13:07:01",
+        "alert_last_seen": "2024-09-17T13:11:47",
+        "alert_detection_stopped": "2024-09-17T13:11:52",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "401ce7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401ce7",
+        "alert_detected": "2024-09-17T13:15:28",
+        "alert_last_seen": "2024-09-17T13:16:09",
+        "alert_detection_stopped": "2024-09-17T13:16:14",
+        "alert_status": "inactive"
     }
 ]
