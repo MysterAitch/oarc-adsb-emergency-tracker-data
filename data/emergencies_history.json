@@ -8908,5 +8908,15 @@
         "alert_last_seen": "2024-09-17T13:16:09",
         "alert_detection_stopped": "2024-09-17T13:16:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SCANDL01",
+        "hex": "43c75b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c75b",
+        "alert_detected": "2024-09-17T13:44:38",
+        "alert_last_seen": "2024-09-17T13:44:53",
+        "alert_detection_stopped": "2024-09-17T13:44:58",
+        "alert_status": "inactive"
     }
 ]
