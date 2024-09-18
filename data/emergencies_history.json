@@ -9298,5 +9298,15 @@
         "alert_last_seen": "2024-09-18T21:23:02",
         "alert_detection_stopped": "2024-09-18T21:23:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "00000000",
+        "hex": "484a11",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=484a11",
+        "alert_detected": "2024-09-18T21:23:38",
+        "alert_last_seen": "2024-09-18T21:27:09",
+        "alert_detection_stopped": "2024-09-18T21:27:14",
+        "alert_status": "inactive"
     }
 ]
