@@ -8938,5 +8938,15 @@
         "alert_last_seen": "2024-09-18T08:42:22",
         "alert_detection_stopped": "2024-09-18T08:42:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAYOW   ",
+        "hex": "4018d9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4018d9",
+        "alert_detected": "2024-09-18T14:38:10",
+        "alert_last_seen": "2024-09-18T14:38:10",
+        "alert_detection_stopped": "2024-09-18T14:38:16",
+        "alert_status": "inactive"
     }
 ]
