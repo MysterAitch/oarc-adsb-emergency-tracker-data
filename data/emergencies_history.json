@@ -9328,5 +9328,15 @@
         "alert_last_seen": "2024-09-20T08:34:18",
         "alert_detection_stopped": "2024-09-20T08:34:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DFOLE   ",
+        "hex": "3d6f6a",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3d6f6a",
+        "alert_detected": "2024-09-21T12:15:47",
+        "alert_last_seen": "2024-09-21T12:17:03",
+        "alert_detection_stopped": "2024-09-21T12:17:08",
+        "alert_status": "inactive"
     }
 ]
