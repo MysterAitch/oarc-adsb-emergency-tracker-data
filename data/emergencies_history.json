@@ -9338,5 +9338,25 @@
         "alert_last_seen": "2024-09-21T12:17:03",
         "alert_detection_stopped": "2024-09-21T12:17:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "3986e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3986e5",
+        "alert_detected": "2024-09-21T13:38:11",
+        "alert_last_seen": "2024-09-21T13:39:42",
+        "alert_detection_stopped": "2024-09-21T13:39:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR56TG ",
+        "hex": "3986e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3986e5",
+        "alert_detected": "2024-09-21T13:40:07",
+        "alert_last_seen": "2024-09-21T13:41:58",
+        "alert_detection_stopped": "2024-09-21T13:42:03",
+        "alert_status": "inactive"
     }
 ]
