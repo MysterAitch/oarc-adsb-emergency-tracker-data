@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EGT399  ",
+        "hex": "4520d4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4520d4",
+        "alert_detected": "2024-09-22T12:53:12",
+        "alert_last_seen": "2024-09-22T12:54:22",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
