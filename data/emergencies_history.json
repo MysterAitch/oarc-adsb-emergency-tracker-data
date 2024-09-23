@@ -9448,5 +9448,25 @@
         "alert_last_seen": "2024-09-22T23:07:35",
         "alert_detection_stopped": "2024-09-22T23:07:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JEDI0032",
+        "hex": "43c798",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c798",
+        "alert_detected": "2024-09-23T11:20:32",
+        "alert_last_seen": "2024-09-23T11:22:03",
+        "alert_detection_stopped": "2024-09-23T11:22:08",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c798",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c798",
+        "alert_detected": "2024-09-23T11:22:58",
+        "alert_last_seen": "2024-09-23T11:24:09",
+        "alert_detection_stopped": "2024-09-23T11:24:14",
+        "alert_status": "inactive"
     }
 ]
