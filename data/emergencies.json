@@ -1,11 +1,11 @@
 [
     {
-        "flight": "NONE",
+        "flight": "GMA01   ",
         "hex": "400dc3",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=400dc3",
-        "alert_detected": "2024-09-24T09:37:31",
-        "alert_last_seen": "2024-09-24T09:42:23",
+        "alert_detected": "2024-09-24T09:45:04",
+        "alert_last_seen": "2024-09-24T09:50:01",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
