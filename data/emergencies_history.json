@@ -9608,5 +9608,15 @@
         "alert_last_seen": "2024-09-24T16:14:56",
         "alert_detection_stopped": "2024-09-24T16:15:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL754  ",
+        "hex": "ac21af",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ac21af",
+        "alert_detected": "2024-09-25T07:16:48",
+        "alert_last_seen": "2024-09-25T07:16:59",
+        "alert_detection_stopped": "2024-09-25T07:17:04",
+        "alert_status": "inactive"
     }
 ]
