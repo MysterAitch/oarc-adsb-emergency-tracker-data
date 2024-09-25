@@ -9648,5 +9648,15 @@
         "alert_last_seen": "2024-09-25T18:29:14",
         "alert_detection_stopped": "2024-09-25T18:29:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TVF98NF ",
+        "hex": "39cea2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39cea2",
+        "alert_detected": "2024-09-25T18:51:30",
+        "alert_last_seen": "2024-09-25T18:57:42",
+        "alert_detection_stopped": "2024-09-25T18:57:47",
+        "alert_status": "inactive"
     }
 ]
