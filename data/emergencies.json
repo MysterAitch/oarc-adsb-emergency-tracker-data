@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "ACA843  ",
+        "hex": "c0583a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0583a",
+        "alert_detected": "2024-09-26T19:04:17",
+        "alert_last_seen": "2024-09-26T19:04:42",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
