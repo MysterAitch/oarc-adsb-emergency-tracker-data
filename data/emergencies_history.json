@@ -9658,5 +9658,45 @@
         "alert_last_seen": "2024-09-25T18:57:42",
         "alert_detection_stopped": "2024-09-25T18:57:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM1DJ  ",
+        "hex": "40665e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40665e",
+        "alert_detected": "2024-09-26T07:15:28",
+        "alert_last_seen": "2024-09-26T07:15:34",
+        "alert_detection_stopped": "2024-09-26T07:15:39",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM1DJ  ",
+        "hex": "40665e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40665e",
+        "alert_detected": "2024-09-26T07:15:54",
+        "alert_last_seen": "2024-09-26T07:17:15",
+        "alert_detection_stopped": "2024-09-26T07:17:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM1CL  ",
+        "hex": "40665e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40665e",
+        "alert_detected": "2024-09-26T07:17:30",
+        "alert_last_seen": "2024-09-26T07:21:12",
+        "alert_detection_stopped": "2024-09-26T07:21:17",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM1CL  ",
+        "hex": "40665e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40665e",
+        "alert_detected": "2024-09-26T07:21:22",
+        "alert_last_seen": "2024-09-26T07:23:02",
+        "alert_detection_stopped": "2024-09-26T07:23:07",
+        "alert_status": "inactive"
     }
 ]
