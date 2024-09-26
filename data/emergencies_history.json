@@ -9708,5 +9708,25 @@
         "alert_last_seen": "2024-09-26T19:04:02",
         "alert_detection_stopped": "2024-09-26T19:04:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ACA843  ",
+        "hex": "c0583a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0583a",
+        "alert_detected": "2024-09-26T19:04:17",
+        "alert_last_seen": "2024-09-26T19:08:23",
+        "alert_detection_stopped": "2024-09-26T19:08:28",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "c0583a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0583a",
+        "alert_detected": "2024-09-26T19:09:03",
+        "alert_last_seen": "2024-09-26T19:10:09",
+        "alert_detection_stopped": "2024-09-26T19:10:14",
+        "alert_status": "inactive"
     }
 ]
