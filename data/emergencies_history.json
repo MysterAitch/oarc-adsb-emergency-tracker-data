@@ -9788,5 +9788,15 @@
         "alert_last_seen": "2024-09-27T10:11:42",
         "alert_detection_stopped": "2024-09-27T10:11:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BALNCE89",
+        "hex": "43c944",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c944",
+        "alert_detected": "2024-09-27T14:19:23",
+        "alert_last_seen": "2024-09-27T14:19:59",
+        "alert_detection_stopped": "2024-09-27T14:20:04",
+        "alert_status": "inactive"
     }
 ]
