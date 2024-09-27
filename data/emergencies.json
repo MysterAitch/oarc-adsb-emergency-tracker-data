@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SHT18A  ",
-        "hex": "400d5a",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=400d5a",
-        "alert_detected": "2024-09-27T09:43:03",
-        "alert_last_seen": "2024-09-27T10:04:20",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
