@@ -9768,5 +9768,15 @@
         "alert_last_seen": "2024-09-27T09:48:50",
         "alert_detection_stopped": "2024-09-27T09:48:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PDG61   ",
+        "hex": "400d1a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400d1a",
+        "alert_detected": "2024-09-27T09:53:47",
+        "alert_last_seen": "2024-09-27T09:54:37",
+        "alert_detection_stopped": "2024-09-27T09:54:42",
+        "alert_status": "inactive"
     }
 ]
