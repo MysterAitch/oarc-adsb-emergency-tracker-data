@@ -9808,5 +9808,25 @@
         "alert_last_seen": "2024-09-27T16:03:10",
         "alert_detection_stopped": "2024-09-27T16:03:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU49   ",
+        "hex": "400e8f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400e8f",
+        "alert_detected": "2024-09-27T16:04:50",
+        "alert_last_seen": "2024-09-27T16:06:41",
+        "alert_detection_stopped": "2024-09-27T16:06:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU49   ",
+        "hex": "400e8f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400e8f",
+        "alert_detected": "2024-09-27T16:07:17",
+        "alert_last_seen": "2024-09-27T16:09:28",
+        "alert_detection_stopped": "2024-09-27T16:09:33",
+        "alert_status": "inactive"
     }
 ]
