@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EZY24KG ",
-        "hex": "406444",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=406444",
-        "alert_detected": "2024-09-28T13:29:43",
-        "alert_last_seen": "2024-09-28T13:39:16",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
