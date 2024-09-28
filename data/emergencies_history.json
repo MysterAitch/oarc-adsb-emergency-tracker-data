@@ -9838,5 +9838,15 @@
         "alert_last_seen": "2024-09-28T13:41:37",
         "alert_detection_stopped": "2024-09-28T13:41:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCJIT   ",
+        "hex": "407175",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=407175",
+        "alert_detected": "2024-09-28T14:07:05",
+        "alert_last_seen": "2024-09-28T14:07:20",
+        "alert_detection_stopped": "2024-09-28T14:07:25",
+        "alert_status": "inactive"
     }
 ]
