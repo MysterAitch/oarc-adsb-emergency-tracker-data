@@ -9868,5 +9868,15 @@
         "alert_last_seen": "2024-09-29T04:20:41",
         "alert_detection_stopped": "2024-09-29T04:20:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ITY619  ",
+        "hex": "4ca87c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca87c",
+        "alert_detected": "2024-09-29T04:08:12",
+        "alert_last_seen": "2024-09-29T04:33:23",
+        "alert_detection_stopped": "2024-09-29T04:33:28",
+        "alert_status": "inactive"
     }
 ]
