@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "FLJ15   ",
-        "hex": "408165",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=408165",
-        "alert_detected": "2024-09-30T10:18:24",
-        "alert_last_seen": "2024-09-30T10:24:21",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
