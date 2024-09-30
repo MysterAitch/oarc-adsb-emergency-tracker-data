@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SAS2545 ",
-        "hex": "4cad88",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4cad88",
-        "alert_detected": "2024-09-30T11:49:14",
-        "alert_last_seen": "2024-09-30T12:09:41",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
