@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "N142QS  ",
-        "hex": "a0ab8d",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a0ab8d",
-        "alert_detected": "2024-10-01T11:45:53",
-        "alert_last_seen": "2024-10-01T12:02:34",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

@@ -9908,5 +9908,25 @@
         "alert_last_seen": "2024-09-30T23:25:00",
         "alert_detection_stopped": "2024-09-30T23:25:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N142QS  ",
+        "hex": "a0ab8d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a0ab8d",
+        "alert_detected": "2024-10-01T11:45:53",
+        "alert_last_seen": "2024-10-01T12:04:24",
+        "alert_detection_stopped": "2024-10-01T12:04:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "N142QS  ",
+        "hex": "a0ab8d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a0ab8d",
+        "alert_detected": "2024-10-01T12:04:40",
+        "alert_last_seen": "2024-10-01T12:06:00",
+        "alert_detection_stopped": "2024-10-01T12:06:05",
+        "alert_status": "inactive"
     }
 ]
