@@ -9928,5 +9928,15 @@
         "alert_last_seen": "2024-10-01T12:06:00",
         "alert_detection_stopped": "2024-10-01T12:06:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBCRL   ",
+        "hex": "401b9a",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401b9a",
+        "alert_detected": "2024-10-02T16:21:45",
+        "alert_last_seen": "2024-10-02T16:25:21",
+        "alert_detection_stopped": "2024-10-02T16:25:26",
+        "alert_status": "inactive"
     }
 ]
