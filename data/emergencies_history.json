@@ -9978,5 +9978,15 @@
         "alert_last_seen": "2024-10-03T10:40:14",
         "alert_detection_stopped": "2024-10-03T10:40:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU210  ",
+        "hex": "400ea4",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400ea4",
+        "alert_detected": "2024-10-03T11:04:52",
+        "alert_last_seen": "2024-10-03T11:10:24",
+        "alert_detection_stopped": "2024-10-03T11:10:29",
+        "alert_status": "inactive"
     }
 ]
