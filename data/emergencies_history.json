@@ -9958,5 +9958,15 @@
         "alert_last_seen": "2024-10-02T22:02:53",
         "alert_detection_stopped": "2024-10-02T22:02:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NCKL23  ",
+        "hex": "400e9c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e9c",
+        "alert_detected": "2024-10-03T10:11:15",
+        "alert_last_seen": "2024-10-03T10:14:52",
+        "alert_detection_stopped": "2024-10-03T10:14:57",
+        "alert_status": "inactive"
     }
 ]
