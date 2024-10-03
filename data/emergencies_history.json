@@ -10018,5 +10018,15 @@
         "alert_last_seen": "2024-10-03T12:27:17",
         "alert_detection_stopped": "2024-10-03T12:27:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU94ZH ",
+        "hex": "440cb1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440cb1",
+        "alert_detected": "2024-10-03T15:13:15",
+        "alert_last_seen": "2024-10-03T15:14:11",
+        "alert_detection_stopped": "2024-10-03T15:14:16",
+        "alert_status": "inactive"
     }
 ]
