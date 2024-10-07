@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "TYP00008",
-        "hex": "43caed",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43caed",
-        "alert_detected": "2024-10-07T18:05:33",
-        "alert_last_seen": "2024-10-07T18:07:49",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
