@@ -10098,5 +10098,25 @@
         "alert_last_seen": "2024-10-07T18:12:00",
         "alert_detection_stopped": "2024-10-07T18:12:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS86E  ",
+        "hex": "406add",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406add",
+        "alert_detected": "2024-10-07T19:21:53",
+        "alert_last_seen": "2024-10-07T19:33:11",
+        "alert_detection_stopped": "2024-10-07T19:33:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS86E  ",
+        "hex": "406add",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406add",
+        "alert_detected": "2024-10-07T19:33:21",
+        "alert_last_seen": "2024-10-07T19:34:16",
+        "alert_detection_stopped": "2024-10-07T19:34:22",
+        "alert_status": "inactive"
     }
 ]
