@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "WMT84   ",
-        "hex": "4d201e",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4d201e",
-        "alert_detected": "2024-10-08T12:15:18",
-        "alert_last_seen": "2024-10-08T12:16:48",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
