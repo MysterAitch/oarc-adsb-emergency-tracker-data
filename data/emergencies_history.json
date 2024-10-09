@@ -10198,5 +10198,15 @@
         "alert_last_seen": "2024-10-09T09:45:39",
         "alert_detection_stopped": "2024-10-09T09:45:44",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "APOLLO11",
+        "hex": "43c79d",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c79d",
+        "alert_detected": "2024-10-09T15:45:09",
+        "alert_last_seen": "2024-10-09T15:49:31",
+        "alert_detection_stopped": "2024-10-09T15:49:36",
+        "alert_status": "inactive"
     }
 ]
