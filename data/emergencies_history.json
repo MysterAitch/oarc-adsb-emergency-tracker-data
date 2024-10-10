@@ -10208,5 +10208,15 @@
         "alert_last_seen": "2024-10-09T15:49:31",
         "alert_detection_stopped": "2024-10-09T15:49:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VENGE033",
+        "hex": "43c6c5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6c5",
+        "alert_detected": "2024-10-10T15:21:38",
+        "alert_last_seen": "2024-10-10T15:28:50",
+        "alert_detection_stopped": "2024-10-10T15:28:55",
+        "alert_status": "inactive"
     }
 ]
