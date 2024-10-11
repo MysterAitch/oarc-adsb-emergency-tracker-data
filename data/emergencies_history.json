@@ -10228,5 +10228,15 @@
         "alert_last_seen": "2024-10-11T10:21:09",
         "alert_detection_stopped": "2024-10-11T10:21:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GUNAC   ",
+        "hex": "40745c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40745c",
+        "alert_detected": "2024-10-11T11:11:29",
+        "alert_last_seen": "2024-10-11T11:15:01",
+        "alert_detection_stopped": "2024-10-11T11:15:06",
+        "alert_status": "inactive"
     }
 ]
