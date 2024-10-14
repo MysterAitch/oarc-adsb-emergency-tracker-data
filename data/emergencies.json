@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GCLWW   ",
-        "hex": "407b7a",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407b7a",
-        "alert_detected": "2024-10-14T12:57:36",
-        "alert_last_seen": "2024-10-14T13:00:02",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
