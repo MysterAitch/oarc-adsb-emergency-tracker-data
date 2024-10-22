@@ -10338,5 +10338,25 @@
         "alert_last_seen": "2024-10-21T14:09:57",
         "alert_detection_stopped": "2024-10-21T14:10:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS53RN ",
+        "hex": "407180",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407180",
+        "alert_detected": "2024-10-22T08:31:05",
+        "alert_last_seen": "2024-10-22T08:31:21",
+        "alert_detection_stopped": "2024-10-22T08:31:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS36AB ",
+        "hex": "407180",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407180",
+        "alert_detected": "2024-10-22T08:32:51",
+        "alert_last_seen": "2024-10-22T08:34:22",
+        "alert_detection_stopped": "2024-10-22T08:34:27",
+        "alert_status": "inactive"
     }
 ]
