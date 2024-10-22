@@ -10358,5 +10358,15 @@
         "alert_last_seen": "2024-10-22T08:34:22",
         "alert_detection_stopped": "2024-10-22T08:34:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS36AB ",
+        "hex": "407180",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407180",
+        "alert_detected": "2024-10-22T08:34:57",
+        "alert_last_seen": "2024-10-22T08:35:28",
+        "alert_detection_stopped": "2024-10-22T08:35:33",
+        "alert_status": "inactive"
     }
 ]
