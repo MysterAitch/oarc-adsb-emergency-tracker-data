@@ -10378,5 +10378,15 @@
         "alert_last_seen": "2024-10-22T08:43:00",
         "alert_detection_stopped": "2024-10-22T08:43:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CASTLE10",
+        "hex": "40783c",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=40783c",
+        "alert_detected": "2024-10-22T11:52:19",
+        "alert_last_seen": "2024-10-22T11:52:25",
+        "alert_detection_stopped": "2024-10-22T11:52:30",
+        "alert_status": "inactive"
     }
 ]
