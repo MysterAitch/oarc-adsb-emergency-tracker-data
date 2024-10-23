@@ -10428,5 +10428,35 @@
         "alert_last_seen": "2024-10-23T15:55:27",
         "alert_detection_stopped": "2024-10-23T15:55:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR129R ",
+        "hex": "406814",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406814",
+        "alert_detected": "2024-10-23T15:55:37",
+        "alert_last_seen": "2024-10-23T15:56:32",
+        "alert_detection_stopped": "2024-10-23T15:56:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR129R ",
+        "hex": "406814",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406814",
+        "alert_detected": "2024-10-23T15:56:47",
+        "alert_last_seen": "2024-10-23T15:58:33",
+        "alert_detection_stopped": "2024-10-23T15:58:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR129R ",
+        "hex": "406814",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406814",
+        "alert_detected": "2024-10-23T16:00:14",
+        "alert_last_seen": "2024-10-23T16:01:09",
+        "alert_detection_stopped": "2024-10-23T16:01:14",
+        "alert_status": "inactive"
     }
 ]
