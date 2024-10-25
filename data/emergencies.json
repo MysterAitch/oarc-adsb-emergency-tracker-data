@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DOG15   ",
-        "hex": "407efe",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=407efe",
-        "alert_detected": "2024-10-25T15:02:54",
-        "alert_last_seen": "2024-10-25T15:11:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
