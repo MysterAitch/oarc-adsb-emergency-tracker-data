@@ -10548,5 +10548,15 @@
         "alert_last_seen": "2024-10-26T14:03:01",
         "alert_detection_stopped": "2024-10-26T14:03:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBPRM   ",
+        "hex": "401952",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401952",
+        "alert_detected": "2024-10-26T14:03:46",
+        "alert_last_seen": "2024-10-26T14:06:12",
+        "alert_detection_stopped": "2024-10-26T14:06:17",
+        "alert_status": "inactive"
     }
 ]
