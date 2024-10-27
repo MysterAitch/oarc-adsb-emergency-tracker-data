@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "WMT4GN  ",
-        "hex": "471f55",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=471f55",
-        "alert_detected": "2024-10-27T19:56:09",
-        "alert_last_seen": "2024-10-27T20:08:23",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
