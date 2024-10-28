@@ -10598,5 +10598,15 @@
         "alert_last_seen": "2024-10-28T15:29:46",
         "alert_detection_stopped": "2024-10-28T15:29:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHT19T  ",
+        "hex": "405ee1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405ee1",
+        "alert_detected": "2024-10-28T16:54:29",
+        "alert_last_seen": "2024-10-28T17:02:21",
+        "alert_detection_stopped": "2024-10-28T17:02:26",
+        "alert_status": "inactive"
     }
 ]
