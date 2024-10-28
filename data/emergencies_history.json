@@ -10568,5 +10568,25 @@
         "alert_last_seen": "2024-10-27T20:17:05",
         "alert_detection_stopped": "2024-10-27T20:17:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "REDARROW",
+        "hex": "43c455",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c455",
+        "alert_detected": "2024-10-28T12:52:26",
+        "alert_last_seen": "2024-10-28T13:01:44",
+        "alert_detection_stopped": "2024-10-28T13:01:49",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "REDARROW",
+        "hex": "43c455",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c455",
+        "alert_detected": "2024-10-28T13:02:09",
+        "alert_last_seen": "2024-10-28T13:04:16",
+        "alert_detection_stopped": "2024-10-28T13:04:21",
+        "alert_status": "inactive"
     }
 ]
