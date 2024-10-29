@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "VYT74   ",
-        "hex": "43c8cb",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c8cb",
-        "alert_detected": "2024-10-29T13:35:51",
-        "alert_last_seen": "2024-10-29T13:46:25",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
