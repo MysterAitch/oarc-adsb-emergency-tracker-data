@@ -10658,5 +10658,15 @@
         "alert_last_seen": "2024-10-30T10:34:24",
         "alert_detection_stopped": "2024-10-30T10:34:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR7QB  ",
+        "hex": "4ca73e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4ca73e",
+        "alert_detected": "2024-10-30T21:13:55",
+        "alert_last_seen": "2024-10-30T21:13:55",
+        "alert_detection_stopped": "2024-10-30T21:14:00",
+        "alert_status": "inactive"
     }
 ]
