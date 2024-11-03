@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EIN394  ",
+        "hex": "4ca5c8",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4ca5c8",
+        "alert_detected": "2024-11-03T17:54:01",
+        "alert_last_seen": "2024-11-03T17:57:47",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
