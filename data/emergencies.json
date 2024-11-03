@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "AFR934  ",
+        "hex": "3949f9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3949f9",
+        "alert_detected": "2024-11-03T16:37:39",
+        "alert_last_seen": "2024-11-03T16:39:40",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
