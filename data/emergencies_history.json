@@ -10748,5 +10748,15 @@
         "alert_last_seen": "2024-11-03T18:07:25",
         "alert_detection_stopped": "2024-11-03T18:07:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY573C ",
+        "hex": "406b90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b90",
+        "alert_detected": "2024-11-04T08:37:06",
+        "alert_last_seen": "2024-11-04T09:05:04",
+        "alert_detection_stopped": "2024-11-04T09:05:09",
+        "alert_status": "inactive"
     }
 ]
