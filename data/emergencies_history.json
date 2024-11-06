@@ -10788,5 +10788,25 @@
         "alert_last_seen": "2024-11-05T11:12:03",
         "alert_detection_stopped": "2024-11-05T11:12:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE603  ",
+        "hex": "407777",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407777",
+        "alert_detected": "2024-11-06T10:14:18",
+        "alert_last_seen": "2024-11-06T10:19:39",
+        "alert_detection_stopped": "2024-11-06T10:19:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE603  ",
+        "hex": "407777",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407777",
+        "alert_detected": "2024-11-06T10:20:55",
+        "alert_last_seen": "2024-11-06T10:23:36",
+        "alert_detection_stopped": "2024-11-06T10:23:41",
+        "alert_status": "inactive"
     }
 ]
