@@ -10808,5 +10808,25 @@
         "alert_last_seen": "2024-11-06T10:23:36",
         "alert_detection_stopped": "2024-11-06T10:23:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PAGAN22 ",
+        "hex": "43c55b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c55b",
+        "alert_detected": "2024-11-06T12:54:39",
+        "alert_last_seen": "2024-11-06T12:58:30",
+        "alert_detection_stopped": "2024-11-06T12:58:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PAGAN22 ",
+        "hex": "43c55b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c55b",
+        "alert_detected": "2024-11-06T12:58:40",
+        "alert_last_seen": "2024-11-06T12:59:21",
+        "alert_detection_stopped": "2024-11-06T12:59:26",
+        "alert_status": "inactive"
     }
 ]
