@@ -10838,5 +10838,15 @@
         "alert_last_seen": "2024-11-07T14:36:26",
         "alert_detection_stopped": "2024-11-07T14:36:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ACA833  ",
+        "hex": "c06120",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c06120",
+        "alert_detected": "2024-11-08T09:29:01",
+        "alert_last_seen": "2024-11-08T09:52:58",
+        "alert_detection_stopped": "2024-11-08T09:53:03",
+        "alert_status": "inactive"
     }
 ]
