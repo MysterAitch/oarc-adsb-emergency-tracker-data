@@ -10868,5 +10868,15 @@
         "alert_last_seen": "2024-11-08T11:40:19",
         "alert_detection_stopped": "2024-11-08T11:40:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL17   ",
+        "hex": "a8c4d8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8c4d8",
+        "alert_detected": "2024-11-09T13:23:45",
+        "alert_last_seen": "2024-11-09T14:11:03",
+        "alert_detection_stopped": "2024-11-09T14:11:08",
+        "alert_status": "inactive"
     }
 ]
