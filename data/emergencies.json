@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "VLJ700U ",
+        "hex": "399188",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=399188",
+        "alert_detected": "2024-11-10T14:17:54",
+        "alert_last_seen": "2024-11-10T14:22:21",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
