@@ -10878,5 +10878,25 @@
         "alert_last_seen": "2024-11-09T14:11:03",
         "alert_detection_stopped": "2024-11-09T14:11:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VLJ700U ",
+        "hex": "399188",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=399188",
+        "alert_detected": "2024-11-10T14:17:54",
+        "alert_last_seen": "2024-11-10T14:30:33",
+        "alert_detection_stopped": "2024-11-10T14:30:39",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VLJ700U ",
+        "hex": "399188",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=399188",
+        "alert_detected": "2024-11-10T14:30:44",
+        "alert_last_seen": "2024-11-10T14:35:41",
+        "alert_detection_stopped": "2024-11-10T14:35:46",
+        "alert_status": "inactive"
     }
 ]
