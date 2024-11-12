@@ -10918,5 +10918,15 @@
         "alert_last_seen": "2024-11-12T10:22:14",
         "alert_detection_stopped": "2024-11-12T10:22:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAD50   ",
+        "hex": "400ea4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ea4",
+        "alert_detected": "2024-11-12T13:39:46",
+        "alert_last_seen": "2024-11-12T13:45:43",
+        "alert_detection_stopped": "2024-11-12T13:45:48",
+        "alert_status": "inactive"
     }
 ]
