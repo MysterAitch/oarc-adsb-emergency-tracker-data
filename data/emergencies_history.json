@@ -10938,5 +10938,15 @@
         "alert_last_seen": "2024-11-13T09:41:21",
         "alert_detection_stopped": "2024-11-13T09:41:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CASA346 ",
+        "hex": "345304",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=345304",
+        "alert_detected": "2024-11-13T12:46:48",
+        "alert_last_seen": "2024-11-13T12:48:09",
+        "alert_detection_stopped": "2024-11-13T12:48:14",
+        "alert_status": "inactive"
     }
 ]
