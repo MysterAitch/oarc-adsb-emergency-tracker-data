@@ -10928,5 +10928,15 @@
         "alert_last_seen": "2024-11-12T13:45:43",
         "alert_detection_stopped": "2024-11-12T13:45:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT77   ",
+        "hex": "43c8cb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cb",
+        "alert_detected": "2024-11-13T09:29:47",
+        "alert_last_seen": "2024-11-13T09:41:21",
+        "alert_detection_stopped": "2024-11-13T09:41:26",
+        "alert_status": "inactive"
     }
 ]
