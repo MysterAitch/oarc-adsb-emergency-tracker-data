@@ -10968,5 +10968,15 @@
         "alert_last_seen": "2024-11-14T16:34:54",
         "alert_detection_stopped": "2024-11-14T16:34:59",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCGYB   ",
+        "hex": "4065dc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4065dc",
+        "alert_detected": "2024-11-15T08:43:18",
+        "alert_last_seen": "2024-11-15T08:43:18",
+        "alert_detection_stopped": "2024-11-15T08:43:24",
+        "alert_status": "inactive"
     }
 ]
