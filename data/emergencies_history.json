@@ -10998,5 +10998,15 @@
         "alert_last_seen": "2024-11-16T17:13:14",
         "alert_detection_stopped": "2024-11-16T17:13:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GSACR   ",
+        "hex": "402da3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402da3",
+        "alert_detected": "2024-11-17T13:10:33",
+        "alert_last_seen": "2024-11-17T13:12:09",
+        "alert_detection_stopped": "2024-11-17T13:12:14",
+        "alert_status": "inactive"
     }
 ]
