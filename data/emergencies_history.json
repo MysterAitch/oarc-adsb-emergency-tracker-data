@@ -11028,5 +11028,15 @@
         "alert_last_seen": "2024-11-18T10:18:07",
         "alert_detection_stopped": "2024-11-18T10:18:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CNV6516 ",
+        "hex": "ae03f1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae03f1",
+        "alert_detected": "2024-11-18T11:44:21",
+        "alert_last_seen": "2024-11-18T11:44:37",
+        "alert_detection_stopped": "2024-11-18T11:44:42",
+        "alert_status": "inactive"
     }
 ]
