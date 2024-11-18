@@ -11018,5 +11018,15 @@
         "alert_last_seen": "2024-11-18T09:43:51",
         "alert_detection_stopped": "2024-11-18T09:43:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SKY04   ",
+        "hex": "400eed",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eed",
+        "alert_detected": "2024-11-18T10:16:15",
+        "alert_last_seen": "2024-11-18T10:18:07",
+        "alert_detection_stopped": "2024-11-18T10:18:12",
+        "alert_status": "inactive"
     }
 ]
