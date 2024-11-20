@@ -11108,5 +11108,15 @@
         "alert_last_seen": "2024-11-20T15:57:40",
         "alert_detection_stopped": "2024-11-20T15:57:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE66E  ",
+        "hex": "40676a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40676a",
+        "alert_detected": "2024-11-20T18:09:34",
+        "alert_last_seen": "2024-11-20T18:20:22",
+        "alert_detection_stopped": "2024-11-20T18:20:27",
+        "alert_status": "inactive"
     }
 ]
