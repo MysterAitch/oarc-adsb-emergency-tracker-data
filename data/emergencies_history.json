@@ -11078,5 +11078,15 @@
         "alert_last_seen": "2024-11-20T12:08:57",
         "alert_detection_stopped": "2024-11-20T12:09:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AIB01GZ ",
+        "hex": "3895bb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3895bb",
+        "alert_detected": "2024-11-20T12:31:24",
+        "alert_last_seen": "2024-11-20T12:31:29",
+        "alert_detection_stopped": "2024-11-20T12:31:34",
+        "alert_status": "inactive"
     }
 ]
