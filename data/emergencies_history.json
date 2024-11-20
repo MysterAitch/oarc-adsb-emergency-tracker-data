@@ -11118,5 +11118,15 @@
         "alert_last_seen": "2024-11-20T18:20:22",
         "alert_detection_stopped": "2024-11-20T18:20:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WARLOR21",
+        "hex": "43c493",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c493",
+        "alert_detected": "2024-11-20T21:25:31",
+        "alert_last_seen": "2024-11-20T21:30:52",
+        "alert_detection_stopped": "2024-11-20T21:30:57",
+        "alert_status": "inactive"
     }
 ]
