@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SHT15A  ",
-        "hex": "406250",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=406250",
-        "alert_detected": "2024-11-21T07:58:40",
-        "alert_last_seen": "2024-11-21T08:21:42",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
