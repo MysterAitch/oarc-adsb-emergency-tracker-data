@@ -11138,5 +11138,35 @@
         "alert_last_seen": "2024-11-21T08:23:17",
         "alert_detection_stopped": "2024-11-21T08:23:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VJH387  ",
+        "hex": "3cc158",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3cc158",
+        "alert_detected": "2024-11-21T10:15:10",
+        "alert_last_seen": "2024-11-21T10:45:55",
+        "alert_detection_stopped": "2024-11-21T10:46:00",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VJH387  ",
+        "hex": "3cc158",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3cc158",
+        "alert_detected": "2024-11-21T10:46:35",
+        "alert_last_seen": "2024-11-21T10:47:31",
+        "alert_detection_stopped": "2024-11-21T10:47:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VJH387  ",
+        "hex": "3cc158",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3cc158",
+        "alert_detected": "2024-11-21T10:49:06",
+        "alert_last_seen": "2024-11-21T10:50:02",
+        "alert_detection_stopped": "2024-11-21T10:50:07",
+        "alert_status": "inactive"
     }
 ]
