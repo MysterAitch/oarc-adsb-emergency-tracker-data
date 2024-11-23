@@ -11198,5 +11198,15 @@
         "alert_last_seen": "2024-11-22T13:29:03",
         "alert_detection_stopped": "2024-11-22T13:29:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NSZ6BG  ",
+        "hex": "4aca14",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4aca14",
+        "alert_detected": "2024-11-23T12:39:52",
+        "alert_last_seen": "2024-11-23T12:44:48",
+        "alert_detection_stopped": "2024-11-23T12:44:53",
+        "alert_status": "inactive"
     }
 ]
