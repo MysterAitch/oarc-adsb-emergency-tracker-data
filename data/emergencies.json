@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "WUK7104 ",
+        "hex": "407b70",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b70",
+        "alert_detected": "2024-11-24T15:54:58",
+        "alert_last_seen": "2024-11-24T15:56:33",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
