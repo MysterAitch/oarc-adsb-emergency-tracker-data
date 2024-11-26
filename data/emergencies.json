@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GOJAG   ",
-        "hex": "404dcb",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=404dcb",
-        "alert_detected": "2024-11-26T13:26:00",
-        "alert_last_seen": "2024-11-26T13:40:01",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
