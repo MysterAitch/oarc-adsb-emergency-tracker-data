@@ -11328,5 +11328,15 @@
         "alert_last_seen": "2024-11-26T13:41:56",
         "alert_detection_stopped": "2024-11-26T13:42:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCDZG   ",
+        "hex": "404fa7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404fa7",
+        "alert_detected": "2024-11-27T10:16:05",
+        "alert_last_seen": "2024-11-27T10:17:11",
+        "alert_detection_stopped": "2024-11-27T10:17:16",
+        "alert_status": "inactive"
     }
 ]
