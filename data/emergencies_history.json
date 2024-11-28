@@ -11358,5 +11358,15 @@
         "alert_last_seen": "2024-11-28T11:13:36",
         "alert_detection_stopped": "2024-11-28T11:13:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBSNX   ",
+        "hex": "40320f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40320f",
+        "alert_detected": "2024-11-28T14:00:37",
+        "alert_last_seen": "2024-11-28T14:04:14",
+        "alert_detection_stopped": "2024-11-28T14:04:19",
+        "alert_status": "inactive"
     }
 ]
