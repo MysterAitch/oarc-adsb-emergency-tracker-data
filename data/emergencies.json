@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GCTCE   ",
+        "hex": "400d01",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400d01",
+        "alert_detected": "2024-11-29T11:00:19",
+        "alert_last_seen": "2024-11-29T11:02:05",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
