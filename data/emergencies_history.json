@@ -11568,5 +11568,15 @@
         "alert_last_seen": "2024-11-29T18:28:28",
         "alert_detection_stopped": "2024-11-29T18:28:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR354  ",
+        "hex": "406b4a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b4a",
+        "alert_detected": "2024-11-29T19:58:16",
+        "alert_last_seen": "2024-11-29T20:34:54",
+        "alert_detection_stopped": "2024-11-29T20:34:59",
+        "alert_status": "inactive"
     }
 ]
