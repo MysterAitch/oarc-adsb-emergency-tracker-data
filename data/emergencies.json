@@ -1,11 +1,11 @@
 [
     {
-        "flight": "NONE",
-        "hex": "391a4d",
+        "flight": "WIT23   ",
+        "hex": "400eec",
         "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=391a4d",
-        "alert_detected": "2024-11-29T09:32:26",
-        "alert_last_seen": "2024-11-29T09:33:01",
+        "link": "https://adsb.oarc.uk/?icao=400eec",
+        "alert_detected": "2024-11-29T09:40:39",
+        "alert_last_seen": "2024-11-29T09:40:49",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
