@@ -11418,5 +11418,35 @@
         "alert_last_seen": "2024-11-29T10:05:53",
         "alert_detection_stopped": "2024-11-29T10:05:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL24   ",
+        "hex": "400ee4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ee4",
+        "alert_detected": "2024-11-29T10:11:45",
+        "alert_last_seen": "2024-11-29T10:11:51",
+        "alert_detection_stopped": "2024-11-29T10:11:56",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL24   ",
+        "hex": "400ee4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ee4",
+        "alert_detected": "2024-11-29T10:12:31",
+        "alert_last_seen": "2024-11-29T10:12:31",
+        "alert_detection_stopped": "2024-11-29T10:12:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL24   ",
+        "hex": "400ee4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ee4",
+        "alert_detected": "2024-11-29T10:13:27",
+        "alert_last_seen": "2024-11-29T10:14:23",
+        "alert_detection_stopped": "2024-11-29T10:14:28",
+        "alert_status": "inactive"
     }
 ]
