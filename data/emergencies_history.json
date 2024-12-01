@@ -11598,5 +11598,15 @@
         "alert_last_seen": "2024-12-01T07:33:20",
         "alert_detection_stopped": "2024-12-01T07:33:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DEGZZ   ",
+        "hex": "3d1723",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d1723",
+        "alert_detected": "2024-12-01T10:04:42",
+        "alert_last_seen": "2024-12-01T10:04:42",
+        "alert_detection_stopped": "2024-12-01T10:04:47",
+        "alert_status": "inactive"
     }
 ]
