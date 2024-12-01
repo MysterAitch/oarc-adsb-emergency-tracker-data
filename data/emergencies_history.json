@@ -11588,5 +11588,15 @@
         "alert_last_seen": "2024-11-30T08:00:53",
         "alert_detection_stopped": "2024-11-30T08:00:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TRA14F  ",
+        "hex": "485061",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=485061",
+        "alert_detected": "2024-12-01T07:21:06",
+        "alert_last_seen": "2024-12-01T07:33:20",
+        "alert_detection_stopped": "2024-12-01T07:33:25",
+        "alert_status": "inactive"
     }
 ]
