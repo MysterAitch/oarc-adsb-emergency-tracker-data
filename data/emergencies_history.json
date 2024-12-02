@@ -11608,5 +11608,15 @@
         "alert_last_seen": "2024-12-01T10:04:42",
         "alert_detection_stopped": "2024-12-01T10:04:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SYS35   ",
+        "hex": "43c8de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8de",
+        "alert_detected": "2024-12-02T09:55:50",
+        "alert_last_seen": "2024-12-02T09:56:56",
+        "alert_detection_stopped": "2024-12-02T09:57:01",
+        "alert_status": "inactive"
     }
 ]
