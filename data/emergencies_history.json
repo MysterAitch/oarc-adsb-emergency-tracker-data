@@ -11618,5 +11618,15 @@
         "alert_last_seen": "2024-12-02T09:56:56",
         "alert_detection_stopped": "2024-12-02T09:57:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR19LJ ",
+        "hex": "3944f5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3944f5",
+        "alert_detected": "2024-12-02T13:07:53",
+        "alert_last_seen": "2024-12-02T13:10:04",
+        "alert_detection_stopped": "2024-12-02T13:10:09",
+        "alert_status": "inactive"
     }
 ]
