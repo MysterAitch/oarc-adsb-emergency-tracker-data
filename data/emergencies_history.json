@@ -11628,5 +11628,15 @@
         "alert_last_seen": "2024-12-02T13:10:04",
         "alert_detection_stopped": "2024-12-02T13:10:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHF284  ",
+        "hex": "43c299",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c299",
+        "alert_detected": "2024-12-02T16:13:43",
+        "alert_last_seen": "2024-12-02T16:13:59",
+        "alert_detection_stopped": "2024-12-02T16:14:04",
+        "alert_status": "inactive"
     }
 ]
