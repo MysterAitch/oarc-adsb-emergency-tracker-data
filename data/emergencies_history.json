@@ -11638,5 +11638,15 @@
         "alert_last_seen": "2024-12-02T16:13:59",
         "alert_detection_stopped": "2024-12-02T16:14:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ICE750  ",
+        "hex": "4cc4f1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cc4f1",
+        "alert_detected": "2024-12-03T01:34:04",
+        "alert_last_seen": "2024-12-03T01:36:10",
+        "alert_detection_stopped": "2024-12-03T01:36:15",
+        "alert_status": "inactive"
     }
 ]
