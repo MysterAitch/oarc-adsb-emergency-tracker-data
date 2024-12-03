@@ -11668,5 +11668,15 @@
         "alert_last_seen": "2024-12-03T10:55:01",
         "alert_detection_stopped": "2024-12-03T10:55:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT90   ",
+        "hex": "43c8ca",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8ca",
+        "alert_detected": "2024-12-03T14:12:58",
+        "alert_last_seen": "2024-12-03T14:15:44",
+        "alert_detection_stopped": "2024-12-03T14:15:49",
+        "alert_status": "inactive"
     }
 ]
