@@ -11738,5 +11738,25 @@
         "alert_last_seen": "2024-12-05T13:09:13",
         "alert_detection_stopped": "2024-12-05T13:09:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG22Y  ",
+        "hex": "400796",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400796",
+        "alert_detected": "2024-12-05T16:44:05",
+        "alert_last_seen": "2024-12-05T17:00:56",
+        "alert_detection_stopped": "2024-12-05T17:01:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "400796",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400796",
+        "alert_detected": "2024-12-05T17:04:48",
+        "alert_last_seen": "2024-12-05T17:05:39",
+        "alert_detection_stopped": "2024-12-05T17:05:44",
+        "alert_status": "inactive"
     }
 ]
