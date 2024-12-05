@@ -11728,5 +11728,15 @@
         "alert_last_seen": "2024-12-05T13:01:05",
         "alert_detection_stopped": "2024-12-05T13:01:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL47   ",
+        "hex": "43c8d8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d8",
+        "alert_detected": "2024-12-05T12:26:35",
+        "alert_last_seen": "2024-12-05T13:09:13",
+        "alert_detection_stopped": "2024-12-05T13:09:18",
+        "alert_status": "inactive"
     }
 ]
