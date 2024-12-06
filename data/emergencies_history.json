@@ -11818,5 +11818,15 @@
         "alert_last_seen": "2024-12-06T10:53:33",
         "alert_detection_stopped": "2024-12-06T10:53:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DKHGW   ",
+        "hex": "3e6f1e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3e6f1e",
+        "alert_detected": "2024-12-06T13:33:51",
+        "alert_last_seen": "2024-12-06T13:34:51",
+        "alert_detection_stopped": "2024-12-06T13:34:56",
+        "alert_status": "inactive"
     }
 ]
