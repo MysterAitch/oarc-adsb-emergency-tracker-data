@@ -11828,5 +11828,15 @@
         "alert_last_seen": "2024-12-06T13:34:51",
         "alert_detection_stopped": "2024-12-06T13:34:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GRDWN   ",
+        "hex": "40817d",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=40817d",
+        "alert_detected": "2024-12-06T16:00:16",
+        "alert_last_seen": "2024-12-06T16:00:22",
+        "alert_detection_stopped": "2024-12-06T16:00:27",
+        "alert_status": "inactive"
     }
 ]
