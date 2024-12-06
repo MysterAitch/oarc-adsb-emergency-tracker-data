@@ -11798,5 +11798,15 @@
         "alert_last_seen": "2024-12-06T07:46:14",
         "alert_detection_stopped": "2024-12-06T07:46:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY72CN ",
+        "hex": "406442",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406442",
+        "alert_detected": "2024-12-06T10:17:44",
+        "alert_last_seen": "2024-12-06T10:33:40",
+        "alert_detection_stopped": "2024-12-06T10:33:45",
+        "alert_status": "inactive"
     }
 ]
