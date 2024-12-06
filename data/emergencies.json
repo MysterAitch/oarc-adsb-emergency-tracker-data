@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AFR1887 ",
-        "hex": "398567",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=398567",
-        "alert_detected": "2024-12-06T07:29:43",
-        "alert_last_seen": "2024-12-06T07:30:54",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
