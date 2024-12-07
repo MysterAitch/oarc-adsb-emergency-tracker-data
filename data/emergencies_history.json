@@ -11858,5 +11858,15 @@
         "alert_last_seen": "2024-12-07T17:47:16",
         "alert_detection_stopped": "2024-12-07T17:47:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WUK443  ",
+        "hex": "407b54",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b54",
+        "alert_detected": "2024-12-07T18:44:09",
+        "alert_last_seen": "2024-12-07T19:16:56",
+        "alert_detection_stopped": "2024-12-07T19:17:01",
+        "alert_status": "inactive"
     }
 ]
