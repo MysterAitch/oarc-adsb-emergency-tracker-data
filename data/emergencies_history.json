@@ -11888,5 +11888,15 @@
         "alert_last_seen": "2024-12-08T15:27:56",
         "alert_detection_stopped": "2024-12-08T15:28:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DFC62H  ",
+        "hex": "49d086",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=49d086",
+        "alert_detected": "2024-12-08T17:18:07",
+        "alert_last_seen": "2024-12-08T17:18:53",
+        "alert_detection_stopped": "2024-12-08T17:18:58",
+        "alert_status": "inactive"
     }
 ]
