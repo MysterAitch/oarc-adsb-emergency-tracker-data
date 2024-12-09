@@ -11928,5 +11928,15 @@
         "alert_last_seen": "2024-12-09T12:32:34",
         "alert_detection_stopped": "2024-12-09T12:32:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JEDI0022",
+        "hex": "43caee",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43caee",
+        "alert_detected": "2024-12-09T18:46:05",
+        "alert_last_seen": "2024-12-09T18:50:12",
+        "alert_detection_stopped": "2024-12-09T18:50:17",
+        "alert_status": "inactive"
     }
 ]
