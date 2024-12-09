@@ -11908,5 +11908,15 @@
         "alert_last_seen": "2024-12-09T11:41:48",
         "alert_detection_stopped": "2024-12-09T11:41:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAT60   ",
+        "hex": "400ecf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ecf",
+        "alert_detected": "2024-12-09T11:54:17",
+        "alert_last_seen": "2024-12-09T11:57:49",
+        "alert_detection_stopped": "2024-12-09T11:57:54",
+        "alert_status": "inactive"
     }
 ]
