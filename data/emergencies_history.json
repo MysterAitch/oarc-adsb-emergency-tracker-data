@@ -11948,5 +11948,15 @@
         "alert_last_seen": "2024-12-09T18:57:44",
         "alert_detection_stopped": "2024-12-09T18:57:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RUSTY1  ",
+        "hex": "c088a9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c088a9",
+        "alert_detected": "2024-12-10T08:18:18",
+        "alert_last_seen": "2024-12-10T08:19:13",
+        "alert_detection_stopped": "2024-12-10T08:19:18",
+        "alert_status": "inactive"
     }
 ]
