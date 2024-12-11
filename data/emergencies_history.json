@@ -11968,5 +11968,15 @@
         "alert_last_seen": "2024-12-10T13:53:41",
         "alert_detection_stopped": "2024-12-10T13:53:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MARINE11",
+        "hex": "43c6e7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6e7",
+        "alert_detected": "2024-12-11T13:34:37",
+        "alert_last_seen": "2024-12-11T13:34:37",
+        "alert_detection_stopped": "2024-12-11T13:34:43",
+        "alert_status": "inactive"
     }
 ]
