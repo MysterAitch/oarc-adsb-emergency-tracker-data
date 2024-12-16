@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EZY29GJ ",
-        "hex": "406d90",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=406d90",
-        "alert_detected": "2024-12-16T10:56:10",
-        "alert_last_seen": "2024-12-16T10:56:16",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
