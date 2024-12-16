@@ -12068,5 +12068,15 @@
         "alert_last_seen": "2024-12-14T11:55:55",
         "alert_detection_stopped": "2024-12-14T11:56:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY29GJ ",
+        "hex": "406d90",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406d90",
+        "alert_detected": "2024-12-16T10:52:33",
+        "alert_last_seen": "2024-12-16T10:53:29",
+        "alert_detection_stopped": "2024-12-16T10:53:34",
+        "alert_status": "inactive"
     }
 ]
