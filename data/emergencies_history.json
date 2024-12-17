@@ -12118,5 +12118,15 @@
         "alert_last_seen": "2024-12-17T18:19:11",
         "alert_detection_stopped": "2024-12-17T18:19:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG91YC ",
+        "hex": "400880",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400880",
+        "alert_detected": "2024-12-17T20:48:33",
+        "alert_last_seen": "2024-12-17T21:13:41",
+        "alert_detection_stopped": "2024-12-17T21:13:46",
+        "alert_status": "inactive"
     }
 ]
