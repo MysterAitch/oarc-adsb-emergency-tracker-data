@@ -12158,5 +12158,15 @@
         "alert_last_seen": "2024-12-19T15:41:39",
         "alert_detection_stopped": "2024-12-19T15:41:44",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY698J ",
+        "hex": "40690d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40690d",
+        "alert_detected": "2024-12-20T08:58:16",
+        "alert_last_seen": "2024-12-20T09:25:15",
+        "alert_detection_stopped": "2024-12-20T09:25:20",
+        "alert_status": "inactive"
     }
 ]
