@@ -12308,5 +12308,15 @@
         "alert_last_seen": "2024-12-25T10:52:20",
         "alert_detection_stopped": "2024-12-25T10:52:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR412  ",
+        "hex": "39c421",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39c421",
+        "alert_detected": "2024-12-25T10:52:55",
+        "alert_last_seen": "2024-12-25T11:03:44",
+        "alert_detection_stopped": "2024-12-25T11:03:49",
+        "alert_status": "inactive"
     }
 ]
