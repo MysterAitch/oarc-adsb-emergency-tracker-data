@@ -12338,5 +12338,15 @@
         "alert_last_seen": "2024-12-26T06:38:19",
         "alert_detection_stopped": "2024-12-26T06:38:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU47TL ",
+        "hex": "440175",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440175",
+        "alert_detected": "2024-12-26T08:11:04",
+        "alert_last_seen": "2024-12-26T08:20:58",
+        "alert_detection_stopped": "2024-12-26T08:21:03",
+        "alert_status": "inactive"
     }
 ]
