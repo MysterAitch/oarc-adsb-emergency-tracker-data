@@ -12328,5 +12328,15 @@
         "alert_last_seen": "2024-12-25T14:53:27",
         "alert_detection_stopped": "2024-12-25T14:53:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR51U  ",
+        "hex": "394a14",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=394a14",
+        "alert_detected": "2024-12-26T06:35:53",
+        "alert_last_seen": "2024-12-26T06:38:19",
+        "alert_detection_stopped": "2024-12-26T06:38:24",
+        "alert_status": "inactive"
     }
 ]
