@@ -12428,5 +12428,15 @@
         "alert_last_seen": "2024-12-27T12:34:50",
         "alert_detection_stopped": "2024-12-27T12:34:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BZE02A  ",
+        "hex": "4008cf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4008cf",
+        "alert_detected": "2024-12-27T13:06:06",
+        "alert_last_seen": "2024-12-27T13:14:25",
+        "alert_detection_stopped": "2024-12-27T13:14:30",
+        "alert_status": "inactive"
     }
 ]
