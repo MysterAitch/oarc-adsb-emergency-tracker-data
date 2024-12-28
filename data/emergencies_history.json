@@ -12458,5 +12458,15 @@
         "alert_last_seen": "2024-12-27T15:49:00",
         "alert_detection_stopped": "2024-12-27T15:49:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JAF74L  ",
+        "hex": "449683",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=449683",
+        "alert_detected": "2024-12-28T17:35:21",
+        "alert_last_seen": "2024-12-28T18:20:54",
+        "alert_detection_stopped": "2024-12-28T18:21:00",
+        "alert_status": "inactive"
     }
 ]
