@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "TSC206  ",
-        "hex": "c07995",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=c07995",
-        "alert_detected": "2025-01-05T08:19:29",
-        "alert_last_seen": "2025-01-05T08:28:28",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
