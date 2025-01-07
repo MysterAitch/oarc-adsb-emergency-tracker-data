@@ -12748,5 +12748,15 @@
         "alert_last_seen": "2025-01-07T11:43:48",
         "alert_detection_stopped": "2025-01-07T11:43:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NCKL06  ",
+        "hex": "400e9c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e9c",
+        "alert_detected": "2025-01-07T12:17:10",
+        "alert_last_seen": "2025-01-07T12:28:20",
+        "alert_detection_stopped": "2025-01-07T12:28:25",
+        "alert_status": "inactive"
     }
 ]
