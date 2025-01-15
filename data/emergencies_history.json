@@ -12988,5 +12988,25 @@
         "alert_last_seen": "2025-01-15T11:55:20",
         "alert_detection_stopped": "2025-01-15T11:55:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RRR95310",
+        "hex": "43c797",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c797",
+        "alert_detected": "2025-01-15T11:55:30",
+        "alert_last_seen": "2025-01-15T12:43:07",
+        "alert_detection_stopped": "2025-01-15T12:43:12",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GUNFIG21",
+        "hex": "43c785",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c785",
+        "alert_detected": "2025-01-15T12:49:59",
+        "alert_last_seen": "2025-01-15T12:55:16",
+        "alert_detection_stopped": "2025-01-15T12:55:21",
+        "alert_status": "inactive"
     }
 ]
