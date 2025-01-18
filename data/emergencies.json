@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "CFC4289 ",
-        "hex": "c2b5c1",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=c2b5c1",
-        "alert_detected": "2025-01-18T14:21:15",
-        "alert_last_seen": "2025-01-18T15:06:50",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
