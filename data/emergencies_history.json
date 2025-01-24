@@ -13208,5 +13208,15 @@
         "alert_last_seen": "2025-01-23T11:50:46",
         "alert_detection_stopped": "2025-01-23T11:50:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU950  ",
+        "hex": "400ef1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ef1",
+        "alert_detected": "2025-01-24T11:14:13",
+        "alert_last_seen": "2025-01-24T11:22:26",
+        "alert_detection_stopped": "2025-01-24T11:22:31",
+        "alert_status": "inactive"
     }
 ]
