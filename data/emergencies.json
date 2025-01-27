@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "BEL2LM  ",
+        "hex": "44cdca",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=44cdca",
+        "alert_detected": "2025-01-27T14:31:40",
+        "alert_last_seen": "2025-01-27T14:35:17",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
