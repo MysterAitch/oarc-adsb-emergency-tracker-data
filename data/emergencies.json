@@ -4,8 +4,8 @@
         "hex": "ae04fd",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=ae04fd",
-        "alert_detected": "2025-01-27T11:21:10",
-        "alert_last_seen": "2025-01-27T11:22:46",
+        "alert_detected": "2025-01-27T11:25:44",
+        "alert_last_seen": "2025-01-27T11:29:00",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
