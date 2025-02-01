@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "CJT372  ",
-        "hex": "c0208a",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=c0208a",
-        "alert_detected": "2025-01-31T22:03:44",
-        "alert_last_seen": "2025-01-31T23:54:00",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

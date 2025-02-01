@@ -13538,5 +13538,25 @@
         "alert_last_seen": "2025-01-31T07:19:42",
         "alert_detection_stopped": "2025-01-31T07:19:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CJT372  ",
+        "hex": "c0208a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0208a",
+        "alert_detected": "2025-01-31T22:03:44",
+        "alert_last_seen": "2025-02-01T00:04:33",
+        "alert_detection_stopped": "2025-02-01T00:04:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CJT372  ",
+        "hex": "c0208a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0208a",
+        "alert_detected": "2025-02-01T00:05:29",
+        "alert_last_seen": "2025-02-01T00:06:29",
+        "alert_detection_stopped": "2025-02-01T00:06:34",
+        "alert_status": "inactive"
     }
 ]
