@@ -5,17 +5,7 @@
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=a16ec2",
         "alert_detected": "2025-02-03T09:42:26",
-        "alert_last_seen": "2025-02-03T09:49:20",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    },
-    {
-        "flight": "MONICA21",
-        "hex": "4009d3",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4009d3",
-        "alert_detected": "2025-02-03T09:45:38",
-        "alert_last_seen": "2025-02-03T09:49:20",
+        "alert_last_seen": "2025-02-03T09:56:52",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
