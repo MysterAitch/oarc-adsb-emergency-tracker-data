@@ -13878,5 +13878,15 @@
         "alert_last_seen": "2025-02-06T09:49:51",
         "alert_detection_stopped": "2025-02-06T09:49:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NOMAD2  ",
+        "hex": "400e8e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e8e",
+        "alert_detected": "2025-02-06T13:49:43",
+        "alert_last_seen": "2025-02-06T13:59:52",
+        "alert_detection_stopped": "2025-02-06T13:59:57",
+        "alert_status": "inactive"
     }
 ]
