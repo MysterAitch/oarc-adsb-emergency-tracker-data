@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SMASH22 ",
+        "hex": "3fb2d1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3fb2d1",
+        "alert_detected": "2025-02-07T08:49:44",
+        "alert_last_seen": "2025-02-07T08:54:46",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
