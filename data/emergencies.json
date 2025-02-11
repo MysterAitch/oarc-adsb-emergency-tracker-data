@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EZY97AQ ",
+        "hex": "40772d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40772d",
+        "alert_detected": "2025-02-11T19:46:51",
+        "alert_last_seen": "2025-02-11T19:51:53",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
