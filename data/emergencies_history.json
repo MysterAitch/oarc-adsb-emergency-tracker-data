@@ -14138,5 +14138,15 @@
         "alert_last_seen": "2025-02-15T10:28:31",
         "alert_detection_stopped": "2025-02-15T10:28:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "4019a6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019a6",
+        "alert_detected": "2025-02-16T14:10:35",
+        "alert_last_seen": "2025-02-16T14:11:31",
+        "alert_detection_stopped": "2025-02-16T14:11:36",
+        "alert_status": "inactive"
     }
 ]
