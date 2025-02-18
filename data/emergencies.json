@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "AAL63   ",
+        "hex": "ac0906",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ac0906",
+        "alert_detected": "2025-02-18T09:22:20",
+        "alert_last_seen": "2025-02-18T09:30:14",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
