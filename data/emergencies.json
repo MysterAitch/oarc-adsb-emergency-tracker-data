@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "HKY819  ",
+        "hex": "adfdb9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfdb9",
+        "alert_detected": "2025-02-22T15:13:10",
+        "alert_last_seen": "2025-02-22T15:17:52",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
