@@ -14388,5 +14388,15 @@
         "alert_last_seen": "2025-02-24T11:06:08",
         "alert_detection_stopped": "2025-02-24T11:06:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VICTR54 ",
+        "hex": "43c1fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fd",
+        "alert_detected": "2025-02-24T11:07:08",
+        "alert_last_seen": "2025-02-24T11:08:49",
+        "alert_detection_stopped": "2025-02-24T11:08:54",
+        "alert_status": "inactive"
     }
 ]
