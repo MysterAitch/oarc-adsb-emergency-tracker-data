@@ -14578,5 +14578,15 @@
         "alert_last_seen": "2025-02-26T13:29:14",
         "alert_detection_stopped": "2025-02-26T13:29:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AUR79B  ",
+        "hex": "40814a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40814a",
+        "alert_detected": "2025-02-26T16:37:30",
+        "alert_last_seen": "2025-02-26T17:00:06",
+        "alert_detection_stopped": "2025-02-26T17:00:11",
+        "alert_status": "inactive"
     }
 ]
