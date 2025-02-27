@@ -14608,5 +14608,15 @@
         "alert_last_seen": "2025-02-27T09:43:35",
         "alert_detection_stopped": "2025-02-27T09:43:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MADRS25 ",
+        "hex": "43c700",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c700",
+        "alert_detected": "2025-02-27T09:55:10",
+        "alert_last_seen": "2025-02-27T10:26:20",
+        "alert_detection_stopped": "2025-02-27T10:26:25",
+        "alert_status": "inactive"
     }
 ]
