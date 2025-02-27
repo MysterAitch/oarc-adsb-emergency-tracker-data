@@ -14658,5 +14658,15 @@
         "alert_last_seen": "2025-02-27T15:53:28",
         "alert_detection_stopped": "2025-02-27T15:53:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ELY007  ",
+        "hex": "7380c9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=7380c9",
+        "alert_detected": "2025-02-27T15:53:38",
+        "alert_last_seen": "2025-02-27T16:06:29",
+        "alert_detection_stopped": "2025-02-27T16:06:34",
+        "alert_status": "inactive"
     }
 ]
