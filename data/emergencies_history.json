@@ -14928,5 +14928,15 @@
         "alert_last_seen": "2025-03-04T11:23:18",
         "alert_detection_stopped": "2025-03-04T11:23:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RAZOR032",
+        "hex": "43c6d7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6d7",
+        "alert_detected": "2025-03-05T11:31:40",
+        "alert_last_seen": "2025-03-05T12:07:21",
+        "alert_detection_stopped": "2025-03-05T12:07:26",
+        "alert_status": "inactive"
     }
 ]
