@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "WIT113  ",
-        "hex": "400ee9",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=400ee9",
-        "alert_detected": "2025-03-11T15:07:53",
-        "alert_last_seen": "2025-03-11T15:08:08",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
