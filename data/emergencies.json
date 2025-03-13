@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SHT26C  ",
+        "hex": "4075fe",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4075fe",
+        "alert_detected": "2025-03-13T13:04:53",
+        "alert_last_seen": "2025-03-13T13:16:39",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
