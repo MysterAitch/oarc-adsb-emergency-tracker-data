@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "N65TL   ",
+        "hex": "a88c15",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a88c15",
+        "alert_detected": "2025-03-14T12:37:55",
+        "alert_last_seen": "2025-03-14T12:46:50",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
