@@ -15438,5 +15438,15 @@
         "alert_last_seen": "2025-03-15T11:04:58",
         "alert_detection_stopped": "2025-03-15T11:05:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GTPAL   ",
+        "hex": "405a14",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405a14",
+        "alert_detected": "2025-03-16T17:01:17",
+        "alert_last_seen": "2025-03-16T17:01:27",
+        "alert_detection_stopped": "2025-03-16T17:01:32",
+        "alert_status": "inactive"
     }
 ]
