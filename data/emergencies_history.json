@@ -15518,5 +15518,15 @@
         "alert_last_seen": "2025-03-18T19:42:28",
         "alert_detection_stopped": "2025-03-18T19:42:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL4    ",
+        "hex": "ab4489",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab4489",
+        "alert_detected": "2025-03-18T19:43:03",
+        "alert_last_seen": "2025-03-18T19:44:49",
+        "alert_detection_stopped": "2025-03-18T19:44:54",
+        "alert_status": "inactive"
     }
 ]
