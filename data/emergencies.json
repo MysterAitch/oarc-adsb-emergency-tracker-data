@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TOM2WM  ",
+        "hex": "4076b0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4076b0",
+        "alert_detected": "2025-03-20T18:53:32",
+        "alert_last_seen": "2025-03-20T18:59:00",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
