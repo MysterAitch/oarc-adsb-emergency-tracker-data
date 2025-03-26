@@ -15658,5 +15658,15 @@
         "alert_last_seen": "2025-03-26T14:49:02",
         "alert_detection_stopped": "2025-03-26T14:49:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GSPOG   ",
+        "hex": "401868",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401868",
+        "alert_detected": "2025-03-26T15:10:01",
+        "alert_last_seen": "2025-03-26T15:10:07",
+        "alert_detection_stopped": "2025-03-26T15:10:12",
+        "alert_status": "inactive"
     }
 ]
