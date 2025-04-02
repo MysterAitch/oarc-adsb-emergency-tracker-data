@@ -15808,5 +15808,15 @@
         "alert_last_seen": "2025-04-01T16:35:38",
         "alert_detection_stopped": "2025-04-01T16:35:43",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCKT01  ",
+        "hex": "43c8cf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cf",
+        "alert_detected": "2025-04-02T08:40:33",
+        "alert_last_seen": "2025-04-02T08:41:34",
+        "alert_detection_stopped": "2025-04-02T08:41:39",
+        "alert_status": "inactive"
     }
 ]
