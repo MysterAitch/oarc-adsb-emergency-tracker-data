@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "FLJ24   ",
-        "hex": "408180",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=408180",
-        "alert_detected": "2025-04-06T17:43:53",
-        "alert_last_seen": "2025-04-06T17:44:19",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
