@@ -16088,5 +16088,35 @@
         "alert_last_seen": "2025-04-08T14:30:45",
         "alert_detection_stopped": "2025-04-08T14:30:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DHK2877 ",
+        "hex": "406b1b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b1b",
+        "alert_detected": "2025-04-08T21:37:02",
+        "alert_last_seen": "2025-04-08T22:00:55",
+        "alert_detection_stopped": "2025-04-08T22:01:00",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DHK2877 ",
+        "hex": "406b1b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b1b",
+        "alert_detected": "2025-04-08T22:01:46",
+        "alert_last_seen": "2025-04-08T22:02:41",
+        "alert_detection_stopped": "2025-04-08T22:02:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DHK2877 ",
+        "hex": "406b1b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b1b",
+        "alert_detected": "2025-04-08T22:04:02",
+        "alert_last_seen": "2025-04-08T22:06:38",
+        "alert_detection_stopped": "2025-04-08T22:06:43",
+        "alert_status": "inactive"
     }
 ]
