@@ -16208,5 +16208,15 @@
         "alert_last_seen": "2025-04-10T13:24:47",
         "alert_detection_stopped": "2025-04-10T13:24:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL17   ",
+        "hex": "abd018",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abd018",
+        "alert_detected": "2025-04-10T12:46:00",
+        "alert_last_seen": "2025-04-10T13:38:13",
+        "alert_detection_stopped": "2025-04-10T13:38:18",
+        "alert_status": "inactive"
     }
 ]
