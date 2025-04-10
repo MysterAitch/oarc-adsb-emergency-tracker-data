@@ -16228,5 +16228,15 @@
         "alert_last_seen": "2025-04-10T13:47:32",
         "alert_detection_stopped": "2025-04-10T13:47:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "REHEAT01",
+        "hex": "43c6d8",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c6d8",
+        "alert_detected": "2025-04-10T14:10:28",
+        "alert_last_seen": "2025-04-10T14:10:49",
+        "alert_detection_stopped": "2025-04-10T14:10:54",
+        "alert_status": "inactive"
     }
 ]
