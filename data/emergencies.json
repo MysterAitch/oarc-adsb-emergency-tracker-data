@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DAL17   ",
+        "hex": "abd018",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abd018",
+        "alert_detected": "2025-04-10T12:46:00",
+        "alert_last_seen": "2025-04-10T12:47:16",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
