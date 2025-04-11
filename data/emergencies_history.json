@@ -16258,5 +16258,15 @@
         "alert_last_seen": "2025-04-10T15:39:52",
         "alert_detection_stopped": "2025-04-10T15:39:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RUK23FH ",
+        "hex": "4ca75f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca75f",
+        "alert_detected": "2025-04-11T12:06:16",
+        "alert_last_seen": "2025-04-11T12:06:16",
+        "alert_detection_stopped": "2025-04-11T12:06:22",
+        "alert_status": "inactive"
     }
 ]
