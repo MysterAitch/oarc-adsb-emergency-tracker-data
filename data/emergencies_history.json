@@ -16348,5 +16348,55 @@
         "alert_last_seen": "2025-04-11T15:18:47",
         "alert_detection_stopped": "2025-04-11T15:18:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "a7210c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a7210c",
+        "alert_detected": "2025-04-11T15:19:02",
+        "alert_last_seen": "2025-04-11T15:20:33",
+        "alert_detection_stopped": "2025-04-11T15:20:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "3e50df",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e50df",
+        "alert_detected": "2025-04-11T15:21:59",
+        "alert_last_seen": "2025-04-11T15:22:55",
+        "alert_detection_stopped": "2025-04-11T15:23:00",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "a7210c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a7210c",
+        "alert_detected": "2025-04-11T15:21:18",
+        "alert_last_seen": "2025-04-11T15:26:11",
+        "alert_detection_stopped": "2025-04-11T15:26:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "N559C   ",
+        "hex": "a7210c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a7210c",
+        "alert_detected": "2025-04-11T15:26:27",
+        "alert_last_seen": "2025-04-11T15:28:24",
+        "alert_detection_stopped": "2025-04-11T15:28:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "3e50df",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e50df",
+        "alert_detected": "2025-04-11T15:26:47",
+        "alert_last_seen": "2025-04-11T15:30:10",
+        "alert_detection_stopped": "2025-04-11T15:30:15",
+        "alert_status": "inactive"
     }
 ]
