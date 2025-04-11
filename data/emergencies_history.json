@@ -16428,5 +16428,15 @@
         "alert_last_seen": "2025-04-11T15:38:50",
         "alert_detection_stopped": "2025-04-11T15:38:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N559C   ",
+        "hex": "a7210c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a7210c",
+        "alert_detected": "2025-04-11T15:39:15",
+        "alert_last_seen": "2025-04-11T15:41:16",
+        "alert_detection_stopped": "2025-04-11T15:41:21",
+        "alert_status": "inactive"
     }
 ]
