@@ -16608,5 +16608,15 @@
         "alert_last_seen": "2025-04-15T20:55:44",
         "alert_detection_stopped": "2025-04-15T20:55:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZE58LN ",
+        "hex": "40750b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40750b",
+        "alert_detected": "2025-04-15T20:59:05",
+        "alert_last_seen": "2025-04-15T21:01:11",
+        "alert_detection_stopped": "2025-04-15T21:01:16",
+        "alert_status": "inactive"
     }
 ]
