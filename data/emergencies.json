@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "flight": "SMASH31 ",
+        "hex": "3f71b1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3f71b1",
+        "alert_detected": "2025-04-16T13:22:40",
+        "alert_last_seen": "2025-04-16T13:24:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "NONE",
+        "hex": "3eaa5b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3eaa5b",
+        "alert_detected": "2025-04-16T13:22:56",
+        "alert_last_seen": "2025-04-16T13:24:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
