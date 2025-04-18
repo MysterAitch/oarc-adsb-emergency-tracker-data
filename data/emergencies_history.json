@@ -16758,5 +16758,15 @@
         "alert_last_seen": "2025-04-17T21:00:16",
         "alert_detection_stopped": "2025-04-17T21:00:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CNV3287 ",
+        "hex": "ae03d5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=ae03d5",
+        "alert_detected": "2025-04-18T11:05:50",
+        "alert_last_seen": "2025-04-18T11:08:12",
+        "alert_detection_stopped": "2025-04-18T11:08:17",
+        "alert_status": "inactive"
     }
 ]
