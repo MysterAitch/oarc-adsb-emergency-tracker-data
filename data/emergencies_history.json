@@ -16898,5 +16898,15 @@
         "alert_last_seen": "2025-04-22T09:45:22",
         "alert_detection_stopped": "2025-04-22T09:45:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WOLF0013",
+        "hex": "43c6a6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6a6",
+        "alert_detected": "2025-04-22T09:49:39",
+        "alert_last_seen": "2025-04-22T09:51:25",
+        "alert_detection_stopped": "2025-04-22T09:51:30",
+        "alert_status": "inactive"
     }
 ]
