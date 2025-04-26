@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AFR342  ",
-        "hex": "39c420",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=39c420",
-        "alert_detected": "2025-04-26T12:03:20",
-        "alert_last_seen": "2025-04-26T12:42:04",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

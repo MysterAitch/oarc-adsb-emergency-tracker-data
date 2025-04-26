@@ -17098,5 +17098,25 @@
         "alert_last_seen": "2025-04-26T12:40:44",
         "alert_detection_stopped": "2025-04-26T12:40:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR342  ",
+        "hex": "39c420",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39c420",
+        "alert_detected": "2025-04-26T12:03:20",
+        "alert_last_seen": "2025-04-26T12:43:10",
+        "alert_detection_stopped": "2025-04-26T12:43:15",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR342  ",
+        "hex": "39c420",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39c420",
+        "alert_detected": "2025-04-26T12:43:20",
+        "alert_last_seen": "2025-04-26T12:44:16",
+        "alert_detection_stopped": "2025-04-26T12:44:21",
+        "alert_status": "inactive"
     }
 ]
