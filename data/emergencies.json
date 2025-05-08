@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "UAL56   ",
-        "hex": "aa92fa",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=aa92fa",
-        "alert_detected": "2025-05-08T09:26:29",
-        "alert_last_seen": "2025-05-08T09:41:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
