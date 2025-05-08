@@ -5,7 +5,7 @@
         "squawk": "7600",
         "link": "https://adsb.oarc.uk/?icao=e80046",
         "alert_detected": "2025-05-08T10:59:05",
-        "alert_last_seen": "2025-05-08T11:08:25",
+        "alert_last_seen": "2025-05-08T11:19:35",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
