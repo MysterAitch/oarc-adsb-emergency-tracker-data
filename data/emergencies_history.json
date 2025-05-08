@@ -17218,5 +17218,15 @@
         "alert_last_seen": "2025-05-08T14:09:31",
         "alert_detection_stopped": "2025-05-08T14:09:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBAIS   ",
+        "hex": "4019f0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4019f0",
+        "alert_detected": "2025-05-08T19:11:48",
+        "alert_last_seen": "2025-05-08T19:13:25",
+        "alert_detection_stopped": "2025-05-08T19:13:30",
+        "alert_status": "inactive"
     }
 ]
