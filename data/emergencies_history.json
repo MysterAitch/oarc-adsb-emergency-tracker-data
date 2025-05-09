@@ -17238,5 +17238,25 @@
         "alert_last_seen": "2025-05-09T11:11:41",
         "alert_detection_stopped": "2025-05-09T11:11:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N231KX  ",
+        "hex": "a20d2e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a20d2e",
+        "alert_detected": "2025-05-09T11:18:24",
+        "alert_last_seen": "2025-05-09T11:20:41",
+        "alert_detection_stopped": "2025-05-09T11:20:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "N231KX  ",
+        "hex": "a20d2e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a20d2e",
+        "alert_detected": "2025-05-09T11:21:06",
+        "alert_last_seen": "2025-05-09T11:25:49",
+        "alert_detection_stopped": "2025-05-09T11:25:54",
+        "alert_status": "inactive"
     }
 ]
