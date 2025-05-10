@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NONE",
-        "hex": "e80048",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=e80048",
-        "alert_detected": "2025-05-10T04:35:12",
-        "alert_last_seen": "2025-05-10T04:42:39",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
