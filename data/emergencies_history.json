@@ -17428,5 +17428,15 @@
         "alert_last_seen": "2025-05-14T11:55:01",
         "alert_detection_stopped": "2025-05-14T11:55:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NOW335E ",
+        "hex": "478117",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=478117",
+        "alert_detected": "2025-05-14T12:25:36",
+        "alert_last_seen": "2025-05-14T12:25:46",
+        "alert_detection_stopped": "2025-05-14T12:25:51",
+        "alert_status": "inactive"
     }
 ]
