@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "N291AH  ",
-        "hex": "a2f939",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a2f939",
-        "alert_detected": "2025-05-16T13:55:07",
-        "alert_last_seen": "2025-05-16T13:55:43",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
