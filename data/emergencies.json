@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "N9425C  ",
-        "hex": "ad17a0",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=ad17a0",
-        "alert_detected": "2025-05-17T08:46:00",
-        "alert_last_seen": "2025-05-17T08:48:16",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
