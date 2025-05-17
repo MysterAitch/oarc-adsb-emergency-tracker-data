@@ -5,17 +5,7 @@
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=40688e",
         "alert_detected": "2025-05-17T17:25:29",
-        "alert_last_seen": "2025-05-17T18:23:35",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    },
-    {
-        "flight": "RYR15MP ",
-        "hex": "4ca9d2",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4ca9d2",
-        "alert_detected": "2025-05-17T18:07:19",
-        "alert_last_seen": "2025-05-17T18:23:35",
+        "alert_last_seen": "2025-05-17T18:31:43",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
