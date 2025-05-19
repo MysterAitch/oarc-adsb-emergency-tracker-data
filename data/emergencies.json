@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "NJE216C ",
+        "hex": "494106",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=494106",
+        "alert_detected": "2025-05-19T17:29:21",
+        "alert_last_seen": "2025-05-19T17:35:14",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
