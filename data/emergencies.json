@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GRGAM   ",
+        "hex": "408253",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=408253",
+        "alert_detected": "2025-05-22T13:18:37",
+        "alert_last_seen": "2025-05-22T13:22:45",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
