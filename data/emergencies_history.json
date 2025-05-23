@@ -17938,5 +17938,15 @@
         "alert_last_seen": "2025-05-23T22:09:31",
         "alert_detection_stopped": "2025-05-23T22:09:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY16UT ",
+        "hex": "4078f0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4078f0",
+        "alert_detected": "2025-05-23T23:59:09",
+        "alert_last_seen": "2025-05-24T00:02:47",
+        "alert_detection_stopped": "2025-05-24T00:02:52",
+        "alert_status": "inactive"
     }
 ]
