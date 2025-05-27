@@ -18048,5 +18048,15 @@
         "alert_last_seen": "2025-05-27T13:00:04",
         "alert_detection_stopped": "2025-05-27T13:00:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL770  ",
+        "hex": "a2a2df",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a2a2df",
+        "alert_detected": "2025-05-27T16:00:32",
+        "alert_last_seen": "2025-05-27T16:08:06",
+        "alert_detection_stopped": "2025-05-27T16:08:11",
+        "alert_status": "inactive"
     }
 ]
