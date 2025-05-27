@@ -18018,5 +18018,15 @@
         "alert_last_seen": "2025-05-27T08:25:47",
         "alert_detection_stopped": "2025-05-27T08:25:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY18UP ",
+        "hex": "407f79",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f79",
+        "alert_detected": "2025-05-27T12:19:25",
+        "alert_last_seen": "2025-05-27T12:20:21",
+        "alert_detection_stopped": "2025-05-27T12:20:26",
+        "alert_status": "inactive"
     }
 ]
