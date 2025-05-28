@@ -18058,5 +18058,25 @@
         "alert_last_seen": "2025-05-27T16:08:06",
         "alert_detection_stopped": "2025-05-27T16:08:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CMNDO98 ",
+        "hex": "43c072",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c072",
+        "alert_detected": "2025-05-28T12:01:56",
+        "alert_last_seen": "2025-05-28T12:01:56",
+        "alert_detection_stopped": "2025-05-28T12:02:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CMNDO98 ",
+        "hex": "43c072",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c072",
+        "alert_detected": "2025-05-28T12:02:12",
+        "alert_last_seen": "2025-05-28T12:02:18",
+        "alert_detection_stopped": "2025-05-28T12:02:23",
+        "alert_status": "inactive"
     }
 ]
