@@ -18078,5 +18078,45 @@
         "alert_last_seen": "2025-05-28T12:02:18",
         "alert_detection_stopped": "2025-05-28T12:02:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2025-05-28T14:23:38",
+        "alert_last_seen": "2025-05-28T14:24:34",
+        "alert_detection_stopped": "2025-05-28T14:24:39",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2025-05-28T14:26:20",
+        "alert_last_seen": "2025-05-28T14:27:21",
+        "alert_detection_stopped": "2025-05-28T14:27:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2025-05-28T14:27:31",
+        "alert_last_seen": "2025-05-28T14:34:05",
+        "alert_detection_stopped": "2025-05-28T14:34:10",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "F35LTNG2",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2025-05-28T14:35:45",
+        "alert_last_seen": "2025-05-28T14:36:47",
+        "alert_detection_stopped": "2025-05-28T14:36:52",
+        "alert_status": "inactive"
     }
 ]
