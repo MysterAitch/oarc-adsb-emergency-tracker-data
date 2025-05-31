@@ -18228,5 +18228,15 @@
         "alert_last_seen": "2025-05-31T11:37:59",
         "alert_detection_stopped": "2025-05-31T11:38:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS049A ",
+        "hex": "407e7d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407e7d",
+        "alert_detected": "2025-05-31T12:30:19",
+        "alert_last_seen": "2025-05-31T12:58:13",
+        "alert_detection_stopped": "2025-05-31T12:58:18",
+        "alert_status": "inactive"
     }
 ]
