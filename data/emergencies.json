@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RAIDR03 ",
+        "hex": "ae040b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae040b",
+        "alert_detected": "2025-06-04T15:45:52",
+        "alert_last_seen": "2025-06-04T15:46:02",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
