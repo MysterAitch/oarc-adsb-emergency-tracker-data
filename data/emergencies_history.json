@@ -18358,5 +18358,15 @@
         "alert_last_seen": "2025-06-04T15:31:21",
         "alert_detection_stopped": "2025-06-04T15:31:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RAIDR03 ",
+        "hex": "ae040b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae040b",
+        "alert_detected": "2025-06-04T15:45:52",
+        "alert_last_seen": "2025-06-04T15:46:12",
+        "alert_detection_stopped": "2025-06-04T15:46:18",
+        "alert_status": "inactive"
     }
 ]
