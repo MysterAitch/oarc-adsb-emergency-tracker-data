@@ -18398,5 +18398,25 @@
         "alert_last_seen": "2025-06-05T15:54:23",
         "alert_detection_stopped": "2025-06-05T15:54:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LBT7450 ",
+        "hex": "02a1b1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=02a1b1",
+        "alert_detected": "2025-06-05T23:08:50",
+        "alert_last_seen": "2025-06-05T23:22:59",
+        "alert_detection_stopped": "2025-06-05T23:23:04",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "LBT7450 ",
+        "hex": "02a1b1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=02a1b1",
+        "alert_detected": "2025-06-05T23:23:09",
+        "alert_last_seen": "2025-06-05T23:24:35",
+        "alert_detection_stopped": "2025-06-05T23:24:40",
+        "alert_status": "inactive"
     }
 ]
