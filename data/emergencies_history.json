@@ -18698,5 +18698,15 @@
         "alert_last_seen": "2025-06-15T07:25:45",
         "alert_detection_stopped": "2025-06-15T07:25:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY48XL ",
+        "hex": "406b91",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406b91",
+        "alert_detected": "2025-06-15T08:38:57",
+        "alert_last_seen": "2025-06-15T08:43:15",
+        "alert_detection_stopped": "2025-06-15T08:43:20",
+        "alert_status": "inactive"
     }
 ]
