@@ -19188,5 +19188,15 @@
         "alert_last_seen": "2025-06-26T13:37:20",
         "alert_detection_stopped": "2025-06-26T13:37:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR2453 ",
+        "hex": "4ca97a",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ca97a",
+        "alert_detected": "2025-06-26T15:48:02",
+        "alert_last_seen": "2025-06-26T15:48:02",
+        "alert_detection_stopped": "2025-06-26T15:48:08",
+        "alert_status": "inactive"
     }
 ]
