@@ -19308,5 +19308,15 @@
         "alert_last_seen": "2025-06-30T14:40:20",
         "alert_detection_stopped": "2025-06-30T14:40:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ABR402  ",
+        "hex": "4cad4b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cad4b",
+        "alert_detected": "2025-07-01T09:50:16",
+        "alert_last_seen": "2025-07-01T09:50:16",
+        "alert_detection_stopped": "2025-07-01T09:50:22",
+        "alert_status": "inactive"
     }
 ]
