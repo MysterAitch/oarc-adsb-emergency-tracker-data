@@ -19578,5 +19578,15 @@
         "alert_last_seen": "2025-07-08T14:38:38",
         "alert_detection_stopped": "2025-07-08T14:38:44",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBSWG   ",
+        "hex": "4032c9",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4032c9",
+        "alert_detected": "2025-07-08T15:23:42",
+        "alert_last_seen": "2025-07-08T15:23:42",
+        "alert_detection_stopped": "2025-07-08T15:23:47",
+        "alert_status": "inactive"
     }
 ]
