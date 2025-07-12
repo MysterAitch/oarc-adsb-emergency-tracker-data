@@ -19758,5 +19758,15 @@
         "alert_last_seen": "2025-07-11T13:15:59",
         "alert_detection_stopped": "2025-07-11T13:16:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DECDW   ",
+        "hex": "3d0a54",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=3d0a54",
+        "alert_detected": "2025-07-12T10:58:05",
+        "alert_last_seen": "2025-07-12T11:00:01",
+        "alert_detection_stopped": "2025-07-12T11:00:06",
+        "alert_status": "inactive"
     }
 ]
