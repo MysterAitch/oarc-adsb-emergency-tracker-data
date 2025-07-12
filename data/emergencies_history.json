@@ -19768,5 +19768,25 @@
         "alert_last_seen": "2025-07-12T11:00:01",
         "alert_detection_stopped": "2025-07-12T11:00:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PA474   ",
+        "hex": "43c392",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c392",
+        "alert_detected": "2025-07-12T14:24:20",
+        "alert_last_seen": "2025-07-12T14:28:38",
+        "alert_detection_stopped": "2025-07-12T14:28:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c392",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c392",
+        "alert_detected": "2025-07-12T14:30:34",
+        "alert_last_seen": "2025-07-12T14:34:21",
+        "alert_detection_stopped": "2025-07-12T14:34:26",
+        "alert_status": "inactive"
     }
 ]
