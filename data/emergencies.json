@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "PAGAN12 ",
-        "hex": "43c561",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c561",
-        "alert_detected": "2025-07-14T09:42:21",
-        "alert_last_seen": "2025-07-14T09:43:59",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
