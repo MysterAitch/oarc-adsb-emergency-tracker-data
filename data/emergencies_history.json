@@ -19988,5 +19988,15 @@
         "alert_last_seen": "2025-07-17T18:33:23",
         "alert_detection_stopped": "2025-07-17T18:33:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBILR   ",
+        "hex": "401f0f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401f0f",
+        "alert_detected": "2025-07-18T15:34:13",
+        "alert_last_seen": "2025-07-18T15:35:55",
+        "alert_detection_stopped": "2025-07-18T15:36:00",
+        "alert_status": "inactive"
     }
 ]
