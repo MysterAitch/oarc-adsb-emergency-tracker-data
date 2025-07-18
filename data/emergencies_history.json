@@ -19998,5 +19998,25 @@
         "alert_last_seen": "2025-07-18T15:35:55",
         "alert_detection_stopped": "2025-07-18T15:36:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF42   ",
+        "hex": "43c8b9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8b9",
+        "alert_detected": "2025-07-18T15:42:18",
+        "alert_last_seen": "2025-07-18T15:45:00",
+        "alert_detection_stopped": "2025-07-18T15:45:05",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF42   ",
+        "hex": "43c8b9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8b9",
+        "alert_detected": "2025-07-18T15:45:30",
+        "alert_last_seen": "2025-07-18T15:47:21",
+        "alert_detection_stopped": "2025-07-18T15:47:26",
+        "alert_status": "inactive"
     }
 ]
