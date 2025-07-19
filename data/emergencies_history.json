@@ -20028,5 +20028,15 @@
         "alert_last_seen": "2025-07-18T16:22:15",
         "alert_detection_stopped": "2025-07-18T16:22:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GTI8153 ",
+        "hex": "a54535",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a54535",
+        "alert_detected": "2025-07-19T15:56:57",
+        "alert_last_seen": "2025-07-19T16:11:49",
+        "alert_detection_stopped": "2025-07-19T16:11:54",
+        "alert_status": "inactive"
     }
 ]
