@@ -20038,5 +20038,25 @@
         "alert_last_seen": "2025-07-19T16:11:49",
         "alert_detection_stopped": "2025-07-19T16:11:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WUK1KM  ",
+        "hex": "407b8b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b8b",
+        "alert_detected": "2025-07-20T11:30:47",
+        "alert_last_seen": "2025-07-20T11:39:57",
+        "alert_detection_stopped": "2025-07-20T11:40:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WUK1KM  ",
+        "hex": "407b8b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b8b",
+        "alert_detected": "2025-07-20T11:40:07",
+        "alert_last_seen": "2025-07-20T11:41:03",
+        "alert_detection_stopped": "2025-07-20T11:41:08",
+        "alert_status": "inactive"
     }
 ]
