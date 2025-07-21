@@ -20078,5 +20078,15 @@
         "alert_last_seen": "2025-07-21T10:19:15",
         "alert_detection_stopped": "2025-07-21T10:19:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GLDGG   ",
+        "hex": "407c2d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407c2d",
+        "alert_detected": "2025-07-21T10:42:51",
+        "alert_last_seen": "2025-07-21T10:43:52",
+        "alert_detection_stopped": "2025-07-21T10:43:57",
+        "alert_status": "inactive"
     }
 ]
