@@ -20058,5 +20058,25 @@
         "alert_last_seen": "2025-07-20T11:41:03",
         "alert_detection_stopped": "2025-07-20T11:41:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL47   ",
+        "hex": "ab4866",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab4866",
+        "alert_detected": "2025-07-21T10:07:02",
+        "alert_last_seen": "2025-07-21T10:13:56",
+        "alert_detection_stopped": "2025-07-21T10:14:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL237  ",
+        "hex": "ab2c0c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab2c0c",
+        "alert_detected": "2025-07-21T10:11:45",
+        "alert_last_seen": "2025-07-21T10:19:15",
+        "alert_detection_stopped": "2025-07-21T10:19:20",
+        "alert_status": "inactive"
     }
 ]
