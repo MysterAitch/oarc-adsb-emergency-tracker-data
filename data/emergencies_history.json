@@ -20138,5 +20138,15 @@
         "alert_last_seen": "2025-07-21T16:17:57",
         "alert_detection_stopped": "2025-07-21T16:18:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF60   ",
+        "hex": "43c8b9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8b9",
+        "alert_detected": "2025-07-22T15:50:29",
+        "alert_last_seen": "2025-07-22T15:54:26",
+        "alert_detection_stopped": "2025-07-22T15:54:31",
+        "alert_status": "inactive"
     }
 ]
