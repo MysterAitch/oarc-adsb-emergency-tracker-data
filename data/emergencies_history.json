@@ -20158,5 +20158,25 @@
         "alert_last_seen": "2025-07-23T10:11:32",
         "alert_detection_stopped": "2025-07-23T10:11:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CMND098 ",
+        "hex": "43c613",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c613",
+        "alert_detected": "2025-07-23T13:57:00",
+        "alert_last_seen": "2025-07-23T13:57:05",
+        "alert_detection_stopped": "2025-07-23T13:57:10",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CMND098 ",
+        "hex": "43c613",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c613",
+        "alert_detected": "2025-07-23T13:57:26",
+        "alert_last_seen": "2025-07-23T13:57:31",
+        "alert_detection_stopped": "2025-07-23T13:57:36",
+        "alert_status": "inactive"
     }
 ]
