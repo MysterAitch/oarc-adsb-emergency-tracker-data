@@ -5,7 +5,17 @@
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=406cab",
         "alert_detected": "2025-07-24T12:34:28",
-        "alert_last_seen": "2025-07-24T12:37:00",
+        "alert_last_seen": "2025-07-24T12:44:40",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "EFW9GP  ",
+        "hex": "406ca3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406ca3",
+        "alert_detected": "2025-07-24T12:44:20",
+        "alert_last_seen": "2025-07-24T12:44:40",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
