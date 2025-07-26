@@ -20378,5 +20378,45 @@
         "alert_last_seen": "2025-07-26T09:36:57",
         "alert_detection_stopped": "2025-07-26T09:37:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "406687",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406687",
+        "alert_detected": "2025-07-26T11:34:07",
+        "alert_last_seen": "2025-07-26T11:35:38",
+        "alert_detection_stopped": "2025-07-26T11:35:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCHHI   ",
+        "hex": "406687",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406687",
+        "alert_detected": "2025-07-26T11:36:23",
+        "alert_last_seen": "2025-07-26T11:37:44",
+        "alert_detection_stopped": "2025-07-26T11:37:49",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCHHI   ",
+        "hex": "406687",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406687",
+        "alert_detected": "2025-07-26T11:38:50",
+        "alert_last_seen": "2025-07-26T11:39:46",
+        "alert_detection_stopped": "2025-07-26T11:39:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "406687",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406687",
+        "alert_detected": "2025-07-26T11:42:12",
+        "alert_last_seen": "2025-07-26T11:47:00",
+        "alert_detection_stopped": "2025-07-26T11:47:05",
+        "alert_status": "inactive"
     }
 ]
