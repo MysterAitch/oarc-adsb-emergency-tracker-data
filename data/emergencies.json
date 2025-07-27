@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "SAS910  ",
+        "hex": "478f5c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=478f5c",
+        "alert_detected": "2025-07-27T06:31:19",
+        "alert_last_seen": "2025-07-27T06:42:14",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
