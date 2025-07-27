@@ -20438,5 +20438,15 @@
         "alert_last_seen": "2025-07-27T08:23:26",
         "alert_detection_stopped": "2025-07-27T08:23:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS802  ",
+        "hex": "406ac4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406ac4",
+        "alert_detected": "2025-07-27T14:33:28",
+        "alert_last_seen": "2025-07-27T14:49:06",
+        "alert_detection_stopped": "2025-07-27T14:49:11",
+        "alert_status": "inactive"
     }
 ]
