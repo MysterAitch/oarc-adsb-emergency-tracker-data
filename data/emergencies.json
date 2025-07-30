@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "UAL949  ",
-        "hex": "a20433",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a20433",
-        "alert_detected": "2025-07-30T12:54:10",
-        "alert_last_seen": "2025-07-30T13:02:15",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
