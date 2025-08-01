@@ -20548,5 +20548,15 @@
         "alert_last_seen": "2025-08-01T14:42:09",
         "alert_detection_stopped": "2025-08-01T14:42:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT794  ",
+        "hex": "43c923",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c923",
+        "alert_detected": "2025-08-01T15:37:41",
+        "alert_last_seen": "2025-08-01T15:41:24",
+        "alert_detection_stopped": "2025-08-01T15:41:29",
+        "alert_status": "inactive"
     }
 ]
