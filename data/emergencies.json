@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "JAKE27  ",
+        "hex": "ae037f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae037f",
+        "alert_detected": "2025-08-08T09:40:25",
+        "alert_last_seen": "2025-08-08T09:42:27",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
