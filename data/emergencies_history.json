@@ -20778,5 +20778,25 @@
         "alert_last_seen": "2025-08-08T10:53:12",
         "alert_detection_stopped": "2025-08-08T10:53:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JAKE27  ",
+        "hex": "ae037f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae037f",
+        "alert_detected": "2025-08-08T09:40:25",
+        "alert_last_seen": "2025-08-08T11:04:59",
+        "alert_detection_stopped": "2025-08-08T11:05:04",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "JAKE27  ",
+        "hex": "ae037f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae037f",
+        "alert_detected": "2025-08-08T11:05:14",
+        "alert_last_seen": "2025-08-08T11:06:11",
+        "alert_detection_stopped": "2025-08-08T11:06:16",
+        "alert_status": "inactive"
     }
 ]
