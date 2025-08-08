@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DMRRO   ",
-        "hex": "3ff1a9",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=3ff1a9",
-        "alert_detected": "2025-08-08T11:15:10",
-        "alert_last_seen": "2025-08-08T11:20:42",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
