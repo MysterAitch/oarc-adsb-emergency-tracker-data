@@ -20828,5 +20828,15 @@
         "alert_last_seen": "2025-08-08T15:57:00",
         "alert_detection_stopped": "2025-08-08T15:57:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE39VX ",
+        "hex": "4063c3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4063c3",
+        "alert_detected": "2025-08-09T16:40:39",
+        "alert_last_seen": "2025-08-09T16:53:16",
+        "alert_detection_stopped": "2025-08-09T16:53:21",
+        "alert_status": "inactive"
     }
 ]
