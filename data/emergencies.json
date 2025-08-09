@@ -1,11 +1,11 @@
 [
     {
-        "flight": "RYR1JC  ",
+        "flight": "NONE",
         "hex": "4ca24c",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=4ca24c",
-        "alert_detected": "2025-08-09T17:36:46",
-        "alert_last_seen": "2025-08-09T17:44:33",
+        "alert_detected": "2025-08-09T17:50:24",
+        "alert_last_seen": "2025-08-09T17:52:56",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
