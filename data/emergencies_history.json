@@ -20898,5 +20898,15 @@
         "alert_last_seen": "2025-08-10T14:29:04",
         "alert_detection_stopped": "2025-08-10T14:29:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBWND   ",
+        "hex": "403baf",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=403baf",
+        "alert_detected": "2025-08-11T10:15:41",
+        "alert_last_seen": "2025-08-11T10:17:29",
+        "alert_detection_stopped": "2025-08-11T10:17:34",
+        "alert_status": "inactive"
     }
 ]
