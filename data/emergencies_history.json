@@ -21128,5 +21128,25 @@
         "alert_last_seen": "2025-08-13T11:27:41",
         "alert_detection_stopped": "2025-08-13T11:27:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CAPTR42 ",
+        "hex": "43c960",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c960",
+        "alert_detected": "2025-08-13T16:05:27",
+        "alert_last_seen": "2025-08-13T16:06:18",
+        "alert_detection_stopped": "2025-08-13T16:06:23",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CAPTR42 ",
+        "hex": "43c960",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c960",
+        "alert_detected": "2025-08-13T16:07:19",
+        "alert_last_seen": "2025-08-13T16:15:17",
+        "alert_detection_stopped": "2025-08-13T16:15:22",
+        "alert_status": "inactive"
     }
 ]
