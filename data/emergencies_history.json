@@ -21208,5 +21208,25 @@
         "alert_last_seen": "2025-08-14T13:31:56",
         "alert_detection_stopped": "2025-08-14T13:32:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "405fac",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405fac",
+        "alert_detected": "2025-08-14T13:42:17",
+        "alert_last_seen": "2025-08-14T13:43:39",
+        "alert_detection_stopped": "2025-08-14T13:43:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCFTZ   ",
+        "hex": "405fac",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405fac",
+        "alert_detected": "2025-08-14T13:47:43",
+        "alert_last_seen": "2025-08-14T13:54:00",
+        "alert_detection_stopped": "2025-08-14T13:54:05",
+        "alert_status": "inactive"
     }
 ]
