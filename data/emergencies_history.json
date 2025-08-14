@@ -21148,5 +21148,15 @@
         "alert_last_seen": "2025-08-13T16:15:17",
         "alert_detection_stopped": "2025-08-13T16:15:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR1896 ",
+        "hex": "392ae2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=392ae2",
+        "alert_detected": "2025-08-14T08:15:42",
+        "alert_last_seen": "2025-08-14T08:31:04",
+        "alert_detection_stopped": "2025-08-14T08:31:09",
+        "alert_status": "inactive"
     }
 ]
