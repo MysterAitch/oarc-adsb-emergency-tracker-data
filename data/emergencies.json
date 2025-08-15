@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "N943PA  ",
-        "hex": "ad1993",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=ad1993",
-        "alert_detected": "2025-08-15T11:56:45",
-        "alert_last_seen": "2025-08-15T11:56:45",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
