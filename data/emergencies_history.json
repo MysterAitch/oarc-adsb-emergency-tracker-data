@@ -21378,5 +21378,25 @@
         "alert_last_seen": "2025-08-18T08:43:59",
         "alert_detection_stopped": "2025-08-18T08:44:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT22   ",
+        "hex": "43c556",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c556",
+        "alert_detected": "2025-08-18T12:00:28",
+        "alert_last_seen": "2025-08-18T12:00:43",
+        "alert_detection_stopped": "2025-08-18T12:00:48",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DEVIL21 ",
+        "hex": "43c557",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c557",
+        "alert_detected": "2025-08-18T11:39:51",
+        "alert_last_seen": "2025-08-18T12:04:37",
+        "alert_detection_stopped": "2025-08-18T12:04:42",
+        "alert_status": "inactive"
     }
 ]
