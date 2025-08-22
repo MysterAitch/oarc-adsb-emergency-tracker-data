@@ -21528,5 +21528,15 @@
         "alert_last_seen": "2025-08-21T16:28:36",
         "alert_detection_stopped": "2025-08-21T16:28:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DEDLB   ",
+        "hex": "3d0db3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d0db3",
+        "alert_detected": "2025-08-22T15:54:04",
+        "alert_last_seen": "2025-08-22T15:54:14",
+        "alert_detection_stopped": "2025-08-22T15:54:19",
+        "alert_status": "inactive"
     }
 ]
