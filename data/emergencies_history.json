@@ -21558,5 +21558,15 @@
         "alert_last_seen": "2025-08-23T17:26:11",
         "alert_detection_stopped": "2025-08-23T17:26:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS35PE ",
+        "hex": "406e9f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406e9f",
+        "alert_detected": "2025-08-24T01:51:18",
+        "alert_last_seen": "2025-08-24T02:14:11",
+        "alert_detection_stopped": "2025-08-24T02:14:16",
+        "alert_status": "inactive"
     }
 ]
