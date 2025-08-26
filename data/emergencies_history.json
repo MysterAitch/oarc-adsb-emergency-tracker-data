@@ -21628,5 +21628,15 @@
         "alert_last_seen": "2025-08-26T00:46:14",
         "alert_detection_stopped": "2025-08-26T00:46:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW84W  ",
+        "hex": "4075fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4075fd",
+        "alert_detected": "2025-08-26T07:02:07",
+        "alert_last_seen": "2025-08-26T07:19:13",
+        "alert_detection_stopped": "2025-08-26T07:19:18",
+        "alert_status": "inactive"
     }
 ]
