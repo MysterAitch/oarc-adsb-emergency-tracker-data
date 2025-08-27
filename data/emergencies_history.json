@@ -21708,5 +21708,35 @@
         "alert_last_seen": "2025-08-27T12:40:01",
         "alert_detection_stopped": "2025-08-27T12:40:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "COMET453",
+        "hex": "43c5e4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c5e4",
+        "alert_detected": "2025-08-27T14:26:07",
+        "alert_last_seen": "2025-08-27T14:38:24",
+        "alert_detection_stopped": "2025-08-27T14:38:29",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COMET453",
+        "hex": "43c5e4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c5e4",
+        "alert_detected": "2025-08-27T14:38:34",
+        "alert_last_seen": "2025-08-27T14:38:44",
+        "alert_detection_stopped": "2025-08-27T14:38:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "COMET453",
+        "hex": "43c5e4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c5e4",
+        "alert_detected": "2025-08-27T14:38:55",
+        "alert_last_seen": "2025-08-27T14:39:51",
+        "alert_detection_stopped": "2025-08-27T14:39:56",
+        "alert_status": "inactive"
     }
 ]
