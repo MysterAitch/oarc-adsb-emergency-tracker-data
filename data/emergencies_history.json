@@ -21788,5 +21788,15 @@
         "alert_last_seen": "2025-08-28T07:41:47",
         "alert_detection_stopped": "2025-08-28T07:41:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SXS79M  ",
+        "hex": "4bcdb2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4bcdb2",
+        "alert_detected": "2025-08-28T08:19:16",
+        "alert_last_seen": "2025-08-28T08:20:13",
+        "alert_detection_stopped": "2025-08-28T08:20:18",
+        "alert_status": "inactive"
     }
 ]
