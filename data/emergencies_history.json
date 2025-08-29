@@ -21848,5 +21848,15 @@
         "alert_last_seen": "2025-08-29T10:44:24",
         "alert_detection_stopped": "2025-08-29T10:44:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SAS4610 ",
+        "hex": "4ac9e1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ac9e1",
+        "alert_detected": "2025-08-29T21:05:05",
+        "alert_last_seen": "2025-08-29T21:22:55",
+        "alert_detection_stopped": "2025-08-29T21:23:00",
+        "alert_status": "inactive"
     }
 ]
