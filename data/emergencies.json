@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "RCH290  ",
-        "hex": "ae1235",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ae1235",
-        "alert_detected": "2025-09-03T09:52:39",
-        "alert_last_seen": "2025-09-03T09:55:58",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
