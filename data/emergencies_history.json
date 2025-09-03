@@ -22008,5 +22008,15 @@
         "alert_last_seen": "2025-09-03T13:33:01",
         "alert_detection_stopped": "2025-09-03T13:33:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH233  ",
+        "hex": "adfdd3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfdd3",
+        "alert_detected": "2025-09-03T18:08:27",
+        "alert_last_seen": "2025-09-03T19:20:40",
+        "alert_detection_stopped": "2025-09-03T19:20:45",
+        "alert_status": "inactive"
     }
 ]
