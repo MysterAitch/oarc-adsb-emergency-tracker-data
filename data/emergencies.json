@@ -1,11 +1,11 @@
 [
     {
-        "flight": "GBITE   ",
-        "hex": "401f3f",
+        "flight": "VYT762  ",
+        "hex": "43c923",
         "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=401f3f",
-        "alert_detected": "2025-09-04T13:27:58",
-        "alert_last_seen": "2025-09-04T13:28:13",
+        "link": "https://adsb.oarc.uk/?icao=43c923",
+        "alert_detected": "2025-09-04T13:43:18",
+        "alert_last_seen": "2025-09-04T13:47:58",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
