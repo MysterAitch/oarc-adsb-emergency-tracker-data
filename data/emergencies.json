@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RCH3248 ",
+        "hex": "ae123a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae123a",
+        "alert_detected": "2025-09-06T18:18:25",
+        "alert_last_seen": "2025-09-06T18:19:42",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
