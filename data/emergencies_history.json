@@ -22238,5 +22238,15 @@
         "alert_last_seen": "2025-09-08T14:58:00",
         "alert_detection_stopped": "2025-09-08T14:58:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SCAR13  ",
+        "hex": "c2bffd",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c2bffd",
+        "alert_detected": "2025-09-08T16:42:27",
+        "alert_last_seen": "2025-09-08T16:43:13",
+        "alert_detection_stopped": "2025-09-08T16:43:18",
+        "alert_status": "inactive"
     }
 ]
