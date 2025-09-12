@@ -22318,5 +22318,15 @@
         "alert_last_seen": "2025-09-12T08:32:19",
         "alert_detection_stopped": "2025-09-12T08:32:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GGHER   ",
+        "hex": "404076",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404076",
+        "alert_detected": "2025-09-12T10:09:43",
+        "alert_last_seen": "2025-09-12T10:10:03",
+        "alert_detection_stopped": "2025-09-12T10:10:08",
+        "alert_status": "inactive"
     }
 ]
