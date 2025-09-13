@@ -22388,5 +22388,25 @@
         "alert_last_seen": "2025-09-13T12:13:53",
         "alert_detection_stopped": "2025-09-13T12:13:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "a8c4d8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8c4d8",
+        "alert_detected": "2025-09-13T12:15:14",
+        "alert_last_seen": "2025-09-13T12:17:57",
+        "alert_detection_stopped": "2025-09-13T12:18:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL135  ",
+        "hex": "a8c4d8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8c4d8",
+        "alert_detected": "2025-09-13T12:18:18",
+        "alert_last_seen": "2025-09-13T12:20:05",
+        "alert_detection_stopped": "2025-09-13T12:20:10",
+        "alert_status": "inactive"
     }
 ]
