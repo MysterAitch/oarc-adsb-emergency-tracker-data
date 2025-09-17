@@ -22538,5 +22538,15 @@
         "alert_last_seen": "2025-09-16T19:27:31",
         "alert_detection_stopped": "2025-09-16T19:27:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AMBER1  ",
+        "hex": "4009ce",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4009ce",
+        "alert_detected": "2025-09-17T10:37:09",
+        "alert_last_seen": "2025-09-17T10:52:18",
+        "alert_detection_stopped": "2025-09-17T10:52:23",
+        "alert_status": "inactive"
     }
 ]
