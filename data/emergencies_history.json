@@ -22628,5 +22628,15 @@
         "alert_last_seen": "2025-09-19T08:22:52",
         "alert_detection_stopped": "2025-09-19T08:22:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH4544 ",
+        "hex": "ae1462",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=ae1462",
+        "alert_detected": "2025-09-19T08:51:22",
+        "alert_last_seen": "2025-09-19T08:57:03",
+        "alert_detection_stopped": "2025-09-19T08:57:08",
+        "alert_status": "inactive"
     }
 ]
