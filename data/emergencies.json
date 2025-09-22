@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR76MV ",
+        "hex": "4d2226",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4d2226",
+        "alert_detected": "2025-09-22T12:09:47",
+        "alert_last_seen": "2025-09-22T12:13:57",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
