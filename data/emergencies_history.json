@@ -22718,5 +22718,15 @@
         "alert_last_seen": "2025-09-22T13:31:31",
         "alert_detection_stopped": "2025-09-22T13:31:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCFTZ   ",
+        "hex": "405fac",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405fac",
+        "alert_detected": "2025-09-22T14:51:33",
+        "alert_last_seen": "2025-09-22T15:06:33",
+        "alert_detection_stopped": "2025-09-22T15:06:38",
+        "alert_status": "inactive"
     }
 ]
