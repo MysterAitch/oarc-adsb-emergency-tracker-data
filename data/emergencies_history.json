@@ -22778,5 +22778,15 @@
         "alert_last_seen": "2025-09-24T09:36:18",
         "alert_detection_stopped": "2025-09-24T09:36:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PH0B7   ",
+        "hex": "4863c3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4863c3",
+        "alert_detected": "2025-09-24T11:05:24",
+        "alert_last_seen": "2025-09-24T11:05:24",
+        "alert_detection_stopped": "2025-09-24T11:05:30",
+        "alert_status": "inactive"
     }
 ]
