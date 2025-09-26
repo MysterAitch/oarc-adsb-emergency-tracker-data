@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GBPFI   ",
-        "hex": "402d6e",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=402d6e",
-        "alert_detected": "2025-09-26T14:43:17",
-        "alert_last_seen": "2025-09-26T14:46:51",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
