@@ -22888,5 +22888,15 @@
         "alert_last_seen": "2025-09-26T14:48:53",
         "alert_detection_stopped": "2025-09-26T14:48:59",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N188MP  ",
+        "hex": "a15f85",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a15f85",
+        "alert_detected": "2025-09-26T16:00:12",
+        "alert_last_seen": "2025-09-26T16:01:04",
+        "alert_detection_stopped": "2025-09-26T16:01:09",
+        "alert_status": "inactive"
     }
 ]
