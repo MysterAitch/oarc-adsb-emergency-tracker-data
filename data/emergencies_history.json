@@ -22908,5 +22908,15 @@
         "alert_last_seen": "2025-09-27T10:28:12",
         "alert_detection_stopped": "2025-09-27T10:28:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DEIMI   ",
+        "hex": "3d1b08",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d1b08",
+        "alert_detected": "2025-09-27T13:36:24",
+        "alert_last_seen": "2025-09-27T13:36:24",
+        "alert_detection_stopped": "2025-09-27T13:36:30",
+        "alert_status": "inactive"
     }
 ]
