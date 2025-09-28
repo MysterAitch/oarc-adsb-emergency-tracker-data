@@ -22968,5 +22968,15 @@
         "alert_last_seen": "2025-09-28T17:47:13",
         "alert_detection_stopped": "2025-09-28T17:47:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL939  ",
+        "hex": "aab001",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aab001",
+        "alert_detected": "2025-09-28T17:14:15",
+        "alert_last_seen": "2025-09-28T18:31:34",
+        "alert_detection_stopped": "2025-09-28T18:31:39",
+        "alert_status": "inactive"
     }
 ]
