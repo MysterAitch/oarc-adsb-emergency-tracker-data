@@ -22958,5 +22958,15 @@
         "alert_last_seen": "2025-09-28T17:37:23",
         "alert_detection_stopped": "2025-09-28T17:37:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM8YC  ",
+        "hex": "4076b0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4076b0",
+        "alert_detected": "2025-09-28T17:39:00",
+        "alert_last_seen": "2025-09-28T17:47:13",
+        "alert_detection_stopped": "2025-09-28T17:47:18",
+        "alert_status": "inactive"
     }
 ]
