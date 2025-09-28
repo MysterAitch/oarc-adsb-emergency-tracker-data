@@ -22918,5 +22918,15 @@
         "alert_last_seen": "2025-09-27T13:36:24",
         "alert_detection_stopped": "2025-09-27T13:36:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS258J ",
+        "hex": "4070e5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4070e5",
+        "alert_detected": "2025-09-28T14:16:35",
+        "alert_last_seen": "2025-09-28T14:17:32",
+        "alert_detection_stopped": "2025-09-28T14:17:37",
+        "alert_status": "inactive"
     }
 ]
