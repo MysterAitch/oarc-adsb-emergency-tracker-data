@@ -23008,5 +23008,15 @@
         "alert_last_seen": "2025-09-29T10:37:20",
         "alert_detection_stopped": "2025-09-29T10:37:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VLG6311 ",
+        "hex": "344501",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=344501",
+        "alert_detected": "2025-09-29T16:31:23",
+        "alert_last_seen": "2025-09-29T16:35:58",
+        "alert_detection_stopped": "2025-09-29T16:36:03",
+        "alert_status": "inactive"
     }
 ]
