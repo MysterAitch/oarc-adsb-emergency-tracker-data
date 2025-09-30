@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RUSTY1  ",
+        "hex": "c01479",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c01479",
+        "alert_detected": "2025-09-30T14:48:54",
+        "alert_last_seen": "2025-09-30T14:53:29",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
