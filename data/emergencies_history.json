@@ -23028,5 +23028,15 @@
         "alert_last_seen": "2025-09-30T14:55:11",
         "alert_detection_stopped": "2025-09-30T14:55:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SKYHWK2 ",
+        "hex": "c01266",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c01266",
+        "alert_detected": "2025-09-30T19:56:16",
+        "alert_last_seen": "2025-09-30T20:08:16",
+        "alert_detection_stopped": "2025-09-30T20:08:21",
+        "alert_status": "inactive"
     }
 ]

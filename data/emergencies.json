@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SKYHWK2 ",
-        "hex": "c01266",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=c01266",
-        "alert_detected": "2025-09-30T19:56:16",
-        "alert_last_seen": "2025-09-30T19:59:59",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
