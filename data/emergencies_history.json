@@ -23018,5 +23018,15 @@
         "alert_last_seen": "2025-09-29T16:35:58",
         "alert_detection_stopped": "2025-09-29T16:36:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RUSTY1  ",
+        "hex": "c01479",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c01479",
+        "alert_detected": "2025-09-30T14:48:54",
+        "alert_last_seen": "2025-09-30T14:55:11",
+        "alert_detection_stopped": "2025-09-30T14:55:16",
+        "alert_status": "inactive"
     }
 ]
