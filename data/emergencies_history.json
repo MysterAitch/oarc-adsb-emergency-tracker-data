@@ -23078,5 +23078,15 @@
         "alert_last_seen": "2025-10-01T16:28:48",
         "alert_detection_stopped": "2025-10-01T16:28:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMZA   ",
+        "hex": "40823a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40823a",
+        "alert_detected": "2025-10-02T13:16:23",
+        "alert_last_seen": "2025-10-02T13:24:06",
+        "alert_detection_stopped": "2025-10-02T13:24:11",
+        "alert_status": "inactive"
     }
 ]
