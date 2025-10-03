@@ -23138,5 +23138,15 @@
         "alert_last_seen": "2025-10-03T20:51:01",
         "alert_detection_stopped": "2025-10-03T20:51:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFC2955 ",
+        "hex": "c2b5c1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c2b5c1",
+        "alert_detected": "2025-10-03T20:28:43",
+        "alert_last_seen": "2025-10-03T21:01:29",
+        "alert_detection_stopped": "2025-10-03T21:01:34",
+        "alert_status": "inactive"
     }
 ]
