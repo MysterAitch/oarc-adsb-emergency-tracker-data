@@ -23148,5 +23148,15 @@
         "alert_last_seen": "2025-10-03T21:01:29",
         "alert_detection_stopped": "2025-10-03T21:01:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "URO680  ",
+        "hex": "400f0b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400f0b",
+        "alert_detected": "2025-10-04T08:49:46",
+        "alert_last_seen": "2025-10-04T08:51:28",
+        "alert_detection_stopped": "2025-10-04T08:51:33",
+        "alert_status": "inactive"
     }
 ]
