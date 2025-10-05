@@ -23168,5 +23168,15 @@
         "alert_last_seen": "2025-10-04T15:17:20",
         "alert_detection_stopped": "2025-10-04T15:17:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL59   ",
+        "hex": "a4d838",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a4d838",
+        "alert_detected": "2025-10-05T10:40:09",
+        "alert_last_seen": "2025-10-05T10:41:05",
+        "alert_detection_stopped": "2025-10-05T10:41:10",
+        "alert_status": "inactive"
     }
 ]
