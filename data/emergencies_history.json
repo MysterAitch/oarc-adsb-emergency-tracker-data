@@ -23178,5 +23178,25 @@
         "alert_last_seen": "2025-10-05T10:41:05",
         "alert_detection_stopped": "2025-10-05T10:41:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL59   ",
+        "hex": "a4d838",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a4d838",
+        "alert_detected": "2025-10-05T10:41:20",
+        "alert_last_seen": "2025-10-05T10:42:17",
+        "alert_detection_stopped": "2025-10-05T10:42:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL59   ",
+        "hex": "a4d838",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a4d838",
+        "alert_detected": "2025-10-05T10:42:27",
+        "alert_last_seen": "2025-10-05T10:43:54",
+        "alert_detection_stopped": "2025-10-05T10:43:59",
+        "alert_status": "inactive"
     }
 ]
