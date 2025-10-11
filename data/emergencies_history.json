@@ -23468,5 +23468,15 @@
         "alert_last_seen": "2025-10-11T14:05:41",
         "alert_detection_stopped": "2025-10-11T14:05:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAZHH   ",
+        "hex": "401940",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401940",
+        "alert_detected": "2025-10-11T14:17:53",
+        "alert_last_seen": "2025-10-11T14:24:45",
+        "alert_detection_stopped": "2025-10-11T14:24:50",
+        "alert_status": "inactive"
     }
 ]
