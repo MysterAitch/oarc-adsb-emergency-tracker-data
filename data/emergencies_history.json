@@ -23598,5 +23598,35 @@
         "alert_last_seen": "2025-10-16T11:05:32",
         "alert_detection_stopped": "2025-10-16T11:05:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GGALB   ",
+        "hex": "4043c3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4043c3",
+        "alert_detected": "2025-10-16T12:28:13",
+        "alert_last_seen": "2025-10-16T12:29:45",
+        "alert_detection_stopped": "2025-10-16T12:29:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NOW335U ",
+        "hex": "478114",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=478114",
+        "alert_detected": "2025-10-16T12:29:45",
+        "alert_last_seen": "2025-10-16T12:29:45",
+        "alert_detection_stopped": "2025-10-16T12:29:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NOW335U ",
+        "hex": "478114",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=478114",
+        "alert_detected": "2025-10-16T12:30:01",
+        "alert_last_seen": "2025-10-16T12:30:17",
+        "alert_detection_stopped": "2025-10-16T12:30:22",
+        "alert_status": "inactive"
     }
 ]
