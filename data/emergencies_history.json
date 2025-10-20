@@ -23708,5 +23708,25 @@
         "alert_last_seen": "2025-10-20T16:08:20",
         "alert_detection_stopped": "2025-10-20T16:08:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BCI58B  ",
+        "hex": "407dcd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407dcd",
+        "alert_detected": "2025-10-20T16:23:55",
+        "alert_last_seen": "2025-10-20T16:53:50",
+        "alert_detection_stopped": "2025-10-20T16:53:55",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BCI58B  ",
+        "hex": "407dcd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407dcd",
+        "alert_detected": "2025-10-20T16:54:25",
+        "alert_last_seen": "2025-10-20T16:56:51",
+        "alert_detection_stopped": "2025-10-20T16:56:56",
+        "alert_status": "inactive"
     }
 ]
