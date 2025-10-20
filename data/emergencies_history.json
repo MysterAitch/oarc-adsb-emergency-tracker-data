@@ -23698,5 +23698,15 @@
         "alert_last_seen": "2025-10-19T19:21:16",
         "alert_detection_stopped": "2025-10-19T19:21:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GZXCL   ",
+        "hex": "400e20",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400e20",
+        "alert_detected": "2025-10-20T16:04:08",
+        "alert_last_seen": "2025-10-20T16:08:20",
+        "alert_detection_stopped": "2025-10-20T16:08:25",
+        "alert_status": "inactive"
     }
 ]
