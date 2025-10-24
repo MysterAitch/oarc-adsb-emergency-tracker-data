@@ -23788,5 +23788,15 @@
         "alert_last_seen": "2025-10-23T08:17:20",
         "alert_detection_stopped": "2025-10-23T08:17:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AGR1946 ",
+        "hex": "48630e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=48630e",
+        "alert_detected": "2025-10-24T09:34:47",
+        "alert_last_seen": "2025-10-24T09:34:47",
+        "alert_detection_stopped": "2025-10-24T09:34:53",
+        "alert_status": "inactive"
     }
 ]
