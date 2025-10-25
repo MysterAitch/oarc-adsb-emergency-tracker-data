@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "UAL331  ",
-        "hex": "a89234",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a89234",
-        "alert_detected": "2025-10-25T17:13:30",
-        "alert_last_seen": "2025-10-25T17:17:06",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
