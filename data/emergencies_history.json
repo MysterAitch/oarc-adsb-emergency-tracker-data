@@ -23898,5 +23898,15 @@
         "alert_last_seen": "2025-10-27T22:53:24",
         "alert_detection_stopped": "2025-10-27T22:53:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RAIDR17 ",
+        "hex": "ae2f99",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae2f99",
+        "alert_detected": "2025-10-28T14:21:33",
+        "alert_last_seen": "2025-10-28T14:21:38",
+        "alert_detection_stopped": "2025-10-28T14:21:43",
+        "alert_status": "inactive"
     }
 ]
