@@ -23968,5 +23968,15 @@
         "alert_last_seen": "2025-10-30T12:14:06",
         "alert_detection_stopped": "2025-10-30T12:14:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N551TT  ",
+        "hex": "a704dd",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a704dd",
+        "alert_detected": "2025-10-30T12:58:01",
+        "alert_last_seen": "2025-10-30T13:00:12",
+        "alert_detection_stopped": "2025-10-30T13:00:17",
+        "alert_status": "inactive"
     }
 ]
