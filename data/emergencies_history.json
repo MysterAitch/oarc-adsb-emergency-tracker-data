@@ -24068,5 +24068,15 @@
         "alert_last_seen": "2025-11-04T13:10:21",
         "alert_detection_stopped": "2025-11-04T13:10:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EIN172  ",
+        "hex": "4cad7b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cad7b",
+        "alert_detected": "2025-11-04T15:54:36",
+        "alert_last_seen": "2025-11-04T15:55:52",
+        "alert_detection_stopped": "2025-11-04T15:55:57",
+        "alert_status": "inactive"
     }
 ]
