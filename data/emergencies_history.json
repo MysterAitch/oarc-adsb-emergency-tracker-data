@@ -24198,5 +24198,15 @@
         "alert_last_seen": "2025-11-07T12:33:33",
         "alert_detection_stopped": "2025-11-07T12:33:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NJE107Y ",
+        "hex": "491306",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=491306",
+        "alert_detected": "2025-11-07T12:50:09",
+        "alert_last_seen": "2025-11-07T12:58:18",
+        "alert_detection_stopped": "2025-11-07T12:58:23",
+        "alert_status": "inactive"
     }
 ]
