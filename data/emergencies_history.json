@@ -24278,5 +24278,15 @@
         "alert_last_seen": "2025-11-10T13:33:08",
         "alert_detection_stopped": "2025-11-10T13:33:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR82GR ",
+        "hex": "39e687",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39e687",
+        "alert_detected": "2025-11-10T20:39:04",
+        "alert_last_seen": "2025-11-10T20:41:55",
+        "alert_detection_stopped": "2025-11-10T20:42:00",
+        "alert_status": "inactive"
     }
 ]
