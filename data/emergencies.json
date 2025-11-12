@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DGJ536  ",
-        "hex": "3e35d4",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=3e35d4",
-        "alert_detected": "2025-11-12T12:36:46",
-        "alert_last_seen": "2025-11-12T12:44:30",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
