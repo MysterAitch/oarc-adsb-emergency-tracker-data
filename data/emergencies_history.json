@@ -24318,5 +24318,15 @@
         "alert_last_seen": "2025-11-12T06:56:58",
         "alert_detection_stopped": "2025-11-12T06:57:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JDA22J  ",
+        "hex": "403bc5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=403bc5",
+        "alert_detected": "2025-11-12T10:40:05",
+        "alert_last_seen": "2025-11-12T10:42:01",
+        "alert_detection_stopped": "2025-11-12T10:42:06",
+        "alert_status": "inactive"
     }
 ]
