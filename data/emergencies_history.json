@@ -24428,5 +24428,15 @@
         "alert_last_seen": "2025-11-20T12:15:50",
         "alert_detection_stopped": "2025-11-20T12:15:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N520GL  ",
+        "hex": "a6898f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a6898f",
+        "alert_detected": "2025-11-20T13:00:10",
+        "alert_last_seen": "2025-11-20T13:39:02",
+        "alert_detection_stopped": "2025-11-20T13:39:07",
+        "alert_status": "inactive"
     }
 ]
