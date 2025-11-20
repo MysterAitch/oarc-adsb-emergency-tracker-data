@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "N520GL  ",
+        "hex": "a6898f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a6898f",
+        "alert_detected": "2025-11-20T13:00:10",
+        "alert_last_seen": "2025-11-20T13:07:49",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
