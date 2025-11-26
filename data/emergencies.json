@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DAL153  ",
+        "hex": "aafd1f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aafd1f",
+        "alert_detected": "2025-11-26T10:12:33",
+        "alert_last_seen": "2025-11-26T10:19:41",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
