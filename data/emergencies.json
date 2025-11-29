@@ -1,11 +1,11 @@
 [
     {
-        "flight": "NONE",
+        "flight": "AFR718  ",
         "hex": "3965a7",
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=3965a7",
-        "alert_detected": "2025-11-29T16:49:43",
-        "alert_last_seen": "2025-11-29T16:51:19",
+        "alert_detected": "2025-11-29T16:56:50",
+        "alert_last_seen": "2025-11-29T16:57:35",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
