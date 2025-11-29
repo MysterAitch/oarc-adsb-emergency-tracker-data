@@ -24738,5 +24738,15 @@
         "alert_last_seen": "2025-11-28T13:39:47",
         "alert_detection_stopped": "2025-11-28T13:39:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAKAY   ",
+        "hex": "3c6c39",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c6c39",
+        "alert_detected": "2025-11-29T08:43:43",
+        "alert_last_seen": "2025-11-29T08:44:03",
+        "alert_detection_stopped": "2025-11-29T08:44:08",
+        "alert_status": "inactive"
     }
 ]
