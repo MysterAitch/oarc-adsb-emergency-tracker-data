@@ -24778,5 +24778,15 @@
         "alert_last_seen": "2025-11-30T13:05:50",
         "alert_detection_stopped": "2025-11-30T13:05:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "43c747",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c747",
+        "alert_detected": "2025-12-01T13:30:53",
+        "alert_last_seen": "2025-12-01T13:36:46",
+        "alert_detection_stopped": "2025-12-01T13:36:51",
+        "alert_status": "inactive"
     }
 ]
