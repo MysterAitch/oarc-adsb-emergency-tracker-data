@@ -24808,5 +24808,15 @@
         "alert_last_seen": "2025-12-02T09:16:55",
         "alert_detection_stopped": "2025-12-02T09:17:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UPS273  ",
+        "hex": "a33eda",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a33eda",
+        "alert_detected": "2025-12-02T21:09:50",
+        "alert_last_seen": "2025-12-02T21:28:22",
+        "alert_detection_stopped": "2025-12-02T21:28:27",
+        "alert_status": "inactive"
     }
 ]
