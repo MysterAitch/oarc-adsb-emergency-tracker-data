@@ -25018,5 +25018,15 @@
         "alert_last_seen": "2025-12-05T12:23:08",
         "alert_detection_stopped": "2025-12-05T12:23:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TASMAN71",
+        "hex": "4009ca",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4009ca",
+        "alert_detected": "2025-12-05T16:16:09",
+        "alert_last_seen": "2025-12-05T16:19:40",
+        "alert_detection_stopped": "2025-12-05T16:19:46",
+        "alert_status": "inactive"
     }
 ]
