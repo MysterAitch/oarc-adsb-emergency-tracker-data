@@ -25158,5 +25158,15 @@
         "alert_last_seen": "2025-12-09T14:17:25",
         "alert_detection_stopped": "2025-12-09T14:17:30",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NPT4S   ",
+        "hex": "40762c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40762c",
+        "alert_detected": "2025-12-09T23:53:24",
+        "alert_last_seen": "2025-12-09T23:53:24",
+        "alert_detection_stopped": "2025-12-09T23:53:30",
+        "alert_status": "inactive"
     }
 ]
