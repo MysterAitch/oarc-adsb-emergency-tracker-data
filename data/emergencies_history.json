@@ -25178,5 +25178,15 @@
         "alert_last_seen": "2025-12-10T06:49:00",
         "alert_detection_stopped": "2025-12-10T06:49:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JUNGLY98",
+        "hex": "43c1fc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fc",
+        "alert_detected": "2025-12-10T10:36:43",
+        "alert_last_seen": "2025-12-10T10:41:55",
+        "alert_detection_stopped": "2025-12-10T10:42:00",
+        "alert_status": "inactive"
     }
 ]
