@@ -25238,5 +25238,15 @@
         "alert_last_seen": "2025-12-11T09:47:26",
         "alert_detection_stopped": "2025-12-11T09:47:31",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GPACO   ",
+        "hex": "406415",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406415",
+        "alert_detected": "2025-12-11T17:21:00",
+        "alert_last_seen": "2025-12-11T17:21:05",
+        "alert_detection_stopped": "2025-12-11T17:21:10",
+        "alert_status": "inactive"
     }
 ]
