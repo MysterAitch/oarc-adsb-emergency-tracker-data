@@ -25308,5 +25308,15 @@
         "alert_last_seen": "2025-12-13T10:04:48",
         "alert_detection_stopped": "2025-12-13T10:04:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FBY28B  ",
+        "hex": "34534d",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=34534d",
+        "alert_detected": "2025-12-13T10:35:33",
+        "alert_last_seen": "2025-12-13T10:35:53",
+        "alert_detection_stopped": "2025-12-13T10:35:58",
+        "alert_status": "inactive"
     }
 ]
