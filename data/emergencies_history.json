@@ -25338,5 +25338,15 @@
         "alert_last_seen": "2025-12-14T08:06:33",
         "alert_detection_stopped": "2025-12-14T08:06:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WIT25   ",
+        "hex": "400e9b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e9b",
+        "alert_detected": "2025-12-15T11:05:27",
+        "alert_last_seen": "2025-12-15T11:06:42",
+        "alert_detection_stopped": "2025-12-15T11:06:48",
+        "alert_status": "inactive"
     }
 ]
