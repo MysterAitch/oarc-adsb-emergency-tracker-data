@@ -25448,5 +25448,15 @@
         "alert_last_seen": "2025-12-17T14:33:44",
         "alert_detection_stopped": "2025-12-17T14:33:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BCS223P ",
+        "hex": "4520c4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4520c4",
+        "alert_detected": "2025-12-18T05:34:29",
+        "alert_last_seen": "2025-12-18T05:40:21",
+        "alert_detection_stopped": "2025-12-18T05:40:26",
+        "alert_status": "inactive"
     }
 ]
