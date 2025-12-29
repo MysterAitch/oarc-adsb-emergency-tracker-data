@@ -25568,5 +25568,15 @@
         "alert_last_seen": "2025-12-29T11:25:53",
         "alert_detection_stopped": "2025-12-29T11:25:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GYAKF   ",
+        "hex": "4053cb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4053cb",
+        "alert_detected": "2025-12-29T13:11:14",
+        "alert_last_seen": "2025-12-29T13:13:45",
+        "alert_detection_stopped": "2025-12-29T13:13:50",
+        "alert_status": "inactive"
     }
 ]
