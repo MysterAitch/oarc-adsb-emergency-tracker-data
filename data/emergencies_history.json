@@ -25618,5 +25618,15 @@
         "alert_last_seen": "2025-12-30T10:51:04",
         "alert_detection_stopped": "2025-12-30T10:51:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GEOSM   ",
+        "hex": "407d3d",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407d3d",
+        "alert_detected": "2025-12-30T13:00:37",
+        "alert_last_seen": "2025-12-30T13:00:58",
+        "alert_detection_stopped": "2025-12-30T13:01:03",
+        "alert_status": "inactive"
     }
 ]
