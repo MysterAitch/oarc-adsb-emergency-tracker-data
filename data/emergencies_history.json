@@ -25628,5 +25628,15 @@
         "alert_last_seen": "2025-12-30T13:00:58",
         "alert_detection_stopped": "2025-12-30T13:01:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EWG1KC  ",
+        "hex": "3c49c8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c49c8",
+        "alert_detected": "2025-12-30T21:20:11",
+        "alert_last_seen": "2025-12-30T21:22:37",
+        "alert_detection_stopped": "2025-12-30T21:22:43",
+        "alert_status": "inactive"
     }
 ]
