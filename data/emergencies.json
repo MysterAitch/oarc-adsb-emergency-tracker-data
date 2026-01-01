@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BAW6AC  ",
-        "hex": "405bfb",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=405bfb",
-        "alert_detected": "2026-01-01T11:24:45",
-        "alert_last_seen": "2026-01-01T11:36:20",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
