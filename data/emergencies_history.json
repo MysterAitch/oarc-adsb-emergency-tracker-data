@@ -25638,5 +25638,15 @@
         "alert_last_seen": "2025-12-30T21:22:37",
         "alert_detection_stopped": "2025-12-30T21:22:43",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AIC188D ",
+        "hex": "8003e3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=8003e3",
+        "alert_detected": "2026-01-01T07:08:49",
+        "alert_last_seen": "2026-01-01T07:14:52",
+        "alert_detection_stopped": "2026-01-01T07:14:57",
+        "alert_status": "inactive"
     }
 ]
