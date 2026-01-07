@@ -25738,5 +25738,15 @@
         "alert_last_seen": "2026-01-06T14:38:11",
         "alert_detection_stopped": "2026-01-06T14:38:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ZA705   ",
+        "hex": "43c4d6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c4d6",
+        "alert_detected": "2026-01-07T15:25:33",
+        "alert_last_seen": "2026-01-07T15:25:44",
+        "alert_detection_stopped": "2026-01-07T15:25:49",
+        "alert_status": "inactive"
     }
 ]
