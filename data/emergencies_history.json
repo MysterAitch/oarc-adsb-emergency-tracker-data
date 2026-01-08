@@ -25778,5 +25778,25 @@
         "alert_last_seen": "2026-01-08T15:37:12",
         "alert_detection_stopped": "2026-01-08T15:37:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FBU24B  ",
+        "hex": "39c498",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39c498",
+        "alert_detected": "2026-01-08T15:37:22",
+        "alert_last_seen": "2026-01-08T15:38:33",
+        "alert_detection_stopped": "2026-01-08T15:38:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "39c498",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39c498",
+        "alert_detected": "2026-01-08T15:38:43",
+        "alert_last_seen": "2026-01-08T15:45:37",
+        "alert_detection_stopped": "2026-01-08T15:45:42",
+        "alert_status": "inactive"
     }
 ]
