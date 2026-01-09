@@ -25818,5 +25818,15 @@
         "alert_last_seen": "2026-01-08T20:14:05",
         "alert_detection_stopped": "2026-01-08T20:14:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TRA57M  ",
+        "hex": "48683e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=48683e",
+        "alert_detected": "2026-01-09T05:17:17",
+        "alert_last_seen": "2026-01-09T05:17:23",
+        "alert_detection_stopped": "2026-01-09T05:17:28",
+        "alert_status": "inactive"
     }
 ]
