@@ -25938,5 +25938,15 @@
         "alert_last_seen": "2026-01-11T21:24:32",
         "alert_detection_stopped": "2026-01-11T21:24:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JCO025M ",
+        "hex": "407cf6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cf6",
+        "alert_detected": "2026-01-12T12:16:53",
+        "alert_last_seen": "2026-01-12T12:22:26",
+        "alert_detection_stopped": "2026-01-12T12:22:31",
+        "alert_status": "inactive"
     }
 ]
