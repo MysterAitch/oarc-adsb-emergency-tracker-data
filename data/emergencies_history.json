@@ -25998,5 +25998,15 @@
         "alert_last_seen": "2026-01-14T12:53:31",
         "alert_detection_stopped": "2026-01-14T12:53:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCOVZ   ",
+        "hex": "401b9d",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=401b9d",
+        "alert_detected": "2026-01-14T13:28:46",
+        "alert_last_seen": "2026-01-14T13:28:52",
+        "alert_detection_stopped": "2026-01-14T13:28:57",
+        "alert_status": "inactive"
     }
 ]
