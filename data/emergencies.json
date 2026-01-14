@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SKYNET  ",
-        "hex": "3f5e62",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=3f5e62",
-        "alert_detected": "2026-01-14T14:36:41",
-        "alert_last_seen": "2026-01-14T14:38:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
