@@ -26058,5 +26058,25 @@
         "alert_last_seen": "2026-01-14T16:07:14",
         "alert_detection_stopped": "2026-01-14T16:07:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GOGEZ   ",
+        "hex": "4076d0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4076d0",
+        "alert_detected": "2026-01-17T12:35:58",
+        "alert_last_seen": "2026-01-17T12:56:15",
+        "alert_detection_stopped": "2026-01-17T12:56:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GOGEZ   ",
+        "hex": "4076d0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4076d0",
+        "alert_detected": "2026-01-17T12:56:45",
+        "alert_last_seen": "2026-01-17T13:03:02",
+        "alert_detection_stopped": "2026-01-17T13:03:07",
+        "alert_status": "inactive"
     }
 ]

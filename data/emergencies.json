@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GOGEZ   ",
-        "hex": "4076d0",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=4076d0",
-        "alert_detected": "2026-01-17T12:35:58",
-        "alert_last_seen": "2026-01-17T12:55:50",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
