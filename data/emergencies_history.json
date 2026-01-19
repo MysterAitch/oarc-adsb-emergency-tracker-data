@@ -26078,5 +26078,15 @@
         "alert_last_seen": "2026-01-17T13:03:02",
         "alert_detection_stopped": "2026-01-17T13:03:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR998V ",
+        "hex": "4caee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4caee7",
+        "alert_detected": "2026-01-19T06:41:12",
+        "alert_last_seen": "2026-01-19T06:41:12",
+        "alert_detection_stopped": "2026-01-19T06:41:17",
+        "alert_status": "inactive"
     }
 ]
