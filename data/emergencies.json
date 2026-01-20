@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "UAX61   ",
+        "hex": "400ec8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ec8",
+        "alert_detected": "2026-01-20T11:41:53",
+        "alert_last_seen": "2026-01-20T11:44:55",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
