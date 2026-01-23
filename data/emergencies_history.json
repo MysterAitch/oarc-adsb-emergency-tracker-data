@@ -26218,5 +26218,15 @@
         "alert_last_seen": "2026-01-22T13:11:59",
         "alert_detection_stopped": "2026-01-22T13:12:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PALADN41",
+        "hex": "43c79d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c79d",
+        "alert_detected": "2026-01-23T12:04:23",
+        "alert_last_seen": "2026-01-23T12:19:40",
+        "alert_detection_stopped": "2026-01-23T12:19:45",
+        "alert_status": "inactive"
     }
 ]
