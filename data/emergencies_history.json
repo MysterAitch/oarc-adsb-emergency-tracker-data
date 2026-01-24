@@ -26228,5 +26228,25 @@
         "alert_last_seen": "2026-01-23T12:19:40",
         "alert_detection_stopped": "2026-01-23T12:19:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "40514c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40514c",
+        "alert_detected": "2026-01-24T11:17:06",
+        "alert_last_seen": "2026-01-24T11:18:42",
+        "alert_detection_stopped": "2026-01-24T11:18:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "40514c",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=40514c",
+        "alert_detected": "2026-01-24T11:21:13",
+        "alert_last_seen": "2026-01-24T11:22:18",
+        "alert_detection_stopped": "2026-01-24T11:22:23",
+        "alert_status": "inactive"
     }
 ]
