@@ -26278,5 +26278,15 @@
         "alert_last_seen": "2026-01-25T11:32:41",
         "alert_detection_stopped": "2026-01-25T11:32:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY89WL ",
+        "hex": "405f11",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405f11",
+        "alert_detected": "2026-01-25T22:37:17",
+        "alert_last_seen": "2026-01-25T22:43:34",
+        "alert_detection_stopped": "2026-01-25T22:43:39",
+        "alert_status": "inactive"
     }
 ]
