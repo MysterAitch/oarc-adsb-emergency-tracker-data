@@ -26308,5 +26308,15 @@
         "alert_last_seen": "2026-01-27T12:11:11",
         "alert_detection_stopped": "2026-01-27T12:11:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU41   ",
+        "hex": "400eb7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eb7",
+        "alert_detected": "2026-01-27T12:48:25",
+        "alert_last_seen": "2026-01-27T12:52:37",
+        "alert_detection_stopped": "2026-01-27T12:52:42",
+        "alert_status": "inactive"
     }
 ]
