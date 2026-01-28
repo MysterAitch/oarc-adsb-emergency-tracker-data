@@ -26378,5 +26378,15 @@
         "alert_last_seen": "2026-01-28T14:44:41",
         "alert_detection_stopped": "2026-01-28T14:44:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCOVC   ",
+        "hex": "406f53",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=406f53",
+        "alert_detected": "2026-01-28T15:02:44",
+        "alert_last_seen": "2026-01-28T15:02:44",
+        "alert_detection_stopped": "2026-01-28T15:02:49",
+        "alert_status": "inactive"
     }
 ]
