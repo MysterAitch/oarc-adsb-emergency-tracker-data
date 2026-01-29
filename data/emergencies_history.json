@@ -26408,5 +26408,15 @@
         "alert_last_seen": "2026-01-28T16:24:59",
         "alert_detection_stopped": "2026-01-28T16:25:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FSF603A ",
+        "hex": "460844",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=460844",
+        "alert_detected": "2026-01-29T14:06:17",
+        "alert_last_seen": "2026-01-29T14:20:18",
+        "alert_detection_stopped": "2026-01-29T14:20:23",
+        "alert_status": "inactive"
     }
 ]
