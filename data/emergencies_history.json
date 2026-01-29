@@ -26418,5 +26418,15 @@
         "alert_last_seen": "2026-01-29T14:20:18",
         "alert_detection_stopped": "2026-01-29T14:20:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FNF111  ",
+        "hex": "46788c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=46788c",
+        "alert_detected": "2026-01-29T15:51:01",
+        "alert_last_seen": "2026-01-29T15:58:14",
+        "alert_detection_stopped": "2026-01-29T15:58:19",
+        "alert_status": "inactive"
     }
 ]
