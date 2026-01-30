@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "FANG0012",
+        "hex": "43c73e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c73e",
+        "alert_detected": "2026-01-30T10:56:35",
+        "alert_last_seen": "2026-01-30T11:03:54",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
