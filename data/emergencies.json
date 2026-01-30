@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "KLM99B  ",
-        "hex": "4864ee",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4864ee",
-        "alert_detected": "2026-01-30T09:33:04",
-        "alert_last_seen": "2026-01-30T09:44:04",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
