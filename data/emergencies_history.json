@@ -26458,5 +26458,15 @@
         "alert_last_seen": "2026-01-30T11:05:04",
         "alert_detection_stopped": "2026-01-30T11:05:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR48WE ",
+        "hex": "40641d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40641d",
+        "alert_detected": "2026-01-31T09:55:54",
+        "alert_last_seen": "2026-01-31T10:10:28",
+        "alert_detection_stopped": "2026-01-31T10:10:33",
+        "alert_status": "inactive"
     }
 ]
