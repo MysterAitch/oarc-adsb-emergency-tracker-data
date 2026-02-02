@@ -26488,5 +26488,15 @@
         "alert_last_seen": "2026-02-02T09:54:26",
         "alert_detection_stopped": "2026-02-02T09:54:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NSZ4457 ",
+        "hex": "4aca86",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4aca86",
+        "alert_detected": "2026-02-02T15:44:43",
+        "alert_last_seen": "2026-02-02T16:04:06",
+        "alert_detection_stopped": "2026-02-02T16:04:11",
+        "alert_status": "inactive"
     }
 ]

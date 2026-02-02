@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NSZ4457 ",
-        "hex": "4aca86",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4aca86",
-        "alert_detected": "2026-02-02T15:44:43",
-        "alert_last_seen": "2026-02-02T15:54:02",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
