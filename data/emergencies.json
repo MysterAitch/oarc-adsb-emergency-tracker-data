@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DAL234  ",
+        "hex": "a5237f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a5237f",
+        "alert_detected": "2026-02-03T02:50:19",
+        "alert_last_seen": "2026-02-03T03:12:56",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
