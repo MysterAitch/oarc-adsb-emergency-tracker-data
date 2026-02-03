@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS980  ",
-        "hex": "40825f",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40825f",
-        "alert_detected": "2026-02-03T19:48:55",
-        "alert_last_seen": "2026-02-03T20:02:31",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
