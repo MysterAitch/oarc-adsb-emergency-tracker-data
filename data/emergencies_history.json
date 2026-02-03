@@ -26518,5 +26518,15 @@
         "alert_last_seen": "2026-02-03T08:36:27",
         "alert_detection_stopped": "2026-02-03T08:36:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RANGR95 ",
+        "hex": "ae1480",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae1480",
+        "alert_detected": "2026-02-03T15:31:36",
+        "alert_last_seen": "2026-02-03T15:31:41",
+        "alert_detection_stopped": "2026-02-03T15:31:46",
+        "alert_status": "inactive"
     }
 ]
