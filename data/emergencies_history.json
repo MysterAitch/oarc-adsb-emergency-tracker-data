@@ -26568,5 +26568,15 @@
         "alert_last_seen": "2026-02-04T14:08:01",
         "alert_detection_stopped": "2026-02-04T14:08:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SYS23   ",
+        "hex": "43c8df",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8df",
+        "alert_detected": "2026-02-04T15:11:29",
+        "alert_last_seen": "2026-02-04T15:14:51",
+        "alert_detection_stopped": "2026-02-04T15:14:56",
+        "alert_status": "inactive"
     }
 ]
