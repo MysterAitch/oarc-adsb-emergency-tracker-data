@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "F35LTNG ",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2026-02-05T15:09:50",
+        "alert_last_seen": "2026-02-05T15:24:46",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
