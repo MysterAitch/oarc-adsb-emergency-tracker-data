@@ -26698,5 +26698,15 @@
         "alert_last_seen": "2026-02-07T16:35:02",
         "alert_detection_stopped": "2026-02-07T16:35:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TAP1329 ",
+        "hex": "4951ca",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4951ca",
+        "alert_detected": "2026-02-08T09:29:38",
+        "alert_last_seen": "2026-02-08T09:41:12",
+        "alert_detection_stopped": "2026-02-08T09:41:17",
+        "alert_status": "inactive"
     }
 ]
