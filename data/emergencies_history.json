@@ -26708,5 +26708,15 @@
         "alert_last_seen": "2026-02-08T09:41:12",
         "alert_detection_stopped": "2026-02-08T09:41:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SUMO85  ",
+        "hex": "ae2f98",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae2f98",
+        "alert_detected": "2026-02-09T13:01:08",
+        "alert_last_seen": "2026-02-09T13:01:14",
+        "alert_detection_stopped": "2026-02-09T13:01:19",
+        "alert_status": "inactive"
     }
 ]
