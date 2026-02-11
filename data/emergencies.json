@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SHT7H   ",
-        "hex": "400b83",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=400b83",
-        "alert_detected": "2026-02-11T14:21:06",
-        "alert_last_seen": "2026-02-11T14:45:27",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
