@@ -26758,5 +26758,15 @@
         "alert_last_seen": "2026-02-11T15:08:16",
         "alert_detection_stopped": "2026-02-11T15:08:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PGT738J ",
+        "hex": "4bc843",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4bc843",
+        "alert_detected": "2026-02-12T08:49:12",
+        "alert_last_seen": "2026-02-12T09:01:17",
+        "alert_detection_stopped": "2026-02-12T09:01:22",
+        "alert_status": "inactive"
     }
 ]
