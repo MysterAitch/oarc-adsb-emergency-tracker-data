@@ -26768,5 +26768,35 @@
         "alert_last_seen": "2026-02-12T09:01:17",
         "alert_detection_stopped": "2026-02-12T09:01:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ETP08   ",
+        "hex": "406cdb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406cdb",
+        "alert_detected": "2026-02-12T15:27:31",
+        "alert_last_seen": "2026-02-12T15:32:54",
+        "alert_detection_stopped": "2026-02-12T15:32:59",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "FRF140  ",
+        "hex": "471a7e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=471a7e",
+        "alert_detected": "2026-02-12T15:32:28",
+        "alert_last_seen": "2026-02-12T15:35:50",
+        "alert_detection_stopped": "2026-02-12T15:35:55",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "406cdb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406cdb",
+        "alert_detected": "2026-02-12T15:34:49",
+        "alert_last_seen": "2026-02-12T15:37:31",
+        "alert_detection_stopped": "2026-02-12T15:37:36",
+        "alert_status": "inactive"
     }
 ]
