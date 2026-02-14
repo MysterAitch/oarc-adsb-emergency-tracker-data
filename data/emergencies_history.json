@@ -26818,5 +26818,15 @@
         "alert_last_seen": "2026-02-14T15:18:43",
         "alert_detection_stopped": "2026-02-14T15:18:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR8VM  ",
+        "hex": "4d2504",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d2504",
+        "alert_detected": "2026-02-14T18:47:00",
+        "alert_last_seen": "2026-02-14T18:47:00",
+        "alert_detection_stopped": "2026-02-14T18:47:05",
+        "alert_status": "inactive"
     }
 ]
