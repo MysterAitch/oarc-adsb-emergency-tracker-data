@@ -26838,5 +26838,15 @@
         "alert_last_seen": "2026-02-15T14:45:16",
         "alert_detection_stopped": "2026-02-15T14:45:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL3907 ",
+        "hex": "a8a87e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a8a87e",
+        "alert_detected": "2026-02-15T14:46:06",
+        "alert_last_seen": "2026-02-15T15:02:42",
+        "alert_detection_stopped": "2026-02-15T15:02:47",
+        "alert_status": "inactive"
     }
 ]
