@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "RCH190  ",
-        "hex": "ae145a",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ae145a",
-        "alert_detected": "2026-02-16T20:26:24",
-        "alert_last_seen": "2026-02-16T20:43:42",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

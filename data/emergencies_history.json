@@ -26928,5 +26928,15 @@
         "alert_last_seen": "2026-02-16T16:24:40",
         "alert_detection_stopped": "2026-02-16T16:24:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH190  ",
+        "hex": "ae145a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae145a",
+        "alert_detected": "2026-02-16T20:26:24",
+        "alert_last_seen": "2026-02-16T20:54:21",
+        "alert_detection_stopped": "2026-02-16T20:54:26",
+        "alert_status": "inactive"
     }
 ]
