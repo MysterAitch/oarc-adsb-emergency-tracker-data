@@ -26898,5 +26898,15 @@
         "alert_last_seen": "2026-02-15T19:29:46",
         "alert_detection_stopped": "2026-02-15T19:29:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RJA282  ",
+        "hex": "740825",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=740825",
+        "alert_detected": "2026-02-16T11:12:13",
+        "alert_last_seen": "2026-02-16T11:15:20",
+        "alert_detection_stopped": "2026-02-16T11:15:25",
+        "alert_status": "inactive"
     }
 ]
