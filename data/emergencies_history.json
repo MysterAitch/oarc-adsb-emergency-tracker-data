@@ -26978,5 +26978,35 @@
         "alert_last_seen": "2026-02-17T15:23:34",
         "alert_detection_stopped": "2026-02-17T15:23:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EMC62A  ",
+        "hex": "407fb0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407fb0",
+        "alert_detected": "2026-02-17T18:06:36",
+        "alert_last_seen": "2026-02-17T18:12:14",
+        "alert_detection_stopped": "2026-02-17T18:12:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "407fb0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407fb0",
+        "alert_detected": "2026-02-17T18:14:45",
+        "alert_last_seen": "2026-02-17T18:15:41",
+        "alert_detection_stopped": "2026-02-17T18:15:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "407fb0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407fb0",
+        "alert_detected": "2026-02-17T18:20:38",
+        "alert_last_seen": "2026-02-17T18:21:34",
+        "alert_detection_stopped": "2026-02-17T18:21:39",
+        "alert_status": "inactive"
     }
 ]
