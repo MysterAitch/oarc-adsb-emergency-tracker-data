@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EXS41P  ",
-        "hex": "40717c",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=40717c",
-        "alert_detected": "2026-02-19T15:33:26",
-        "alert_last_seen": "2026-02-19T15:56:03",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
