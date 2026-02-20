@@ -27048,5 +27048,15 @@
         "alert_last_seen": "2026-02-20T10:41:56",
         "alert_detection_stopped": "2026-02-20T10:42:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DESTRO42",
+        "hex": "43c795",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c795",
+        "alert_detected": "2026-02-20T11:43:21",
+        "alert_last_seen": "2026-02-20T12:04:43",
+        "alert_detection_stopped": "2026-02-20T12:04:48",
+        "alert_status": "inactive"
     }
 ]
