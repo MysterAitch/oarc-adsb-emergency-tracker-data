@@ -27068,5 +27068,15 @@
         "alert_last_seen": "2026-02-22T15:00:12",
         "alert_detection_stopped": "2026-02-22T15:00:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY35XV ",
+        "hex": "4010eb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4010eb",
+        "alert_detected": "2026-02-23T13:55:26",
+        "alert_last_seen": "2026-02-23T14:05:31",
+        "alert_detection_stopped": "2026-02-23T14:05:36",
+        "alert_status": "inactive"
     }
 ]
