@@ -27118,5 +27118,15 @@
         "alert_last_seen": "2026-02-24T13:05:45",
         "alert_detection_stopped": "2026-02-24T13:05:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HITMAN  ",
+        "hex": "3ebcb5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3ebcb5",
+        "alert_detected": "2026-02-24T13:22:22",
+        "alert_last_seen": "2026-02-24T13:30:56",
+        "alert_detection_stopped": "2026-02-24T13:31:01",
+        "alert_status": "inactive"
     }
 ]
