@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "RCH800  ",
-        "hex": "ae4bdd",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ae4bdd",
-        "alert_detected": "2026-03-05T05:24:36",
-        "alert_last_seen": "2026-03-05T05:31:49",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

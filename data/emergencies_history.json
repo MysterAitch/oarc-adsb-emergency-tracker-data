@@ -27348,5 +27348,15 @@
         "alert_last_seen": "2026-03-04T15:38:33",
         "alert_detection_stopped": "2026-03-04T15:38:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH800  ",
+        "hex": "ae4bdd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae4bdd",
+        "alert_detected": "2026-03-05T05:24:36",
+        "alert_last_seen": "2026-03-05T05:38:07",
+        "alert_detection_stopped": "2026-03-05T05:38:12",
+        "alert_status": "inactive"
     }
 ]
