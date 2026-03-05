@@ -27378,5 +27378,15 @@
         "alert_last_seen": "2026-03-05T12:12:24",
         "alert_detection_stopped": "2026-03-05T12:12:29",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCINA   ",
+        "hex": "406d13",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406d13",
+        "alert_detected": "2026-03-05T12:34:04",
+        "alert_last_seen": "2026-03-05T12:34:09",
+        "alert_detection_stopped": "2026-03-05T12:34:14",
+        "alert_status": "inactive"
     }
 ]
