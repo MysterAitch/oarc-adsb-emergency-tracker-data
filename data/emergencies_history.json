@@ -27438,5 +27438,15 @@
         "alert_last_seen": "2026-03-07T13:54:08",
         "alert_detection_stopped": "2026-03-07T13:54:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBPOS   ",
+        "hex": "402dce",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402dce",
+        "alert_detected": "2026-03-07T13:56:54",
+        "alert_last_seen": "2026-03-07T14:11:59",
+        "alert_detection_stopped": "2026-03-07T14:12:04",
+        "alert_status": "inactive"
     }
 ]
