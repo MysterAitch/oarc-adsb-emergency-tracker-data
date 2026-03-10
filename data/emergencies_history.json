@@ -27498,5 +27498,15 @@
         "alert_last_seen": "2026-03-09T11:07:01",
         "alert_detection_stopped": "2026-03-09T11:07:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JNGLY14 ",
+        "hex": "43c1fa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fa",
+        "alert_detected": "2026-03-10T15:14:06",
+        "alert_last_seen": "2026-03-10T15:14:06",
+        "alert_detection_stopped": "2026-03-10T15:14:11",
+        "alert_status": "inactive"
     }
 ]
