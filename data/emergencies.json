@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "KLM98B  ",
+        "hex": "486803",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=486803",
+        "alert_detected": "2026-03-11T10:47:47",
+        "alert_last_seen": "2026-03-11T10:57:52",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
