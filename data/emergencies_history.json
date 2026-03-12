@@ -27548,5 +27548,25 @@
         "alert_last_seen": "2026-03-12T18:44:28",
         "alert_detection_stopped": "2026-03-12T18:44:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR12EB ",
+        "hex": "4d21fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d21fd",
+        "alert_detected": "2026-03-12T21:41:44",
+        "alert_last_seen": "2026-03-12T21:44:00",
+        "alert_detection_stopped": "2026-03-12T21:44:05",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR12EB ",
+        "hex": "4d21fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d21fd",
+        "alert_detected": "2026-03-12T21:45:50",
+        "alert_last_seen": "2026-03-12T21:46:51",
+        "alert_detection_stopped": "2026-03-12T21:46:56",
+        "alert_status": "inactive"
     }
 ]
