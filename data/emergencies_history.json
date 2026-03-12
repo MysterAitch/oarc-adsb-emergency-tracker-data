@@ -27518,5 +27518,15 @@
         "alert_last_seen": "2026-03-11T11:04:41",
         "alert_detection_stopped": "2026-03-11T11:04:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU63QH ",
+        "hex": "4400b2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4400b2",
+        "alert_detected": "2026-03-12T07:46:05",
+        "alert_last_seen": "2026-03-12T08:19:36",
+        "alert_detection_stopped": "2026-03-12T08:19:41",
+        "alert_status": "inactive"
     }
 ]
