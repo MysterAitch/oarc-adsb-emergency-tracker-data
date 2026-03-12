@@ -27528,5 +27528,25 @@
         "alert_last_seen": "2026-03-12T08:19:36",
         "alert_detection_stopped": "2026-03-12T08:19:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR93QF ",
+        "hex": "4ca4ee",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca4ee",
+        "alert_detected": "2026-03-12T18:16:44",
+        "alert_last_seen": "2026-03-12T18:39:46",
+        "alert_detection_stopped": "2026-03-12T18:39:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR93QF ",
+        "hex": "4ca4ee",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca4ee",
+        "alert_detected": "2026-03-12T18:40:16",
+        "alert_last_seen": "2026-03-12T18:44:28",
+        "alert_detection_stopped": "2026-03-12T18:44:33",
+        "alert_status": "inactive"
     }
 ]
