@@ -27728,5 +27728,15 @@
         "alert_last_seen": "2026-03-17T11:00:31",
         "alert_detection_stopped": "2026-03-17T11:00:36",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GELUE   ",
+        "hex": "4062de",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4062de",
+        "alert_detected": "2026-03-17T13:48:08",
+        "alert_last_seen": "2026-03-17T13:48:08",
+        "alert_detection_stopped": "2026-03-17T13:48:13",
+        "alert_status": "inactive"
     }
 ]
