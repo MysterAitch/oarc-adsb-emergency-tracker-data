@@ -27848,5 +27848,15 @@
         "alert_last_seen": "2026-03-18T12:13:22",
         "alert_detection_stopped": "2026-03-18T12:13:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMKE   ",
+        "hex": "407e6d",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407e6d",
+        "alert_detected": "2026-03-18T15:29:14",
+        "alert_last_seen": "2026-03-18T15:29:19",
+        "alert_detection_stopped": "2026-03-18T15:29:24",
+        "alert_status": "inactive"
     }
 ]
