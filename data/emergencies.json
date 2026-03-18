@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "ETP08   ",
-        "hex": "4074ca",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=4074ca",
-        "alert_detected": "2026-03-18T11:50:18",
-        "alert_last_seen": "2026-03-18T11:51:14",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

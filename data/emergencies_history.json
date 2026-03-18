@@ -27808,5 +27808,35 @@
         "alert_last_seen": "2026-03-18T10:41:34",
         "alert_detection_stopped": "2026-03-18T10:41:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ETP08   ",
+        "hex": "4074ca",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4074ca",
+        "alert_detected": "2026-03-18T11:50:18",
+        "alert_last_seen": "2026-03-18T11:55:30",
+        "alert_detection_stopped": "2026-03-18T11:55:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF31   ",
+        "hex": "43c8ba",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8ba",
+        "alert_detected": "2026-03-18T11:54:00",
+        "alert_last_seen": "2026-03-18T11:55:56",
+        "alert_detection_stopped": "2026-03-18T11:56:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "ETP08   ",
+        "hex": "4074ca",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4074ca",
+        "alert_detected": "2026-03-18T11:55:51",
+        "alert_last_seen": "2026-03-18T11:56:56",
+        "alert_detection_stopped": "2026-03-18T11:57:01",
+        "alert_status": "inactive"
     }
 ]
