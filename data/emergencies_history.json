@@ -27898,5 +27898,25 @@
         "alert_last_seen": "2026-03-19T12:02:13",
         "alert_detection_stopped": "2026-03-19T12:02:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "400a17",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400a17",
+        "alert_detected": "2026-03-19T13:13:33",
+        "alert_last_seen": "2026-03-19T13:13:53",
+        "alert_detection_stopped": "2026-03-19T13:13:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAO464  ",
+        "hex": "400ec6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ec6",
+        "alert_detected": "2026-03-19T13:12:22",
+        "alert_last_seen": "2026-03-19T13:14:29",
+        "alert_detection_stopped": "2026-03-19T13:14:34",
+        "alert_status": "inactive"
     }
 ]
