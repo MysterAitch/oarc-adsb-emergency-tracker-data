@@ -27918,5 +27918,25 @@
         "alert_last_seen": "2026-03-19T13:14:29",
         "alert_detection_stopped": "2026-03-19T13:14:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAL89   ",
+        "hex": "43c93d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c93d",
+        "alert_detected": "2026-03-20T11:37:08",
+        "alert_last_seen": "2026-03-20T11:37:49",
+        "alert_detection_stopped": "2026-03-20T11:37:54",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR1687 ",
+        "hex": "39e682",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39e682",
+        "alert_detected": "2026-03-20T11:39:45",
+        "alert_last_seen": "2026-03-20T11:39:51",
+        "alert_detection_stopped": "2026-03-20T11:39:56",
+        "alert_status": "inactive"
     }
 ]
