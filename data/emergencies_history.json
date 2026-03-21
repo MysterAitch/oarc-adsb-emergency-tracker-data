@@ -27968,5 +27968,15 @@
         "alert_last_seen": "2026-03-21T10:41:41",
         "alert_detection_stopped": "2026-03-21T10:41:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GAVGZ   ",
+        "hex": "4016db",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4016db",
+        "alert_detected": "2026-03-21T12:58:39",
+        "alert_last_seen": "2026-03-21T12:58:54",
+        "alert_detection_stopped": "2026-03-21T12:58:59",
+        "alert_status": "inactive"
     }
 ]
