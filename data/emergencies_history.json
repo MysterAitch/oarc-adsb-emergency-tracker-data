@@ -27978,5 +27978,15 @@
         "alert_last_seen": "2026-03-21T12:58:54",
         "alert_detection_stopped": "2026-03-21T12:58:59",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM2CB  ",
+        "hex": "40796c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40796c",
+        "alert_detected": "2026-03-21T16:21:58",
+        "alert_last_seen": "2026-03-21T16:35:03",
+        "alert_detection_stopped": "2026-03-21T16:35:08",
+        "alert_status": "inactive"
     }
 ]
