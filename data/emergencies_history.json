@@ -28028,5 +28028,15 @@
         "alert_last_seen": "2026-03-23T11:24:43",
         "alert_detection_stopped": "2026-03-23T11:24:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "POACHER2",
+        "hex": "400e92",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e92",
+        "alert_detected": "2026-03-23T11:39:03",
+        "alert_last_seen": "2026-03-23T11:43:20",
+        "alert_detection_stopped": "2026-03-23T11:43:25",
+        "alert_status": "inactive"
     }
 ]
