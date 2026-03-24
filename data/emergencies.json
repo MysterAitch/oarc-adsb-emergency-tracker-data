@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "ACA48   ",
+        "hex": "c0172e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c0172e",
+        "alert_detected": "2026-03-24T05:37:52",
+        "alert_last_seen": "2026-03-24T05:38:33",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
