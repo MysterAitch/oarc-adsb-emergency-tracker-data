@@ -28088,5 +28088,15 @@
         "alert_last_seen": "2026-03-24T09:55:36",
         "alert_detection_stopped": "2026-03-24T09:55:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WHE22   ",
+        "hex": "43c1fd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c1fd",
+        "alert_detected": "2026-03-24T11:29:05",
+        "alert_last_seen": "2026-03-24T11:29:05",
+        "alert_detection_stopped": "2026-03-24T11:29:10",
+        "alert_status": "inactive"
     }
 ]
