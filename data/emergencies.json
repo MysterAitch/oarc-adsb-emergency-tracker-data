@@ -5,7 +5,17 @@
         "squawk": "7700",
         "link": "https://adsb.oarc.uk/?icao=4ca84c",
         "alert_detected": "2026-03-24T09:08:21",
-        "alert_last_seen": "2026-03-24T09:10:27",
+        "alert_last_seen": "2026-03-24T09:33:45",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "NONE",
+        "hex": "ae5895",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae5895",
+        "alert_detected": "2026-03-24T09:19:40",
+        "alert_last_seen": "2026-03-24T09:33:45",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
