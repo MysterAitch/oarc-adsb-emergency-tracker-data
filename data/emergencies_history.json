@@ -28168,5 +28168,15 @@
         "alert_last_seen": "2026-03-26T12:20:50",
         "alert_detection_stopped": "2026-03-26T12:20:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF69   ",
+        "hex": "43c8b8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8b8",
+        "alert_detected": "2026-03-26T14:11:18",
+        "alert_last_seen": "2026-03-26T14:16:16",
+        "alert_detection_stopped": "2026-03-26T14:16:21",
+        "alert_status": "inactive"
     }
 ]
