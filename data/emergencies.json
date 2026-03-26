@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "EAI12A  ",
-        "hex": "4caa54",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4caa54",
-        "alert_detected": "2026-03-26T11:58:01",
-        "alert_last_seen": "2026-03-26T12:19:39",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
