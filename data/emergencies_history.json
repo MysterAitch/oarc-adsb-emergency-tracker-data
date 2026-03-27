@@ -28218,5 +28218,15 @@
         "alert_last_seen": "2026-03-27T20:18:22",
         "alert_detection_stopped": "2026-03-27T20:18:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHT13W  ",
+        "hex": "400d5b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400d5b",
+        "alert_detected": "2026-03-27T22:23:20",
+        "alert_last_seen": "2026-03-27T22:41:00",
+        "alert_detection_stopped": "2026-03-27T22:41:05",
+        "alert_status": "inactive"
     }
 ]
