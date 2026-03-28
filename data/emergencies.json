@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "CFC2916 ",
+        "hex": "c2b58f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c2b58f",
+        "alert_detected": "2026-03-28T13:42:04",
+        "alert_last_seen": "2026-03-28T13:51:27",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
