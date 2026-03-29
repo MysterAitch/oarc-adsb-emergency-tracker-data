@@ -28248,5 +28248,15 @@
         "alert_last_seen": "2026-03-28T15:27:35",
         "alert_detection_stopped": "2026-03-28T15:27:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY45ET ",
+        "hex": "400fda",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400fda",
+        "alert_detected": "2026-03-29T12:17:29",
+        "alert_last_seen": "2026-03-29T12:37:01",
+        "alert_detection_stopped": "2026-03-29T12:37:06",
+        "alert_status": "inactive"
     }
 ]
