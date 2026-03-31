@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GCGNG   ",
-        "hex": "406384",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=406384",
-        "alert_detected": "2026-03-31T17:11:55",
-        "alert_last_seen": "2026-03-31T17:35:49",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
