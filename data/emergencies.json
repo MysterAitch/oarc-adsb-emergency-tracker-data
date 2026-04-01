@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GAFB41  ",
+        "hex": "3e9c26",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e9c26",
+        "alert_detected": "2026-04-01T09:55:14",
+        "alert_last_seen": "2026-04-01T10:04:08",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
