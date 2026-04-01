@@ -28388,5 +28388,25 @@
         "alert_last_seen": "2026-04-01T10:23:30",
         "alert_detection_stopped": "2026-04-01T10:23:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GDBSB   ",
+        "hex": "407840",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407840",
+        "alert_detected": "2026-04-01T14:37:45",
+        "alert_last_seen": "2026-04-01T14:43:07",
+        "alert_detection_stopped": "2026-04-01T14:43:12",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "MAPLE 67",
+        "hex": "43c6e7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6e7",
+        "alert_detected": "2026-04-01T14:46:08",
+        "alert_last_seen": "2026-04-01T14:46:13",
+        "alert_detection_stopped": "2026-04-01T14:46:18",
+        "alert_status": "inactive"
     }
 ]
