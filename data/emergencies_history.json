@@ -28518,5 +28518,15 @@
         "alert_last_seen": "2026-04-06T18:12:50",
         "alert_detection_stopped": "2026-04-06T18:12:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DEVIL11 ",
+        "hex": "ae1115",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae1115",
+        "alert_detected": "2026-04-06T23:20:30",
+        "alert_last_seen": "2026-04-06T23:28:18",
+        "alert_detection_stopped": "2026-04-06T23:28:23",
+        "alert_status": "inactive"
     }
 ]
