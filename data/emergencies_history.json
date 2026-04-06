@@ -28508,5 +28508,15 @@
         "alert_last_seen": "2026-04-06T08:29:48",
         "alert_detection_stopped": "2026-04-06T08:29:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SWR438A ",
+        "hex": "4b1819",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4b1819",
+        "alert_detected": "2026-04-06T18:09:49",
+        "alert_last_seen": "2026-04-06T18:12:50",
+        "alert_detection_stopped": "2026-04-06T18:12:55",
+        "alert_status": "inactive"
     }
 ]
