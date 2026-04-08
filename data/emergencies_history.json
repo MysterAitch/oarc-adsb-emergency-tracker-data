@@ -28548,5 +28548,15 @@
         "alert_last_seen": "2026-04-07T16:26:23",
         "alert_detection_stopped": "2026-04-07T16:26:28",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DESNA   ",
+        "hex": "3d3582",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3d3582",
+        "alert_detected": "2026-04-08T09:56:27",
+        "alert_last_seen": "2026-04-08T10:00:35",
+        "alert_detection_stopped": "2026-04-08T10:00:40",
+        "alert_status": "inactive"
     }
 ]
