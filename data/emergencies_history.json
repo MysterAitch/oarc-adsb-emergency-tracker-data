@@ -28598,5 +28598,15 @@
         "alert_last_seen": "2026-04-09T09:52:17",
         "alert_detection_stopped": "2026-04-09T09:52:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GSLPC   ",
+        "hex": "407cc7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407cc7",
+        "alert_detected": "2026-04-09T11:30:10",
+        "alert_last_seen": "2026-04-09T11:38:33",
+        "alert_detection_stopped": "2026-04-09T11:38:38",
+        "alert_status": "inactive"
     }
 ]
