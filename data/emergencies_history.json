@@ -28668,5 +28668,15 @@
         "alert_last_seen": "2026-04-12T09:21:49",
         "alert_detection_stopped": "2026-04-12T09:21:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N339CA  ",
+        "hex": "a3b771",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a3b771",
+        "alert_detected": "2026-04-12T12:40:01",
+        "alert_last_seen": "2026-04-12T12:40:01",
+        "alert_detection_stopped": "2026-04-12T12:40:06",
+        "alert_status": "inactive"
     }
 ]
