@@ -28758,5 +28758,25 @@
         "alert_last_seen": "2026-04-15T22:47:33",
         "alert_detection_stopped": "2026-04-15T22:47:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU44   ",
+        "hex": "400ea0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400ea0",
+        "alert_detected": "2026-04-16T12:39:47",
+        "alert_last_seen": "2026-04-16T12:44:20",
+        "alert_detection_stopped": "2026-04-16T12:44:25",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCBID   ",
+        "hex": "40467c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40467c",
+        "alert_detected": "2026-04-16T12:49:47",
+        "alert_last_seen": "2026-04-16T12:52:13",
+        "alert_detection_stopped": "2026-04-16T12:52:18",
+        "alert_status": "inactive"
     }
 ]
