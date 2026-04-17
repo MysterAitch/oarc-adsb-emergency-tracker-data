@@ -28798,5 +28798,15 @@
         "alert_last_seen": "2026-04-16T16:38:03",
         "alert_detection_stopped": "2026-04-16T16:38:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCMLX   ",
+        "hex": "407ea8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407ea8",
+        "alert_detected": "2026-04-17T09:12:37",
+        "alert_last_seen": "2026-04-17T09:12:48",
+        "alert_detection_stopped": "2026-04-17T09:12:53",
+        "alert_status": "inactive"
     }
 ]
