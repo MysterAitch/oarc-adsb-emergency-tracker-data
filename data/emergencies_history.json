@@ -28808,5 +28808,15 @@
         "alert_last_seen": "2026-04-17T09:12:48",
         "alert_detection_stopped": "2026-04-17T09:12:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NOMAD   ",
+        "hex": "400ee6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ee6",
+        "alert_detected": "2026-04-17T13:43:53",
+        "alert_last_seen": "2026-04-17T13:46:00",
+        "alert_detection_stopped": "2026-04-17T13:46:05",
+        "alert_status": "inactive"
     }
 ]
