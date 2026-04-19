@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "DAL22   ",
+        "hex": "abb775",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abb775",
+        "alert_detected": "2026-04-19T03:22:05",
+        "alert_last_seen": "2026-04-19T03:40:45",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
