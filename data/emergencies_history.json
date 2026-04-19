@@ -28838,5 +28838,25 @@
         "alert_last_seen": "2026-04-17T16:59:03",
         "alert_detection_stopped": "2026-04-17T16:59:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DAL22   ",
+        "hex": "abb775",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abb775",
+        "alert_detected": "2026-04-19T03:22:05",
+        "alert_last_seen": "2026-04-19T03:58:54",
+        "alert_detection_stopped": "2026-04-19T03:58:59",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "abb775",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=abb775",
+        "alert_detected": "2026-04-19T03:59:55",
+        "alert_last_seen": "2026-04-19T04:00:50",
+        "alert_detection_stopped": "2026-04-19T04:00:55",
+        "alert_status": "inactive"
     }
 ]
