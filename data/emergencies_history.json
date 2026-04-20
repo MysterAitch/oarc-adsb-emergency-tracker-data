@@ -28868,5 +28868,15 @@
         "alert_last_seen": "2026-04-19T10:17:13",
         "alert_detection_stopped": "2026-04-19T10:17:18",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N147LK  ",
+        "hex": "a0bdb5",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=a0bdb5",
+        "alert_detected": "2026-04-20T10:52:52",
+        "alert_last_seen": "2026-04-20T10:53:13",
+        "alert_detection_stopped": "2026-04-20T10:53:18",
+        "alert_status": "inactive"
     }
 ]
