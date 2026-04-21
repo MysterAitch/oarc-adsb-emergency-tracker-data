@@ -28898,5 +28898,15 @@
         "alert_last_seen": "2026-04-21T12:04:44",
         "alert_detection_stopped": "2026-04-21T12:04:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DINGO05 ",
+        "hex": "43c6c4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6c4",
+        "alert_detected": "2026-04-21T12:11:57",
+        "alert_last_seen": "2026-04-21T12:12:02",
+        "alert_detection_stopped": "2026-04-21T12:12:07",
+        "alert_status": "inactive"
     }
 ]
