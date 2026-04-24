@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "flight": "NONE",
+        "hex": "407e68",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407e68",
+        "alert_detected": "2026-04-24T15:42:24",
+        "alert_last_seen": "2026-04-24T15:50:28",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    },
+    {
+        "flight": "GAVMD   ",
+        "hex": "401709",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401709",
+        "alert_detected": "2026-04-24T15:48:37",
+        "alert_last_seen": "2026-04-24T15:50:28",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
