@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "SXS4QB  ",
-        "hex": "4bcd81",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4bcd81",
-        "alert_detected": "2026-04-24T17:41:36",
-        "alert_last_seen": "2026-04-24T17:59:08",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
