@@ -29018,5 +29018,25 @@
         "alert_last_seen": "2026-04-24T15:42:14",
         "alert_detection_stopped": "2026-04-24T15:42:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NONE",
+        "hex": "407e68",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407e68",
+        "alert_detected": "2026-04-24T15:42:24",
+        "alert_last_seen": "2026-04-24T15:51:28",
+        "alert_detection_stopped": "2026-04-24T15:51:33",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GAVMD   ",
+        "hex": "401709",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401709",
+        "alert_detected": "2026-04-24T15:48:37",
+        "alert_last_seen": "2026-04-24T15:58:41",
+        "alert_detection_stopped": "2026-04-24T15:58:46",
+        "alert_status": "inactive"
     }
 ]
