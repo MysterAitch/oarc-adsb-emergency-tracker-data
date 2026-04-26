@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "RYR6VV  ",
-        "hex": "4d224d",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4d224d",
-        "alert_detected": "2026-04-26T09:33:32",
-        "alert_last_seen": "2026-04-26T09:38:44",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
