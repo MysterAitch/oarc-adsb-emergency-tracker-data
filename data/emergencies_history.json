@@ -29098,5 +29098,15 @@
         "alert_last_seen": "2026-04-25T16:08:42",
         "alert_detection_stopped": "2026-04-25T16:08:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "FHLTP   ",
+        "hex": "39ae6f",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=39ae6f",
+        "alert_detected": "2026-04-26T08:01:32",
+        "alert_last_seen": "2026-04-26T08:01:38",
+        "alert_detection_stopped": "2026-04-26T08:01:43",
+        "alert_status": "inactive"
     }
 ]
