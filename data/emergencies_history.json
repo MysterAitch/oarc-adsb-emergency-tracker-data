@@ -29128,5 +29128,15 @@
         "alert_last_seen": "2026-04-26T12:13:54",
         "alert_detection_stopped": "2026-04-26T12:13:59",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT580  ",
+        "hex": "43c924",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c924",
+        "alert_detected": "2026-04-27T16:53:02",
+        "alert_last_seen": "2026-04-27T17:02:21",
+        "alert_detection_stopped": "2026-04-27T17:02:26",
+        "alert_status": "inactive"
     }
 ]
