@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TRA87B",
+        "hex": "4868ba",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4868ba",
+        "alert_detected": "2026-04-28T14:23:06",
+        "alert_last_seen": "2026-04-28T14:24:37",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
