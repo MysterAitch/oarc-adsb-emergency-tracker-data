@@ -29198,5 +29198,25 @@
         "alert_last_seen": "2026-04-29T19:16:41",
         "alert_detection_stopped": "2026-04-29T19:17:21",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MAGMA10",
+        "hex": "33fd6b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=33fd6b",
+        "alert_detected": "2026-04-29T19:23:04",
+        "alert_last_seen": "2026-04-29T19:56:02",
+        "alert_detection_stopped": "2026-04-29T19:56:42",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "33fd6b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=33fd6b",
+        "alert_detected": "2026-04-29T19:58:33",
+        "alert_last_seen": "2026-04-29T20:00:00",
+        "alert_detection_stopped": "2026-04-29T20:00:10",
+        "alert_status": "inactive"
     }
 ]

@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "MAGMA10",
-        "hex": "33fd6b",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=33fd6b",
-        "alert_detected": "2026-04-29T19:23:04",
-        "alert_last_seen": "2026-04-29T19:41:19",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
