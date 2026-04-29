@@ -29218,5 +29218,25 @@
         "alert_last_seen": "2026-04-29T20:00:00",
         "alert_detection_stopped": "2026-04-29T20:00:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SPEAR25",
+        "hex": "43c762",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c762",
+        "alert_detected": "2026-04-29T22:45:51",
+        "alert_last_seen": "2026-04-29T22:48:18",
+        "alert_detection_stopped": "2026-04-29T22:48:23",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SPEAR25",
+        "hex": "43c762",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c762",
+        "alert_detected": "2026-04-29T22:49:14",
+        "alert_last_seen": "2026-04-29T22:50:50",
+        "alert_detection_stopped": "2026-04-29T22:51:10",
+        "alert_status": "inactive"
     }
 ]
