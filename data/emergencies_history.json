@@ -29238,5 +29238,15 @@
         "alert_last_seen": "2026-04-29T22:50:50",
         "alert_detection_stopped": "2026-04-29T22:51:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BTNIA12",
+        "hex": "4060d4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4060d4",
+        "alert_detected": "2026-04-30T10:26:37",
+        "alert_last_seen": "2026-04-30T10:30:50",
+        "alert_detection_stopped": "2026-04-30T10:30:55",
+        "alert_status": "inactive"
     }
 ]
