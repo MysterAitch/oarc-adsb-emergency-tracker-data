@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GTEMP",
+        "hex": "401885",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401885",
+        "alert_detected": "2026-04-30T14:06:21",
+        "alert_last_seen": "2026-04-30T14:06:31",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
