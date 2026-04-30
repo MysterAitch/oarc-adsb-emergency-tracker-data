@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GLADS",
-        "hex": "403291",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=403291",
-        "alert_detected": "2026-04-30T16:41:17",
-        "alert_last_seen": "2026-04-30T16:48:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
