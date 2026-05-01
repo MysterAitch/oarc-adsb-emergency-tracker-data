@@ -29298,5 +29298,15 @@
         "alert_last_seen": "2026-05-01T15:14:47",
         "alert_detection_stopped": "2026-05-01T15:14:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NJE445E",
+        "hex": "491306",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=491306",
+        "alert_detected": "2026-05-01T16:36:05",
+        "alert_last_seen": "2026-05-01T16:49:18",
+        "alert_detection_stopped": "2026-05-01T16:49:24",
+        "alert_status": "inactive"
     }
 ]
