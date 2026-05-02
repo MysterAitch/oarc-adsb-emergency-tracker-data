@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GIMNY",
-        "hex": "404bd1",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=404bd1",
-        "alert_detected": "2026-05-02T10:15:47",
-        "alert_last_seen": "2026-05-02T10:17:29",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
