@@ -29328,5 +29328,15 @@
         "alert_last_seen": "2026-05-02T10:28:05",
         "alert_detection_stopped": "2026-05-02T10:28:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N73BL",
+        "hex": "a9c8d6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9c8d6",
+        "alert_detected": "2026-05-02T16:13:58",
+        "alert_last_seen": "2026-05-02T16:18:52",
+        "alert_detection_stopped": "2026-05-02T16:20:43",
+        "alert_status": "inactive"
     }
 ]
