@@ -29358,5 +29358,15 @@
         "alert_last_seen": "2026-05-02T17:00:37",
         "alert_detection_stopped": "2026-05-02T17:00:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DMPCR",
+        "hex": "3ff9c8",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3ff9c8",
+        "alert_detected": "2026-05-03T11:12:13",
+        "alert_last_seen": "2026-05-03T11:13:15",
+        "alert_detection_stopped": "2026-05-03T11:13:30",
+        "alert_status": "inactive"
     }
 ]
