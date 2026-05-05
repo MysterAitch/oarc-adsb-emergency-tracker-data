@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GOAT18",
+        "hex": "ae1e8e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae1e8e",
+        "alert_detected": "2026-05-05T21:43:39",
+        "alert_last_seen": "2026-05-05T21:44:25",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
