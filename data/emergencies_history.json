@@ -29438,5 +29438,15 @@
         "alert_last_seen": "2026-05-06T13:41:52",
         "alert_detection_stopped": "2026-05-06T13:42:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SPUR80",
+        "hex": "adff47",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adff47",
+        "alert_detected": "2026-05-06T20:25:47",
+        "alert_last_seen": "2026-05-06T20:26:59",
+        "alert_detection_stopped": "2026-05-06T20:27:04",
+        "alert_status": "inactive"
     }
 ]
