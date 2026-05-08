@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GSAZY",
-        "hex": "404947",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=404947",
-        "alert_detected": "2026-05-08T14:54:26",
-        "alert_last_seen": "2026-05-08T14:58:29",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
