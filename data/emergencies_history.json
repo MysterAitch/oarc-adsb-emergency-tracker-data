@@ -29658,5 +29658,25 @@
         "alert_last_seen": "2026-05-11T16:48:51",
         "alert_detection_stopped": "2026-05-11T16:54:24",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHT8C",
+        "hex": "406ae3",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406ae3",
+        "alert_detected": "2026-05-11T18:16:46",
+        "alert_last_seen": "2026-05-11T18:43:57",
+        "alert_detection_stopped": "2026-05-11T18:44:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GTALH",
+        "hex": "403da2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=403da2",
+        "alert_detected": "2026-05-11T18:38:18",
+        "alert_last_seen": "2026-05-11T18:41:36",
+        "alert_detection_stopped": "2026-05-11T18:54:38",
+        "alert_status": "inactive"
     }
 ]
