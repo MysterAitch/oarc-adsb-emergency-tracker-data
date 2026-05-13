@@ -29698,5 +29698,25 @@
         "alert_last_seen": "2026-05-12T16:06:02",
         "alert_detection_stopped": "2026-05-12T16:06:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "4XHSC",
+        "hex": "7395a2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=7395a2",
+        "alert_detected": "2026-05-13T11:40:51",
+        "alert_last_seen": "2026-05-13T11:48:26",
+        "alert_detection_stopped": "2026-05-13T11:48:52",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "4XHSC",
+        "hex": "7395a2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=7395a2",
+        "alert_detected": "2026-05-13T11:49:12",
+        "alert_last_seen": "2026-05-13T11:52:54",
+        "alert_detection_stopped": "2026-05-13T11:52:59",
+        "alert_status": "inactive"
     }
 ]
