@@ -29728,5 +29728,15 @@
         "alert_last_seen": "2026-05-13T14:18:01",
         "alert_detection_stopped": "2026-05-13T14:18:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBCKV",
+        "hex": "401b7a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401b7a",
+        "alert_detected": "2026-05-14T10:08:02",
+        "alert_last_seen": "2026-05-14T10:15:48",
+        "alert_detection_stopped": "2026-05-14T10:15:53",
+        "alert_status": "inactive"
     }
 ]
