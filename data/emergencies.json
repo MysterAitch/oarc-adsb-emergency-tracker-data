@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "BALNCE89",
-        "hex": "43c952",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c952",
-        "alert_detected": "2026-05-14T15:09:11",
-        "alert_last_seen": "2026-05-14T15:09:47",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
