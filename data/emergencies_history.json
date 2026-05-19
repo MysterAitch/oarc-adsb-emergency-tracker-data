@@ -29848,5 +29848,15 @@
         "alert_last_seen": "2026-05-19T13:03:10",
         "alert_detection_stopped": "2026-05-19T13:03:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TIGER06",
+        "hex": "ae0892",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae0892",
+        "alert_detected": "2026-05-19T19:29:07",
+        "alert_last_seen": "2026-05-19T19:32:29",
+        "alert_detection_stopped": "2026-05-19T19:32:39",
+        "alert_status": "inactive"
     }
 ]
