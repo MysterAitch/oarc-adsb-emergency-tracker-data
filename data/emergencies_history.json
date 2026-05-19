@@ -29858,5 +29858,15 @@
         "alert_last_seen": "2026-05-19T19:32:29",
         "alert_detection_stopped": "2026-05-19T19:32:39",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LTHL228",
+        "hex": "ae6277",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae6277",
+        "alert_detected": "2026-05-19T20:06:38",
+        "alert_last_seen": "2026-05-19T20:06:38",
+        "alert_detection_stopped": "2026-05-19T20:08:25",
+        "alert_status": "inactive"
     }
 ]
