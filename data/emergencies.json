@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NOW335E",
-        "hex": "478115",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=478115",
-        "alert_detected": "2026-05-20T13:18:07",
-        "alert_last_seen": "2026-05-20T13:18:58",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
