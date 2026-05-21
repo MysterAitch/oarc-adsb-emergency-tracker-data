@@ -29958,5 +29958,45 @@
         "alert_last_seen": "2026-05-21T10:38:34",
         "alert_detection_stopped": "2026-05-21T10:39:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "407932",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407932",
+        "alert_detected": "2026-05-21T12:18:41",
+        "alert_last_seen": "2026-05-21T12:19:47",
+        "alert_detection_stopped": "2026-05-21T12:19:53",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WIT16",
+        "hex": "400edc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400edc",
+        "alert_detected": "2026-05-21T12:23:00",
+        "alert_last_seen": "2026-05-21T12:31:21",
+        "alert_detection_stopped": "2026-05-21T12:31:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "407932",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407932",
+        "alert_detected": "2026-05-21T12:21:23",
+        "alert_last_seen": "2026-05-21T12:27:18",
+        "alert_detection_stopped": "2026-05-21T12:33:48",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TARTN48",
+        "hex": "43c6fa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6fa",
+        "alert_detected": "2026-05-21T12:28:29",
+        "alert_last_seen": "2026-05-21T12:52:45",
+        "alert_detection_stopped": "2026-05-21T12:53:00",
+        "alert_status": "inactive"
     }
 ]
