@@ -30028,5 +30028,15 @@
         "alert_last_seen": "2026-05-21T16:20:10",
         "alert_detection_stopped": "2026-05-21T16:20:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GWOLF",
+        "hex": "402349",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=402349",
+        "alert_detected": "2026-05-21T18:11:55",
+        "alert_last_seen": "2026-05-21T18:19:24",
+        "alert_detection_stopped": "2026-05-21T18:21:16",
+        "alert_status": "inactive"
     }
 ]
