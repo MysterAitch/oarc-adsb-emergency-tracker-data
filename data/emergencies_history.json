@@ -30078,5 +30078,15 @@
         "alert_last_seen": "2026-05-22T12:24:52",
         "alert_detection_stopped": "2026-05-22T12:25:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU985",
+        "hex": "400ef1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ef1",
+        "alert_detected": "2026-05-22T15:11:06",
+        "alert_last_seen": "2026-05-22T15:18:11",
+        "alert_detection_stopped": "2026-05-22T15:18:16",
+        "alert_status": "inactive"
     }
 ]
