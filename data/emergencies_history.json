@@ -30038,5 +30038,25 @@
         "alert_last_seen": "2026-05-21T18:19:24",
         "alert_detection_stopped": "2026-05-21T18:21:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "3e8004",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e8004",
+        "alert_detected": "2026-05-22T08:51:20",
+        "alert_last_seen": "2026-05-22T08:54:17",
+        "alert_detection_stopped": "2026-05-22T08:54:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "KNIGHT2",
+        "hex": "3e8004",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e8004",
+        "alert_detected": "2026-05-22T08:54:33",
+        "alert_last_seen": "2026-05-22T08:56:14",
+        "alert_detection_stopped": "2026-05-22T08:56:19",
+        "alert_status": "inactive"
     }
 ]
