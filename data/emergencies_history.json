@@ -30108,5 +30108,15 @@
         "alert_last_seen": "2026-05-22T16:02:05",
         "alert_detection_stopped": "2026-05-22T16:02:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EAG18C",
+        "hex": "407bdd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407bdd",
+        "alert_detected": "2026-05-22T19:02:36",
+        "alert_last_seen": "2026-05-22T19:16:49",
+        "alert_detection_stopped": "2026-05-22T19:16:59",
+        "alert_status": "inactive"
     }
 ]
