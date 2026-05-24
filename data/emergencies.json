@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "FGITZ",
+        "hex": "392279",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=392279",
+        "alert_detected": "2026-05-24T14:33:12",
+        "alert_last_seen": "2026-05-24T14:42:44",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
