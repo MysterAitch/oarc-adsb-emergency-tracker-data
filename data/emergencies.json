@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "AFR54HF",
+        "hex": "39bdb9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39bdb9",
+        "alert_detected": "2026-05-25T07:32:58",
+        "alert_last_seen": "2026-05-25T07:34:45",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
