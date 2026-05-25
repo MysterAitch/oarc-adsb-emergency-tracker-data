@@ -30338,5 +30338,15 @@
         "alert_last_seen": "2026-05-25T10:23:45",
         "alert_detection_stopped": "2026-05-25T10:27:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VIR86",
+        "hex": "40808c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40808c",
+        "alert_detected": "2026-05-25T12:02:17",
+        "alert_last_seen": "2026-05-25T12:17:58",
+        "alert_detection_stopped": "2026-05-25T12:18:08",
+        "alert_status": "inactive"
     }
 ]
