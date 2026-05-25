@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GBBND",
-        "hex": "401af5",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=401af5",
-        "alert_detected": "2026-05-25T13:02:08",
-        "alert_last_seen": "2026-05-25T13:12:41",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
