@@ -30458,5 +30458,15 @@
         "alert_last_seen": "2026-05-26T15:11:16",
         "alert_detection_stopped": "2026-05-26T16:32:04",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GJANI",
+        "hex": "400dbd",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400dbd",
+        "alert_detected": "2026-05-26T16:54:13",
+        "alert_last_seen": "2026-05-26T17:03:34",
+        "alert_detection_stopped": "2026-05-26T17:03:44",
+        "alert_status": "inactive"
     }
 ]
