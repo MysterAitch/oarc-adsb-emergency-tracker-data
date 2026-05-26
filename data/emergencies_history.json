@@ -30408,5 +30408,35 @@
         "alert_last_seen": "2026-05-25T18:15:59",
         "alert_detection_stopped": "2026-05-25T18:21:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAX68",
+        "hex": "400eb4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eb4",
+        "alert_detected": "2026-05-26T11:36:56",
+        "alert_last_seen": "2026-05-26T11:42:25",
+        "alert_detection_stopped": "2026-05-26T11:42:31",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NCKL06",
+        "hex": "400eaa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eaa",
+        "alert_detected": "2026-05-26T12:19:05",
+        "alert_last_seen": "2026-05-26T12:22:53",
+        "alert_detection_stopped": "2026-05-26T12:23:08",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "REPTL32",
+        "hex": "43c55c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c55c",
+        "alert_detected": "2026-05-26T13:27:26",
+        "alert_last_seen": "2026-05-26T13:45:28",
+        "alert_detection_stopped": "2026-05-26T13:45:43",
+        "alert_status": "inactive"
     }
 ]
