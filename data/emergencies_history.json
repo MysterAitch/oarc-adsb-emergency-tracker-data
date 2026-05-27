@@ -30508,5 +30508,15 @@
         "alert_last_seen": "2026-05-27T15:34:13",
         "alert_detection_stopped": "2026-05-27T15:44:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "aceb61",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=aceb61",
+        "alert_detected": "2026-05-27T21:36:58",
+        "alert_last_seen": "2026-05-27T21:38:29",
+        "alert_detection_stopped": "2026-05-27T21:40:10",
+        "alert_status": "inactive"
     }
 ]
