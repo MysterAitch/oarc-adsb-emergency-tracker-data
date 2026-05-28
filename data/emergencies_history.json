@@ -30528,5 +30528,25 @@
         "alert_last_seen": "2026-05-28T04:18:03",
         "alert_detection_stopped": "2026-05-28T04:18:08",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "0d1158",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=0d1158",
+        "alert_detected": "2026-05-28T12:29:29",
+        "alert_last_seen": "2026-05-28T12:31:36",
+        "alert_detection_stopped": "2026-05-28T12:31:41",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW16MT",
+        "hex": "40624e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40624e",
+        "alert_detected": "2026-05-28T12:26:07",
+        "alert_last_seen": "2026-05-28T12:40:17",
+        "alert_detection_stopped": "2026-05-28T12:40:32",
+        "alert_status": "inactive"
     }
 ]
