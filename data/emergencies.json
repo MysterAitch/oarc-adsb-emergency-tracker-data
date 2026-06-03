@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "TVF789",
+        "hex": "39d302",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39d302",
+        "alert_detected": "2026-06-03T14:34:31",
+        "alert_last_seen": "2026-06-03T14:41:20",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
