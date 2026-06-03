@@ -30718,5 +30718,15 @@
         "alert_last_seen": "2026-06-02T12:13:10",
         "alert_detection_stopped": "2026-06-02T12:24:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "JEDDA17",
+        "hex": "ae1e97",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=ae1e97",
+        "alert_detected": "2026-06-03T04:03:11",
+        "alert_last_seen": "2026-06-03T04:03:32",
+        "alert_detection_stopped": "2026-06-03T04:39:35",
+        "alert_status": "inactive"
     }
 ]
