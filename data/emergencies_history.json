@@ -30728,5 +30728,15 @@
         "alert_last_seen": "2026-06-03T04:03:32",
         "alert_detection_stopped": "2026-06-03T04:39:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR82WM",
+        "hex": "4cadef",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4cadef",
+        "alert_detected": "2026-06-03T11:53:35",
+        "alert_last_seen": "2026-06-03T12:03:42",
+        "alert_detection_stopped": "2026-06-03T12:04:18",
+        "alert_status": "inactive"
     }
 ]
