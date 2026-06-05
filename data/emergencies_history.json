@@ -30768,5 +30768,25 @@
         "alert_last_seen": "2026-06-05T05:58:56",
         "alert_detection_stopped": "2026-06-05T06:10:58",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TRA5276",
+        "hex": "48597e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=48597e",
+        "alert_detected": "2026-06-05T09:00:59",
+        "alert_last_seen": "2026-06-05T09:02:45",
+        "alert_detection_stopped": "2026-06-05T09:02:55",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GEGHW",
+        "hex": "407bfe",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407bfe",
+        "alert_detected": "2026-06-05T09:14:28",
+        "alert_last_seen": "2026-06-05T09:29:53",
+        "alert_detection_stopped": "2026-06-05T09:37:48",
+        "alert_status": "inactive"
     }
 ]
