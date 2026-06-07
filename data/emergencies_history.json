@@ -30878,5 +30878,15 @@
         "alert_last_seen": "2026-06-07T16:43:06",
         "alert_detection_stopped": "2026-06-07T16:43:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AUR78B",
+        "hex": "4078db",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4078db",
+        "alert_detected": "2026-06-07T17:46:37",
+        "alert_last_seen": "2026-06-07T18:11:58",
+        "alert_detection_stopped": "2026-06-07T18:12:03",
+        "alert_status": "inactive"
     }
 ]
