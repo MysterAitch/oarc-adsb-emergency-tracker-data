@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GCNDZ",
-        "hex": "4083dc",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=4083dc",
-        "alert_detected": "2026-06-07T16:03:40",
-        "alert_last_seen": "2026-06-07T16:20:01",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
