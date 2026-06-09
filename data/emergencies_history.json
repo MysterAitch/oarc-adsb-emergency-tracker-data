@@ -31018,5 +31018,15 @@
         "alert_last_seen": "2026-06-09T16:39:52",
         "alert_detection_stopped": "2026-06-09T16:40:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CZYHSE11",
+        "hex": "43c6eb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6eb",
+        "alert_detected": "2026-06-09T18:42:45",
+        "alert_last_seen": "2026-06-09T18:43:01",
+        "alert_detection_stopped": "2026-06-09T18:48:24",
+        "alert_status": "inactive"
     }
 ]
