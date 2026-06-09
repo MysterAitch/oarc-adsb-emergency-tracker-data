@@ -30998,5 +30998,25 @@
         "alert_last_seen": "2026-06-09T13:41:21",
         "alert_detection_stopped": "2026-06-09T14:40:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR44MH",
+        "hex": "4ca568",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca568",
+        "alert_detected": "2026-06-09T16:10:59",
+        "alert_last_seen": "2026-06-09T16:25:48",
+        "alert_detection_stopped": "2026-06-09T16:26:03",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS9HN",
+        "hex": "40751c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40751c",
+        "alert_detected": "2026-06-09T16:08:11",
+        "alert_last_seen": "2026-06-09T16:39:52",
+        "alert_detection_stopped": "2026-06-09T16:40:02",
+        "alert_status": "inactive"
     }
 ]
