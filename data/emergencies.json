@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "REDARROW",
-        "hex": "43c44a",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c44a",
-        "alert_detected": "2026-06-09T13:41:10",
-        "alert_last_seen": "2026-06-09T13:41:21",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
