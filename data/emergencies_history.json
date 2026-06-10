@@ -31038,5 +31038,45 @@
         "alert_last_seen": "2026-06-10T07:55:22",
         "alert_detection_stopped": "2026-06-10T07:55:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "0d1314",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=0d1314",
+        "alert_detected": "2026-06-10T11:16:58",
+        "alert_last_seen": "2026-06-10T11:18:55",
+        "alert_detection_stopped": "2026-06-10T11:19:00",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "SCR744",
+        "hex": "3cd2d3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=3cd2d3",
+        "alert_detected": "2026-06-10T12:08:17",
+        "alert_last_seen": "2026-06-10T12:08:53",
+        "alert_detection_stopped": "2026-06-10T12:16:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "JESSE10",
+        "hex": "adfe5f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfe5f",
+        "alert_detected": "2026-06-10T12:17:43",
+        "alert_last_seen": "2026-06-10T12:43:00",
+        "alert_detection_stopped": "2026-06-10T12:43:30",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "JESSE10",
+        "hex": "adfe5f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adfe5f",
+        "alert_detected": "2026-06-10T12:54:32",
+        "alert_last_seen": "2026-06-10T12:58:15",
+        "alert_detection_stopped": "2026-06-10T12:58:20",
+        "alert_status": "inactive"
     }
 ]
