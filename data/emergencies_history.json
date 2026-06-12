@@ -31178,5 +31178,15 @@
         "alert_last_seen": "2026-06-12T17:36:42",
         "alert_detection_stopped": "2026-06-12T17:37:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N7490A",
+        "hex": "aa1652",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aa1652",
+        "alert_detected": "2026-06-12T20:18:01",
+        "alert_last_seen": "2026-06-12T20:18:37",
+        "alert_detection_stopped": "2026-06-12T20:24:06",
+        "alert_status": "inactive"
     }
 ]
