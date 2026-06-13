@@ -31188,5 +31188,15 @@
         "alert_last_seen": "2026-06-12T20:18:37",
         "alert_detection_stopped": "2026-06-12T20:24:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GLSFT",
+        "hex": "403f58",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=403f58",
+        "alert_detected": "2026-06-13T12:09:28",
+        "alert_last_seen": "2026-06-13T12:11:25",
+        "alert_detection_stopped": "2026-06-13T12:13:02",
+        "alert_status": "inactive"
     }
 ]
