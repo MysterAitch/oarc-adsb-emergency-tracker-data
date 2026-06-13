@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EXS5EZ",
+        "hex": "40753f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40753f",
+        "alert_detected": "2026-06-13T15:13:15",
+        "alert_last_seen": "2026-06-13T15:16:12",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
