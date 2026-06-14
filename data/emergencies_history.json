@@ -31228,5 +31228,75 @@
         "alert_last_seen": "2026-06-14T07:22:09",
         "alert_detection_stopped": "2026-06-14T07:22:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "ACA937",
+        "hex": "c02ee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c02ee7",
+        "alert_detected": "2026-06-14T11:29:17",
+        "alert_last_seen": "2026-06-14T11:48:30",
+        "alert_detection_stopped": "2026-06-14T11:48:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "ACA937",
+        "hex": "c02ee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c02ee7",
+        "alert_detected": "2026-06-14T11:49:16",
+        "alert_last_seen": "2026-06-14T11:50:12",
+        "alert_detection_stopped": "2026-06-14T11:50:17",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "ACA937",
+        "hex": "c02ee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c02ee7",
+        "alert_detected": "2026-06-14T11:50:47",
+        "alert_last_seen": "2026-06-14T11:51:43",
+        "alert_detection_stopped": "2026-06-14T11:52:24",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "c02ee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c02ee7",
+        "alert_detected": "2026-06-14T11:53:44",
+        "alert_last_seen": "2026-06-14T11:55:11",
+        "alert_detection_stopped": "2026-06-14T11:55:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "c02ee7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=c02ee7",
+        "alert_detected": "2026-06-14T11:55:41",
+        "alert_last_seen": "2026-06-14T11:58:39",
+        "alert_detection_stopped": "2026-06-14T11:58:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GDWYP",
+        "hex": "407d4e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407d4e",
+        "alert_detected": "2026-06-14T12:03:47",
+        "alert_last_seen": "2026-06-14T12:05:29",
+        "alert_detection_stopped": "2026-06-14T12:05:34",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GDWYP",
+        "hex": "407d4e",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407d4e",
+        "alert_detected": "2026-06-14T12:09:37",
+        "alert_last_seen": "2026-06-14T12:10:33",
+        "alert_detection_stopped": "2026-06-14T12:10:38",
+        "alert_status": "inactive"
     }
 ]
