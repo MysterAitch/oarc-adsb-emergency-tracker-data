@@ -31218,5 +31218,15 @@
         "alert_last_seen": "2026-06-13T17:37:52",
         "alert_detection_stopped": "2026-06-13T17:50:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EIN440",
+        "hex": "4ca292",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca292",
+        "alert_detected": "2026-06-14T07:19:42",
+        "alert_last_seen": "2026-06-14T07:22:09",
+        "alert_detection_stopped": "2026-06-14T07:22:14",
+        "alert_status": "inactive"
     }
 ]
