@@ -31348,5 +31348,15 @@
         "alert_last_seen": "2026-06-16T15:05:51",
         "alert_detection_stopped": "2026-06-16T15:06:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SHED22",
+        "hex": "adffc0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adffc0",
+        "alert_detected": "2026-06-16T22:50:12",
+        "alert_last_seen": "2026-06-16T22:51:29",
+        "alert_detection_stopped": "2026-06-16T22:54:10",
+        "alert_status": "inactive"
     }
 ]
