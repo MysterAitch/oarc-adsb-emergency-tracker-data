@@ -31378,5 +31378,15 @@
         "alert_last_seen": "2026-06-17T17:50:42",
         "alert_detection_stopped": "2026-06-17T17:50:47",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AME3544",
+        "hex": "341589",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=341589",
+        "alert_detected": "2026-06-18T08:38:19",
+        "alert_last_seen": "2026-06-18T08:42:12",
+        "alert_detection_stopped": "2026-06-18T09:06:57",
+        "alert_status": "inactive"
     }
 ]
