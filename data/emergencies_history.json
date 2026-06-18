@@ -31388,5 +31388,25 @@
         "alert_last_seen": "2026-06-18T08:42:12",
         "alert_detection_stopped": "2026-06-18T09:06:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SAVAGE12",
+        "hex": "407d80",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407d80",
+        "alert_detected": "2026-06-18T10:28:39",
+        "alert_last_seen": "2026-06-18T10:48:23",
+        "alert_detection_stopped": "2026-06-18T10:48:43",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43c793",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c793",
+        "alert_detected": "2026-06-18T10:55:53",
+        "alert_last_seen": "2026-06-18T10:59:26",
+        "alert_detection_stopped": "2026-06-18T11:04:24",
+        "alert_status": "inactive"
     }
 ]
