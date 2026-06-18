@@ -31438,5 +31438,25 @@
         "alert_last_seen": "2026-06-18T15:42:43",
         "alert_detection_stopped": "2026-06-18T15:42:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CAMEL2",
+        "hex": "43c8d5",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8d5",
+        "alert_detected": "2026-06-18T15:47:16",
+        "alert_last_seen": "2026-06-18T15:50:23",
+        "alert_detection_stopped": "2026-06-18T16:01:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "LHX3PP",
+        "hex": "3c48eb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c48eb",
+        "alert_detected": "2026-06-18T15:47:56",
+        "alert_last_seen": "2026-06-18T16:06:04",
+        "alert_detection_stopped": "2026-06-18T16:06:14",
+        "alert_status": "inactive"
     }
 ]
