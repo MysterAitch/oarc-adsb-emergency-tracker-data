@@ -31568,5 +31568,15 @@
         "alert_last_seen": "2026-06-19T17:07:57",
         "alert_detection_stopped": "2026-06-19T17:28:46",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N518RC",
+        "hex": "a680a1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a680a1",
+        "alert_detected": "2026-06-19T20:15:03",
+        "alert_last_seen": "2026-06-19T20:16:09",
+        "alert_detection_stopped": "2026-06-19T20:16:14",
+        "alert_status": "inactive"
     }
 ]
