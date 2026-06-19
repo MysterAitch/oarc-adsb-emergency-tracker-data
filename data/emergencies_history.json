@@ -31498,5 +31498,55 @@
         "alert_last_seen": "2026-06-19T11:40:46",
         "alert_detection_stopped": "2026-06-19T11:40:51",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DESII",
+        "hex": "3d3508",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d3508",
+        "alert_detected": "2026-06-19T13:15:10",
+        "alert_last_seen": "2026-06-19T13:19:03",
+        "alert_detection_stopped": "2026-06-19T13:19:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "3d3508",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d3508",
+        "alert_detected": "2026-06-19T13:20:09",
+        "alert_last_seen": "2026-06-19T13:21:05",
+        "alert_detection_stopped": "2026-06-19T13:21:10",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DERAB",
+        "hex": "3d318d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3d318d",
+        "alert_detected": "2026-06-19T13:49:49",
+        "alert_last_seen": "2026-06-19T13:50:00",
+        "alert_detection_stopped": "2026-06-19T14:01:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM791",
+        "hex": "4851f6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4851f6",
+        "alert_detected": "2026-06-19T13:51:31",
+        "alert_last_seen": "2026-06-19T14:22:02",
+        "alert_detection_stopped": "2026-06-19T14:22:07",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM791",
+        "hex": "4851f6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4851f6",
+        "alert_detected": "2026-06-19T14:22:12",
+        "alert_last_seen": "2026-06-19T14:23:13",
+        "alert_detection_stopped": "2026-06-19T14:23:18",
+        "alert_status": "inactive"
     }
 ]
