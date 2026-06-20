@@ -31578,5 +31578,15 @@
         "alert_last_seen": "2026-06-19T20:16:09",
         "alert_detection_stopped": "2026-06-19T20:16:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RCH2067",
+        "hex": "ae0584",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae0584",
+        "alert_detected": "2026-06-20T05:42:27",
+        "alert_last_seen": "2026-06-20T05:43:34",
+        "alert_detection_stopped": "2026-06-20T05:43:44",
+        "alert_status": "inactive"
     }
 ]
