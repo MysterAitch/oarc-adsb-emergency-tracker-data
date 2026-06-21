@@ -31638,5 +31638,25 @@
         "alert_last_seen": "2026-06-21T14:26:25",
         "alert_detection_stopped": "2026-06-21T14:28:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4cafaf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cafaf",
+        "alert_detected": "2026-06-21T16:54:44",
+        "alert_last_seen": "2026-06-21T16:57:12",
+        "alert_detection_stopped": "2026-06-21T16:57:17",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EICRX",
+        "hex": "4cafaf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4cafaf",
+        "alert_detected": "2026-06-21T16:57:32",
+        "alert_last_seen": "2026-06-21T16:57:32",
+        "alert_detection_stopped": "2026-06-21T17:12:12",
+        "alert_status": "inactive"
     }
 ]
