@@ -31618,5 +31618,15 @@
         "alert_last_seen": "2026-06-20T10:29:08",
         "alert_detection_stopped": "2026-06-20T10:29:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GSIXD",
+        "hex": "403f74",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=403f74",
+        "alert_detected": "2026-06-21T08:28:16",
+        "alert_last_seen": "2026-06-21T08:30:18",
+        "alert_detection_stopped": "2026-06-21T09:24:42",
+        "alert_status": "inactive"
     }
 ]
