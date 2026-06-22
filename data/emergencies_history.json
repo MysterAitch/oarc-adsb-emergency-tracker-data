@@ -31678,5 +31678,25 @@
         "alert_last_seen": "2026-06-22T10:56:00",
         "alert_detection_stopped": "2026-06-22T10:56:15",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL93",
+        "hex": "ac2567",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ac2567",
+        "alert_detected": "2026-06-22T12:05:57",
+        "alert_last_seen": "2026-06-22T12:37:04",
+        "alert_detection_stopped": "2026-06-22T12:37:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR158M",
+        "hex": "39d2b1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=39d2b1",
+        "alert_detected": "2026-06-22T12:49:32",
+        "alert_last_seen": "2026-06-22T13:32:05",
+        "alert_detection_stopped": "2026-06-22T13:32:11",
+        "alert_status": "inactive"
     }
 ]

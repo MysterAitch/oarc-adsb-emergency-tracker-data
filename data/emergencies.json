@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "AAL93",
-        "hex": "ac2567",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ac2567",
-        "alert_detected": "2026-06-22T12:05:57",
-        "alert_last_seen": "2026-06-22T12:24:56",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
