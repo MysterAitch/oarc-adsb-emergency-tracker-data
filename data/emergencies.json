@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "KLM924",
+        "hex": "486493",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=486493",
+        "alert_detected": "2026-06-26T11:34:46",
+        "alert_last_seen": "2026-06-26T11:36:38",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
