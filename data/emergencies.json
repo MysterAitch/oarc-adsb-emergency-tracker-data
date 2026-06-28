@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GBNPO",
+        "hex": "402960",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=402960",
+        "alert_detected": "2026-06-28T17:04:55",
+        "alert_last_seen": "2026-06-28T17:05:10",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
