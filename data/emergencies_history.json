@@ -32018,5 +32018,15 @@
         "alert_last_seen": "2026-06-29T00:00:50",
         "alert_detection_stopped": "2026-06-29T00:00:55",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBZFN",
+        "hex": "404348",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=404348",
+        "alert_detected": "2026-06-29T10:27:04",
+        "alert_last_seen": "2026-06-29T10:30:32",
+        "alert_detection_stopped": "2026-06-29T10:30:42",
+        "alert_status": "inactive"
     }
 ]
