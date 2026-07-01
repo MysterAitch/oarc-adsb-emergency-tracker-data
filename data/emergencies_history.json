@@ -32148,5 +32148,25 @@
         "alert_last_seen": "2026-07-01T11:47:31",
         "alert_detection_stopped": "2026-07-01T12:38:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAD50",
+        "hex": "400e99",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e99",
+        "alert_detected": "2026-07-01T13:22:21",
+        "alert_last_seen": "2026-07-01T13:26:04",
+        "alert_detection_stopped": "2026-07-01T13:26:19",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAD50",
+        "hex": "400e99",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e99",
+        "alert_detected": "2026-07-01T13:26:24",
+        "alert_last_seen": "2026-07-01T13:27:20",
+        "alert_detection_stopped": "2026-07-01T13:27:25",
+        "alert_status": "inactive"
     }
 ]
