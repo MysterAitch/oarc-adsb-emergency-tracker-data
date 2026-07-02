@@ -32178,5 +32178,25 @@
         "alert_last_seen": "2026-07-01T13:58:51",
         "alert_detection_stopped": "2026-07-01T13:59:07",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SABRE32",
+        "hex": "3e91cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e91cd",
+        "alert_detected": "2026-07-02T08:47:05",
+        "alert_last_seen": "2026-07-02T08:59:59",
+        "alert_detection_stopped": "2026-07-02T09:00:04",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT65",
+        "hex": "43c8cf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cf",
+        "alert_detected": "2026-07-02T09:03:26",
+        "alert_last_seen": "2026-07-02T09:13:53",
+        "alert_detection_stopped": "2026-07-02T09:14:03",
+        "alert_status": "inactive"
     }
 ]
