@@ -32228,5 +32228,25 @@
         "alert_last_seen": "2026-07-03T08:43:28",
         "alert_detection_stopped": "2026-07-03T08:43:48",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT584",
+        "hex": "43c8cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cd",
+        "alert_detected": "2026-07-03T09:18:20",
+        "alert_last_seen": "2026-07-03T09:26:01",
+        "alert_detection_stopped": "2026-07-03T09:26:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GBITH",
+        "hex": "401f42",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401f42",
+        "alert_detected": "2026-07-03T09:27:01",
+        "alert_last_seen": "2026-07-03T09:33:16",
+        "alert_detection_stopped": "2026-07-03T09:33:21",
+        "alert_status": "inactive"
     }
 ]
