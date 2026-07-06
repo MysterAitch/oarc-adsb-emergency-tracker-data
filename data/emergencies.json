@@ -1,21 +1,11 @@
 [
     {
-        "flight": "EJU79GR",
-        "hex": "4405b6",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=4405b6",
-        "alert_detected": "2026-07-06T12:32:25",
-        "alert_last_seen": "2026-07-06T12:41:58",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    },
-    {
-        "flight": "VJH738",
-        "hex": "3c68b4",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=3c68b4",
-        "alert_detected": "2026-07-06T12:39:51",
-        "alert_last_seen": "2026-07-06T12:41:58",
+        "flight": "",
+        "hex": "7394f8",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=7394f8",
+        "alert_detected": "2026-07-06T13:35:41",
+        "alert_last_seen": "2026-07-06T13:59:47",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
