@@ -32288,5 +32288,15 @@
         "alert_last_seen": "2026-07-06T14:02:29",
         "alert_detection_stopped": "2026-07-06T14:03:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SPSMJ",
+        "hex": "48ef35",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=48ef35",
+        "alert_detected": "2026-07-06T17:16:47",
+        "alert_last_seen": "2026-07-06T17:20:20",
+        "alert_detection_stopped": "2026-07-06T17:29:01",
+        "alert_status": "inactive"
     }
 ]
