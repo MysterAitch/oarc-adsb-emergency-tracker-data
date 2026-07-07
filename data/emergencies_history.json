@@ -32318,5 +32318,15 @@
         "alert_last_seen": "2026-07-07T15:14:19",
         "alert_detection_stopped": "2026-07-07T15:26:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VJT929",
+        "hex": "4d211b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4d211b",
+        "alert_detected": "2026-07-07T20:27:07",
+        "alert_last_seen": "2026-07-07T20:27:12",
+        "alert_detection_stopped": "2026-07-07T21:01:43",
+        "alert_status": "inactive"
     }
 ]
