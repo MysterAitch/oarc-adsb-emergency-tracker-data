@@ -32368,5 +32368,25 @@
         "alert_last_seen": "2026-07-08T14:56:35",
         "alert_detection_stopped": "2026-07-08T14:56:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "400e95",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400e95",
+        "alert_detected": "2026-07-08T15:02:49",
+        "alert_last_seen": "2026-07-08T15:03:45",
+        "alert_detection_stopped": "2026-07-08T15:03:55",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GBRBA",
+        "hex": "402ea3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402ea3",
+        "alert_detected": "2026-07-08T15:35:12",
+        "alert_last_seen": "2026-07-08T15:36:08",
+        "alert_detection_stopped": "2026-07-08T15:37:03",
+        "alert_status": "inactive"
     }
 ]
