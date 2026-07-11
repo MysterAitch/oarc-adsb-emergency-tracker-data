@@ -38,5 +38,15 @@
         "alert_last_seen": "2026-07-11T17:11:40",
         "alert_detection_stopped": "2026-07-11T17:11:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR7TK",
+        "hex": "4ca708",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4ca708",
+        "alert_detected": "2026-07-11T21:18:28",
+        "alert_last_seen": "2026-07-11T21:18:28",
+        "alert_detection_stopped": "2026-07-11T21:19:34",
+        "alert_status": "inactive"
     }
 ]
