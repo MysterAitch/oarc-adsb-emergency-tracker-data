@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "DEDLY",
-        "hex": "3d0dca",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=3d0dca",
-        "alert_detected": "2026-07-11T17:00:35",
-        "alert_last_seen": "2026-07-11T17:01:51",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
