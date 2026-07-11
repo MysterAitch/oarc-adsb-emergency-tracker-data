@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR5856",
+        "hex": "4d2257",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d2257",
+        "alert_detected": "2026-07-11T12:57:42",
+        "alert_last_seen": "2026-07-11T13:02:43",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
