@@ -1,11 +1,11 @@
 [
     {
-        "flight": "DMBAY",
-        "hex": "3ffb7b",
+        "flight": "UAT60",
+        "hex": "400e9d",
         "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=3ffb7b",
-        "alert_detected": "2026-07-13T13:40:15",
-        "alert_last_seen": "2026-07-13T13:40:21",
+        "link": "https://adsb.oarc.uk/?icao=400e9d",
+        "alert_detected": "2026-07-13T14:50:07",
+        "alert_last_seen": "2026-07-13T14:54:28",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
