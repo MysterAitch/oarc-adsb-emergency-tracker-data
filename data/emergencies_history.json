@@ -58,5 +58,45 @@
         "alert_last_seen": "2026-07-11T22:47:20",
         "alert_detection_stopped": "2026-07-11T22:47:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NCR810",
+        "hex": "a9c52e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9c52e",
+        "alert_detected": "2026-07-13T05:15:12",
+        "alert_last_seen": "2026-07-13T05:32:17",
+        "alert_detection_stopped": "2026-07-13T05:33:13",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NCR810",
+        "hex": "a9c52e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9c52e",
+        "alert_detected": "2026-07-13T05:43:00",
+        "alert_last_seen": "2026-07-13T06:06:46",
+        "alert_detection_stopped": "2026-07-13T06:07:21",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NCR810",
+        "hex": "a9c52e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9c52e",
+        "alert_detected": "2026-07-13T06:07:46",
+        "alert_last_seen": "2026-07-13T06:12:13",
+        "alert_detection_stopped": "2026-07-13T06:12:33",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "a9c52e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a9c52e",
+        "alert_detected": "2026-07-13T06:14:49",
+        "alert_last_seen": "2026-07-13T06:15:45",
+        "alert_detection_stopped": "2026-07-13T06:15:50",
+        "alert_status": "inactive"
     }
 ]

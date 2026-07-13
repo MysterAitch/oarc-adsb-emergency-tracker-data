@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "NCR810",
-        "hex": "a9c52e",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=a9c52e",
-        "alert_detected": "2026-07-13T05:15:12",
-        "alert_last_seen": "2026-07-13T05:27:41",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
