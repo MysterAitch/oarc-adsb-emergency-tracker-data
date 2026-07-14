@@ -188,5 +188,95 @@
         "alert_last_seen": "2026-07-14T12:34:20",
         "alert_detection_stopped": "2026-07-14T12:43:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TOM7PC",
+        "hex": "4079a9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079a9",
+        "alert_detected": "2026-07-15T00:25:10",
+        "alert_last_seen": "2026-07-15T00:40:00",
+        "alert_detection_stopped": "2026-07-15T00:40:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EFW584Y",
+        "hex": "4010dc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4010dc",
+        "alert_detected": "2026-07-15T00:30:28",
+        "alert_last_seen": "2026-07-15T00:43:46",
+        "alert_detection_stopped": "2026-07-15T00:43:56",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY58DK",
+        "hex": "40631a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40631a",
+        "alert_detected": "2026-07-15T00:25:31",
+        "alert_last_seen": "2026-07-15T00:43:56",
+        "alert_detection_stopped": "2026-07-15T00:44:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY24LT",
+        "hex": "4082ac",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4082ac",
+        "alert_detected": "2026-07-15T00:24:59",
+        "alert_last_seen": "2026-07-15T00:47:47",
+        "alert_detection_stopped": "2026-07-15T00:47:57",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EFW8CQ",
+        "hex": "400afe",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400afe",
+        "alert_detected": "2026-07-15T00:31:33",
+        "alert_last_seen": "2026-07-15T00:47:07",
+        "alert_detection_stopped": "2026-07-15T00:47:57",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY16VL",
+        "hex": "407f65",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f65",
+        "alert_detected": "2026-07-15T00:25:46",
+        "alert_last_seen": "2026-07-15T00:49:52",
+        "alert_detection_stopped": "2026-07-15T00:50:02",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EXS232A",
+        "hex": "408034",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=408034",
+        "alert_detected": "2026-07-15T00:26:01",
+        "alert_last_seen": "2026-07-15T00:49:12",
+        "alert_detection_stopped": "2026-07-15T00:50:12",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY89LE",
+        "hex": "408387",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=408387",
+        "alert_detected": "2026-07-15T00:32:14",
+        "alert_last_seen": "2026-07-15T00:53:52",
+        "alert_detection_stopped": "2026-07-15T00:54:03",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY17CB",
+        "hex": "407f64",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f64",
+        "alert_detected": "2026-07-15T00:28:57",
+        "alert_last_seen": "2026-07-15T00:54:03",
+        "alert_detection_stopped": "2026-07-15T00:54:23",
+        "alert_status": "inactive"
     }
 ]
