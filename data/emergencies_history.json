@@ -348,5 +348,25 @@
         "alert_last_seen": "2026-07-15T16:17:24",
         "alert_detection_stopped": "2026-07-15T16:21:01",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RECON21",
+        "hex": "43c762",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c762",
+        "alert_detected": "2026-07-15T17:01:37",
+        "alert_last_seen": "2026-07-15T17:03:13",
+        "alert_detection_stopped": "2026-07-15T17:03:18",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43c762",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c762",
+        "alert_detected": "2026-07-15T17:05:09",
+        "alert_last_seen": "2026-07-15T17:06:10",
+        "alert_detection_stopped": "2026-07-15T17:07:10",
+        "alert_status": "inactive"
     }
 ]
