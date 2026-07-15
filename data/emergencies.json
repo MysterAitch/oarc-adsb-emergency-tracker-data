@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EZY92QC",
+        "hex": "406c71",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406c71",
+        "alert_detected": "2026-07-15T14:32:20",
+        "alert_last_seen": "2026-07-15T14:44:45",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
