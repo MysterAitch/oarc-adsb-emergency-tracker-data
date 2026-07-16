@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "JNGLY15",
-        "hex": "43c225",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=43c225",
-        "alert_detected": "2026-07-16T00:49:42",
-        "alert_last_seen": "2026-07-16T00:50:03",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
