@@ -388,5 +388,15 @@
         "alert_last_seen": "2026-07-16T00:50:03",
         "alert_detection_stopped": "2026-07-16T01:01:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE603",
+        "hex": "4079d3",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4079d3",
+        "alert_detected": "2026-07-16T09:04:06",
+        "alert_last_seen": "2026-07-16T09:33:23",
+        "alert_detection_stopped": "2026-07-16T09:33:33",
+        "alert_status": "inactive"
     }
 ]
