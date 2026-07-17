@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "N137KM",
+        "hex": "a0961f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a0961f",
+        "alert_detected": "2026-07-17T14:21:35",
+        "alert_last_seen": "2026-07-17T14:21:35",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
