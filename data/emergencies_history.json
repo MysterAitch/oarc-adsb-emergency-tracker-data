@@ -478,5 +478,15 @@
         "alert_last_seen": "2026-07-17T13:41:18",
         "alert_detection_stopped": "2026-07-17T13:41:33",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GGDIA",
+        "hex": "406cb2",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=406cb2",
+        "alert_detected": "2026-07-17T13:37:52",
+        "alert_last_seen": "2026-07-17T13:44:04",
+        "alert_detection_stopped": "2026-07-17T13:44:54",
+        "alert_status": "inactive"
     }
 ]
