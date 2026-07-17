@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "QID99",
-        "hex": "ae04c4",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=ae04c4",
-        "alert_detected": "2026-07-17T17:26:53",
-        "alert_last_seen": "2026-07-17T17:59:12",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]
