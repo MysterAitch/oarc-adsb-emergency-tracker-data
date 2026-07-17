@@ -488,5 +488,25 @@
         "alert_last_seen": "2026-07-17T13:44:04",
         "alert_detection_stopped": "2026-07-17T13:44:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "0d1158",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=0d1158",
+        "alert_detected": "2026-07-17T14:56:50",
+        "alert_last_seen": "2026-07-17T14:58:06",
+        "alert_detection_stopped": "2026-07-17T14:58:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "N137KM",
+        "hex": "a0961f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a0961f",
+        "alert_detected": "2026-07-17T14:21:35",
+        "alert_last_seen": "2026-07-17T14:21:35",
+        "alert_detection_stopped": "2026-07-17T15:15:06",
+        "alert_status": "inactive"
     }
 ]
