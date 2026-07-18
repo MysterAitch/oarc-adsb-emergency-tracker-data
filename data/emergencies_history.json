@@ -548,5 +548,15 @@
         "alert_last_seen": "2026-07-17T18:15:06",
         "alert_detection_stopped": "2026-07-17T18:25:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CFEMC",
+        "hex": "c00bcb",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=c00bcb",
+        "alert_detected": "2026-07-18T08:10:17",
+        "alert_last_seen": "2026-07-18T08:10:17",
+        "alert_detection_stopped": "2026-07-18T09:24:14",
+        "alert_status": "inactive"
     }
 ]
