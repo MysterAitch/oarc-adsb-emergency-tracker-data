@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RYR7FJ",
+        "hex": "4d236a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d236a",
+        "alert_detected": "2026-07-22T07:34:47",
+        "alert_last_seen": "2026-07-22T08:02:35",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
