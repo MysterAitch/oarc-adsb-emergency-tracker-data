@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "",
+        "hex": "af351f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=af351f",
+        "alert_detected": "2026-07-22T15:13:51",
+        "alert_last_seen": "2026-07-22T15:36:27",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
