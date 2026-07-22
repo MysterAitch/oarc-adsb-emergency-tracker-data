@@ -738,5 +738,15 @@
         "alert_last_seen": "2026-07-22T16:04:56",
         "alert_detection_stopped": "2026-07-22T16:05:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR94ZY",
+        "hex": "4d225b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d225b",
+        "alert_detected": "2026-07-22T18:41:47",
+        "alert_last_seen": "2026-07-22T19:25:38",
+        "alert_detection_stopped": "2026-07-22T19:25:48",
+        "alert_status": "inactive"
     }
 ]
