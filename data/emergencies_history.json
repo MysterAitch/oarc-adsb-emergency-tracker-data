@@ -708,5 +708,15 @@
         "alert_last_seen": "2026-07-22T08:17:44",
         "alert_detection_stopped": "2026-07-22T08:17:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW547",
+        "hex": "407b8e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b8e",
+        "alert_detected": "2026-07-22T13:33:35",
+        "alert_last_seen": "2026-07-22T13:45:04",
+        "alert_detection_stopped": "2026-07-22T13:45:14",
+        "alert_status": "inactive"
     }
 ]
