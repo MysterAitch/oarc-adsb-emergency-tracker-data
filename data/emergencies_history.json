@@ -828,5 +828,65 @@
         "alert_last_seen": "2026-07-24T13:50:08",
         "alert_detection_stopped": "2026-07-24T13:50:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKJI",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2026-07-24T13:51:54",
+        "alert_last_seen": "2026-07-24T13:56:05",
+        "alert_detection_stopped": "2026-07-24T13:56:16",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKJI",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2026-07-24T13:56:41",
+        "alert_last_seen": "2026-07-24T13:57:56",
+        "alert_detection_stopped": "2026-07-24T13:58:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2026-07-24T13:58:22",
+        "alert_last_seen": "2026-07-24T14:00:48",
+        "alert_detection_stopped": "2026-07-24T14:01:38",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2026-07-24T14:04:24",
+        "alert_last_seen": "2026-07-24T14:05:20",
+        "alert_detection_stopped": "2026-07-24T14:05:25",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4073c0",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4073c0",
+        "alert_detected": "2026-07-24T14:05:45",
+        "alert_last_seen": "2026-07-24T14:07:16",
+        "alert_detection_stopped": "2026-07-24T14:07:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NINJA32",
+        "hex": "43c563",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c563",
+        "alert_detected": "2026-07-24T13:59:02",
+        "alert_last_seen": "2026-07-24T14:09:37",
+        "alert_detection_stopped": "2026-07-24T14:09:52",
+        "alert_status": "inactive"
     }
 ]
