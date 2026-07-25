@@ -978,5 +978,25 @@
         "alert_last_seen": "2026-07-25T11:03:37",
         "alert_detection_stopped": "2026-07-25T11:03:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SRD199",
+        "hex": "406de6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406de6",
+        "alert_detected": "2026-07-25T15:23:49",
+        "alert_last_seen": "2026-07-25T15:29:56",
+        "alert_detection_stopped": "2026-07-25T15:30:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GBCGJ",
+        "hex": "401b61",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401b61",
+        "alert_detected": "2026-07-25T15:40:24",
+        "alert_last_seen": "2026-07-25T15:41:44",
+        "alert_detection_stopped": "2026-07-25T15:41:49",
+        "alert_status": "inactive"
     }
 ]
