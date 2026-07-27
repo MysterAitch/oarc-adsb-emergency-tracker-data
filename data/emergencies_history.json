@@ -1028,5 +1028,15 @@
         "alert_last_seen": "2026-07-27T13:19:45",
         "alert_detection_stopped": "2026-07-27T13:20:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "OVRLD01",
+        "hex": "ae7813",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=ae7813",
+        "alert_detected": "2026-07-27T14:05:38",
+        "alert_last_seen": "2026-07-27T14:23:29",
+        "alert_detection_stopped": "2026-07-27T14:26:50",
+        "alert_status": "inactive"
     }
 ]
