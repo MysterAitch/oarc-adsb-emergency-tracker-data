@@ -1048,5 +1048,15 @@
         "alert_last_seen": "2026-07-27T18:46:18",
         "alert_detection_stopped": "2026-07-27T19:00:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DLH847",
+        "hex": "3c65e2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c65e2",
+        "alert_detected": "2026-07-28T03:13:49",
+        "alert_last_seen": "2026-07-28T03:17:54",
+        "alert_detection_stopped": "2026-07-28T03:38:07",
+        "alert_status": "inactive"
     }
 ]
