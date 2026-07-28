@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "EZY64JW",
+        "hex": "40666c",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40666c",
+        "alert_detected": "2026-07-28T20:33:02",
+        "alert_last_seen": "2026-07-28T20:55:43",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
