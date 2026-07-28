@@ -1128,5 +1128,15 @@
         "alert_last_seen": "2026-07-28T15:42:55",
         "alert_detection_stopped": "2026-07-28T15:52:23",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY39DE",
+        "hex": "407686",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407686",
+        "alert_detected": "2026-07-28T18:26:56",
+        "alert_last_seen": "2026-07-28T18:38:34",
+        "alert_detection_stopped": "2026-07-28T18:38:39",
+        "alert_status": "inactive"
     }
 ]
