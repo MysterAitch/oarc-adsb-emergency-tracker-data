@@ -1148,5 +1148,25 @@
         "alert_last_seen": "2026-07-28T21:04:10",
         "alert_detection_stopped": "2026-07-28T21:05:25",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CWL13",
+        "hex": "400ed8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ed8",
+        "alert_detected": "2026-07-29T10:14:05",
+        "alert_last_seen": "2026-07-29T10:17:47",
+        "alert_detection_stopped": "2026-07-29T10:17:52",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT583",
+        "hex": "43c8cb",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8cb",
+        "alert_detected": "2026-07-29T11:31:39",
+        "alert_last_seen": "2026-07-29T11:40:17",
+        "alert_detection_stopped": "2026-07-29T11:40:22",
+        "alert_status": "inactive"
     }
 ]
