@@ -1218,5 +1218,15 @@
         "alert_last_seen": "2026-07-30T14:24:49",
         "alert_detection_stopped": "2026-07-30T14:24:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NINJA41",
+        "hex": "43c47b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c47b",
+        "alert_detected": "2026-07-30T16:03:02",
+        "alert_last_seen": "2026-07-30T16:12:19",
+        "alert_detection_stopped": "2026-07-30T16:12:34",
+        "alert_status": "inactive"
     }
 ]
