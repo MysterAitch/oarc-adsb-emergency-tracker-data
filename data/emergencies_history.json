@@ -1238,5 +1238,15 @@
         "alert_last_seen": "2026-07-30T19:54:20",
         "alert_detection_stopped": "2026-07-30T19:54:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GXSAS",
+        "hex": "4082a1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4082a1",
+        "alert_detected": "2026-07-31T14:27:31",
+        "alert_last_seen": "2026-07-31T14:43:27",
+        "alert_detection_stopped": "2026-07-31T14:43:32",
+        "alert_status": "inactive"
     }
 ]
