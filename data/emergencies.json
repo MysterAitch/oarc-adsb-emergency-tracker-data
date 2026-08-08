@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "LOG7WC",
+        "hex": "4007da",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4007da",
+        "alert_detected": "2026-08-08T11:41:42",
+        "alert_last_seen": "2026-08-08T11:52:16",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
