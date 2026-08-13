@@ -1,12 +1,1 @@
-[
-    {
-        "flight": "GWTWO",
-        "hex": "401280",
-        "squawk": "7700",
-        "link": "https://adsb.oarc.uk/?icao=401280",
-        "alert_detected": "2026-08-13T15:32:33",
-        "alert_last_seen": "2026-08-13T15:32:33",
-        "alert_detection_stopped": "",
-        "alert_status": "active"
-    }
-]
+[]

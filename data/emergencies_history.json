@@ -1798,5 +1798,25 @@
         "alert_last_seen": "2026-08-13T11:06:33",
         "alert_detection_stopped": "2026-08-13T11:06:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GWTWO",
+        "hex": "401280",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=401280",
+        "alert_detected": "2026-08-13T15:32:33",
+        "alert_last_seen": "2026-08-13T15:32:33",
+        "alert_detection_stopped": "2026-08-13T15:51:54",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCENB",
+        "hex": "405193",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=405193",
+        "alert_detected": "2026-08-13T15:55:35",
+        "alert_last_seen": "2026-08-13T15:56:40",
+        "alert_detection_stopped": "2026-08-13T16:19:06",
+        "alert_status": "inactive"
     }
 ]
