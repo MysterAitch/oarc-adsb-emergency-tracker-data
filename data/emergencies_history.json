@@ -1908,5 +1908,15 @@
         "alert_last_seen": "2026-08-15T15:24:46",
         "alert_detection_stopped": "2026-08-15T15:40:06",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AAL278",
+        "hex": "ab6afa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab6afa",
+        "alert_detected": "2026-08-17T06:28:11",
+        "alert_last_seen": "2026-08-17T07:01:40",
+        "alert_detection_stopped": "2026-08-17T07:01:45",
+        "alert_status": "inactive"
     }
 ]
