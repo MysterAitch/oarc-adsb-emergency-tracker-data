@@ -1928,5 +1928,15 @@
         "alert_last_seen": "2026-08-17T09:16:14",
         "alert_detection_stopped": "2026-08-17T09:16:19",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CHLE1D",
+        "hex": "743588",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=743588",
+        "alert_detected": "2026-08-17T10:22:47",
+        "alert_last_seen": "2026-08-17T10:22:52",
+        "alert_detection_stopped": "2026-08-17T10:37:21",
+        "alert_status": "inactive"
     }
 ]
