@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "AAL278",
+        "hex": "ab6afa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ab6afa",
+        "alert_detected": "2026-08-17T06:28:11",
+        "alert_last_seen": "2026-08-17T06:30:07",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
