@@ -1988,5 +1988,15 @@
         "alert_last_seen": "2026-08-18T12:10:11",
         "alert_detection_stopped": "2026-08-18T12:10:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAW4LV",
+        "hex": "407cd1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407cd1",
+        "alert_detected": "2026-08-18T14:43:02",
+        "alert_last_seen": "2026-08-18T15:13:42",
+        "alert_detection_stopped": "2026-08-18T15:13:52",
+        "alert_status": "inactive"
     }
 ]
