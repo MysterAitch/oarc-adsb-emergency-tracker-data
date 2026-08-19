@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "AFR50N",
+        "hex": "394a01",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=394a01",
+        "alert_detected": "2026-08-19T15:56:00",
+        "alert_last_seen": "2026-08-19T16:02:17",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
