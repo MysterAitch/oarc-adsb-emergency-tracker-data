@@ -2048,5 +2048,15 @@
         "alert_last_seen": "2026-08-19T13:36:52",
         "alert_detection_stopped": "2026-08-19T13:37:37",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "AFR50N",
+        "hex": "394a01",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=394a01",
+        "alert_detected": "2026-08-19T15:56:00",
+        "alert_last_seen": "2026-08-19T16:02:58",
+        "alert_detection_stopped": "2026-08-19T16:10:44",
+        "alert_status": "inactive"
     }
 ]
