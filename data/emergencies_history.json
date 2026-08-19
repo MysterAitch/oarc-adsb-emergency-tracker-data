@@ -2028,5 +2028,15 @@
         "alert_last_seen": "2026-08-19T11:02:25",
         "alert_detection_stopped": "2026-08-19T11:39:27",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WIT16",
+        "hex": "400ead",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ead",
+        "alert_detected": "2026-08-19T12:21:40",
+        "alert_last_seen": "2026-08-19T12:29:28",
+        "alert_detection_stopped": "2026-08-19T12:29:33",
+        "alert_status": "inactive"
     }
 ]
