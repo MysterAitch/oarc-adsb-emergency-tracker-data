@@ -2058,5 +2058,25 @@
         "alert_last_seen": "2026-08-19T16:02:58",
         "alert_detection_stopped": "2026-08-19T16:10:44",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VNTRE65",
+        "hex": "43c759",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c759",
+        "alert_detected": "2026-08-20T12:57:11",
+        "alert_last_seen": "2026-08-20T12:57:11",
+        "alert_detection_stopped": "2026-08-20T13:11:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "DLH430",
+        "hex": "3c4b27",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c4b27",
+        "alert_detected": "2026-08-20T12:28:53",
+        "alert_last_seen": "2026-08-20T13:21:48",
+        "alert_detection_stopped": "2026-08-20T13:22:53",
+        "alert_status": "inactive"
     }
 ]
