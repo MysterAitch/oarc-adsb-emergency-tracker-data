@@ -2148,5 +2148,25 @@
         "alert_last_seen": "2026-08-20T16:58:08",
         "alert_detection_stopped": "2026-08-20T16:58:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF63",
+        "hex": "43c8ba",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8ba",
+        "alert_detected": "2026-08-21T08:42:39",
+        "alert_last_seen": "2026-08-21T08:50:12",
+        "alert_detection_stopped": "2026-08-21T08:50:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PRF63",
+        "hex": "43c8ba",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c8ba",
+        "alert_detected": "2026-08-21T08:51:02",
+        "alert_last_seen": "2026-08-21T08:52:02",
+        "alert_detection_stopped": "2026-08-21T08:52:07",
+        "alert_status": "inactive"
     }
 ]
