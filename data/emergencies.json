@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "GCKZP",
+        "hex": "407627",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407627",
+        "alert_detected": "2026-08-23T10:51:15",
+        "alert_last_seen": "2026-08-23T10:51:21",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
