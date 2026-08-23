@@ -2218,5 +2218,15 @@
         "alert_last_seen": "2026-08-22T00:10:21",
         "alert_detection_stopped": "2026-08-22T00:10:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GCKZP",
+        "hex": "407627",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=407627",
+        "alert_detected": "2026-08-23T10:51:15",
+        "alert_last_seen": "2026-08-23T10:51:21",
+        "alert_detection_stopped": "2026-08-23T11:10:51",
+        "alert_status": "inactive"
     }
 ]
