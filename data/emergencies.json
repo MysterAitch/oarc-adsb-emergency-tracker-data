@@ -1,11 +1,11 @@
 [
     {
-        "flight": "GCBFA",
-        "hex": "404605",
-        "squawk": "7600",
-        "link": "https://adsb.oarc.uk/?icao=404605",
-        "alert_detected": "2026-08-24T11:34:25",
-        "alert_last_seen": "2026-08-24T11:34:25",
+        "flight": "UAL169",
+        "hex": "aa44cd",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aa44cd",
+        "alert_detected": "2026-08-24T12:08:25",
+        "alert_last_seen": "2026-08-24T12:27:16",
         "alert_detection_stopped": "",
         "alert_status": "active"
     }
