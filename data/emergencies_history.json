@@ -2378,5 +2378,15 @@
         "alert_last_seen": "2026-08-25T13:26:20",
         "alert_detection_stopped": "2026-08-25T13:26:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MOOSE48",
+        "hex": "ae146e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae146e",
+        "alert_detected": "2026-08-25T20:08:50",
+        "alert_last_seen": "2026-08-25T20:32:11",
+        "alert_detection_stopped": "2026-08-25T20:32:16",
+        "alert_status": "inactive"
     }
 ]
