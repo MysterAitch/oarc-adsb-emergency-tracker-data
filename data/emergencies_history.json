@@ -2338,5 +2338,15 @@
         "alert_last_seen": "2026-08-25T11:24:27",
         "alert_detection_stopped": "2026-08-25T11:24:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LEONE10",
+        "hex": "33fe38",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=33fe38",
+        "alert_detected": "2026-08-25T11:24:47",
+        "alert_last_seen": "2026-08-25T11:27:43",
+        "alert_detection_stopped": "2026-08-25T12:02:13",
+        "alert_status": "inactive"
     }
 ]
