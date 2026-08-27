@@ -2458,5 +2458,35 @@
         "alert_last_seen": "2026-08-27T11:02:12",
         "alert_detection_stopped": "2026-08-27T11:02:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WUK735",
+        "hex": "407b55",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407b55",
+        "alert_detected": "2026-08-27T18:54:09",
+        "alert_last_seen": "2026-08-27T19:06:17",
+        "alert_detection_stopped": "2026-08-27T19:06:27",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "WUK65ZN",
+        "hex": "408064",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=408064",
+        "alert_detected": "2026-08-27T18:52:22",
+        "alert_last_seen": "2026-08-27T19:09:48",
+        "alert_detection_stopped": "2026-08-27T19:09:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU97XA",
+        "hex": "440cbf",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440cbf",
+        "alert_detected": "2026-08-27T20:11:59",
+        "alert_last_seen": "2026-08-27T20:22:17",
+        "alert_detection_stopped": "2026-08-27T20:23:32",
+        "alert_status": "inactive"
     }
 ]
