@@ -2438,5 +2438,25 @@
         "alert_last_seen": "2026-08-26T23:44:20",
         "alert_detection_stopped": "2026-08-26T23:57:03",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DINGO06",
+        "hex": "43c6c4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6c4",
+        "alert_detected": "2026-08-27T10:40:26",
+        "alert_last_seen": "2026-08-27T10:40:26",
+        "alert_detection_stopped": "2026-08-27T10:53:04",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "LOG52L",
+        "hex": "400846",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400846",
+        "alert_detected": "2026-08-27T10:25:11",
+        "alert_last_seen": "2026-08-27T11:02:12",
+        "alert_detection_stopped": "2026-08-27T11:02:22",
+        "alert_status": "inactive"
     }
 ]
