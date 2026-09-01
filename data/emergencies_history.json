@@ -2538,5 +2538,15 @@
         "alert_last_seen": "2026-08-31T16:14:44",
         "alert_detection_stopped": "2026-08-31T16:14:49",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "N630SP",
+        "hex": "a83f5a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a83f5a",
+        "alert_detected": "2026-09-01T02:22:15",
+        "alert_last_seen": "2026-09-01T02:24:06",
+        "alert_detection_stopped": "2026-09-01T02:40:29",
+        "alert_status": "inactive"
     }
 ]
