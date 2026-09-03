@@ -2718,5 +2718,25 @@
         "alert_last_seen": "2026-09-03T09:20:50",
         "alert_detection_stopped": "2026-09-03T09:21:05",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "MAHATZ",
+        "hex": "738be7",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=738be7",
+        "alert_detected": "2026-09-03T11:35:41",
+        "alert_last_seen": "2026-09-03T11:38:17",
+        "alert_detection_stopped": "2026-09-03T12:28:09",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "POISN21",
+        "hex": "43c55b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c55b",
+        "alert_detected": "2026-09-03T12:27:53",
+        "alert_last_seen": "2026-09-03T12:31:55",
+        "alert_detection_stopped": "2026-09-03T12:32:00",
+        "alert_status": "inactive"
     }
 ]
