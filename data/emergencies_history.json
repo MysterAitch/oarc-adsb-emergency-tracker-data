@@ -2738,5 +2738,15 @@
         "alert_last_seen": "2026-09-03T12:31:55",
         "alert_detection_stopped": "2026-09-03T12:32:00",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "HAWK280",
+        "hex": "ae62f8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=ae62f8",
+        "alert_detected": "2026-09-04T04:14:55",
+        "alert_last_seen": "2026-09-04T04:27:08",
+        "alert_detection_stopped": "2026-09-04T04:27:13",
+        "alert_status": "inactive"
     }
 ]
