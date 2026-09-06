@@ -2798,5 +2798,15 @@
         "alert_last_seen": "2026-09-05T13:23:15",
         "alert_detection_stopped": "2026-09-05T13:28:32",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBJYD",
+        "hex": "401ffa",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=401ffa",
+        "alert_detected": "2026-09-06T15:30:45",
+        "alert_last_seen": "2026-09-06T15:31:51",
+        "alert_detection_stopped": "2026-09-06T15:32:11",
+        "alert_status": "inactive"
     }
 ]
