@@ -2808,5 +2808,25 @@
         "alert_last_seen": "2026-09-06T15:31:51",
         "alert_detection_stopped": "2026-09-06T15:32:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PHZEF",
+        "hex": "4863e6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4863e6",
+        "alert_detected": "2026-09-07T08:56:50",
+        "alert_last_seen": "2026-09-07T08:58:21",
+        "alert_detection_stopped": "2026-09-07T09:28:20",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GWNDL",
+        "hex": "4083c8",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4083c8",
+        "alert_detected": "2026-09-07T11:52:58",
+        "alert_last_seen": "2026-09-07T11:59:05",
+        "alert_detection_stopped": "2026-09-07T11:59:10",
+        "alert_status": "inactive"
     }
 ]
