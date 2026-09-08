@@ -2848,5 +2848,45 @@
         "alert_last_seen": "2026-09-08T09:57:30",
         "alert_detection_stopped": "2026-09-08T09:57:45",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BAL88",
+        "hex": "43c94a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c94a",
+        "alert_detected": "2026-09-08T16:47:13",
+        "alert_last_seen": "2026-09-08T16:48:34",
+        "alert_detection_stopped": "2026-09-08T16:55:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "NAF23",
+        "hex": "480c06",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=480c06",
+        "alert_detected": "2026-09-08T15:46:08",
+        "alert_last_seen": "2026-09-08T15:46:13",
+        "alert_detection_stopped": "2026-09-08T17:11:15",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CTLSS42",
+        "hex": "43c559",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c559",
+        "alert_detected": "2026-09-08T17:05:43",
+        "alert_last_seen": "2026-09-08T17:14:21",
+        "alert_detection_stopped": "2026-09-08T17:14:26",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CTLSS42",
+        "hex": "43c559",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c559",
+        "alert_detected": "2026-09-08T17:16:01",
+        "alert_last_seen": "2026-09-08T17:20:48",
+        "alert_detection_stopped": "2026-09-08T17:21:18",
+        "alert_status": "inactive"
     }
 ]
