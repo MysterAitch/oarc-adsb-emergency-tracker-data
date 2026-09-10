@@ -3048,5 +3048,15 @@
         "alert_last_seen": "2026-09-10T16:09:48",
         "alert_detection_stopped": "2026-09-10T16:09:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "PRANG1",
+        "hex": "adff8b",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=adff8b",
+        "alert_detected": "2026-09-10T20:04:40",
+        "alert_last_seen": "2026-09-10T20:05:46",
+        "alert_detection_stopped": "2026-09-10T20:05:56",
+        "alert_status": "inactive"
     }
 ]
