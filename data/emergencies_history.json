@@ -3018,5 +3018,35 @@
         "alert_last_seen": "2026-09-10T15:02:36",
         "alert_detection_stopped": "2026-09-10T15:02:41",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DLH3W",
+        "hex": "3c6518",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3c6518",
+        "alert_detected": "2026-09-10T15:03:11",
+        "alert_last_seen": "2026-09-10T15:20:17",
+        "alert_detection_stopped": "2026-09-10T15:20:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU44",
+        "hex": "400ea4",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400ea4",
+        "alert_detected": "2026-09-10T16:04:20",
+        "alert_last_seen": "2026-09-10T16:06:42",
+        "alert_detection_stopped": "2026-09-10T16:06:52",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "400ea4",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400ea4",
+        "alert_detected": "2026-09-10T16:08:57",
+        "alert_last_seen": "2026-09-10T16:09:48",
+        "alert_detection_stopped": "2026-09-10T16:09:53",
+        "alert_status": "inactive"
     }
 ]
