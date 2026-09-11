@@ -3058,5 +3058,25 @@
         "alert_last_seen": "2026-09-10T20:05:46",
         "alert_detection_stopped": "2026-09-10T20:05:56",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL915",
+        "hex": "aa92f8",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=aa92f8",
+        "alert_detected": "2026-09-11T05:48:24",
+        "alert_last_seen": "2026-09-11T05:57:12",
+        "alert_detection_stopped": "2026-09-11T05:57:22",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "VYT53",
+        "hex": "43c563",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c563",
+        "alert_detected": "2026-09-11T09:13:24",
+        "alert_last_seen": "2026-09-11T09:26:18",
+        "alert_detection_stopped": "2026-09-11T09:26:54",
+        "alert_status": "inactive"
     }
 ]
