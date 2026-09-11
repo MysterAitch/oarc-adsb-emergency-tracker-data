@@ -3078,5 +3078,15 @@
         "alert_last_seen": "2026-09-11T09:26:18",
         "alert_detection_stopped": "2026-09-11T09:26:54",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "POISN33",
+        "hex": "43c560",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c560",
+        "alert_detected": "2026-09-11T14:05:36",
+        "alert_last_seen": "2026-09-11T14:15:25",
+        "alert_detection_stopped": "2026-09-11T14:15:50",
+        "alert_status": "inactive"
     }
 ]
