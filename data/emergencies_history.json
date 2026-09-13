@@ -3118,5 +3118,25 @@
         "alert_last_seen": "2026-09-11T16:42:02",
         "alert_detection_stopped": "2026-09-11T16:42:38",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DIKMO",
+        "hex": "3e32f6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3e32f6",
+        "alert_detected": "2026-09-13T16:44:50",
+        "alert_last_seen": "2026-09-13T16:58:30",
+        "alert_detection_stopped": "2026-09-13T16:58:35",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4079fa",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4079fa",
+        "alert_detected": "2026-09-13T18:19:00",
+        "alert_last_seen": "2026-09-13T18:21:16",
+        "alert_detection_stopped": "2026-09-13T18:21:21",
+        "alert_status": "inactive"
     }
 ]
