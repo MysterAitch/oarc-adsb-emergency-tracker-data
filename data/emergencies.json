@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "",
+        "hex": "a120fe",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a120fe",
+        "alert_detected": "2026-09-15T15:42:53",
+        "alert_last_seen": "2026-09-15T15:54:32",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]
