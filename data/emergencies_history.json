@@ -3228,5 +3228,25 @@
         "alert_last_seen": "2026-09-16T11:12:55",
         "alert_detection_stopped": "2026-09-16T11:13:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43caf0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43caf0",
+        "alert_detected": "2026-09-16T15:07:14",
+        "alert_last_seen": "2026-09-16T15:11:31",
+        "alert_detection_stopped": "2026-09-16T15:11:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "PIA701",
+        "hex": "7608f9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=7608f9",
+        "alert_detected": "2026-09-16T15:50:13",
+        "alert_last_seen": "2026-09-16T16:24:14",
+        "alert_detection_stopped": "2026-09-16T16:24:19",
+        "alert_status": "inactive"
     }
 ]
