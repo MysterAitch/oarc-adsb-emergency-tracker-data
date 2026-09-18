@@ -3398,5 +3398,15 @@
         "alert_last_seen": "2026-09-18T15:35:09",
         "alert_detection_stopped": "2026-09-18T15:52:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "VJT474",
+        "hex": "4d20e7",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d20e7",
+        "alert_detected": "2026-09-18T18:59:38",
+        "alert_last_seen": "2026-09-18T19:14:12",
+        "alert_detection_stopped": "2026-09-18T19:14:22",
+        "alert_status": "inactive"
     }
 ]
