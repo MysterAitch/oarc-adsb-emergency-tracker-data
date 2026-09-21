@@ -3498,5 +3498,25 @@
         "alert_last_seen": "2026-09-21T13:26:15",
         "alert_detection_stopped": "2026-09-21T13:26:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GRSKR",
+        "hex": "402b33",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402b33",
+        "alert_detected": "2026-09-21T16:06:27",
+        "alert_last_seen": "2026-09-21T16:25:08",
+        "alert_detection_stopped": "2026-09-21T16:25:13",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GRSKR",
+        "hex": "402b33",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=402b33",
+        "alert_detected": "2026-09-21T16:27:09",
+        "alert_last_seen": "2026-09-21T16:28:05",
+        "alert_detection_stopped": "2026-09-21T16:29:10",
+        "alert_status": "inactive"
     }
 ]
