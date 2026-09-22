@@ -3558,5 +3558,15 @@
         "alert_last_seen": "2026-09-22T16:50:38",
         "alert_detection_stopped": "2026-09-22T16:50:43",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "IGO74F",
+        "hex": "47b121",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=47b121",
+        "alert_detected": "2026-09-22T20:58:49",
+        "alert_last_seen": "2026-09-22T21:06:02",
+        "alert_detection_stopped": "2026-09-22T21:23:51",
+        "alert_status": "inactive"
     }
 ]
