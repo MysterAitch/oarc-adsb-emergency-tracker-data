@@ -3548,5 +3548,15 @@
         "alert_last_seen": "2026-09-22T15:27:30",
         "alert_detection_stopped": "2026-09-22T15:27:35",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DMMTA",
+        "hex": "3ffbd9",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3ffbd9",
+        "alert_detected": "2026-09-22T16:49:47",
+        "alert_last_seen": "2026-09-22T16:50:38",
+        "alert_detection_stopped": "2026-09-22T16:50:43",
+        "alert_status": "inactive"
     }
 ]
