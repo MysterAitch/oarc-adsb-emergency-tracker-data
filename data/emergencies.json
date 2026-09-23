@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "flight": "RFR7331",
+        "hex": "43c973",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c973",
+        "alert_detected": "2026-09-23T20:22:39",
+        "alert_last_seen": "2026-09-23T20:26:10",
+        "alert_detection_stopped": "",
+        "alert_status": "active"
+    }
+]

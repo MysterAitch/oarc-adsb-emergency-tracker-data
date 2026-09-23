@@ -3588,5 +3588,35 @@
         "alert_last_seen": "2026-09-23T12:44:29",
         "alert_detection_stopped": "2026-09-23T12:44:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43c973",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c973",
+        "alert_detected": "2026-09-23T20:13:44",
+        "alert_last_seen": "2026-09-23T20:14:45",
+        "alert_detection_stopped": "2026-09-23T20:14:51",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43c973",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c973",
+        "alert_detected": "2026-09-23T20:17:31",
+        "alert_last_seen": "2026-09-23T20:21:08",
+        "alert_detection_stopped": "2026-09-23T20:22:14",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY32GY",
+        "hex": "407573",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407573",
+        "alert_detected": "2026-09-23T20:03:31",
+        "alert_last_seen": "2026-09-23T20:35:58",
+        "alert_detection_stopped": "2026-09-23T20:36:08",
+        "alert_status": "inactive"
     }
 ]
