@@ -3628,5 +3628,15 @@
         "alert_last_seen": "2026-09-23T20:26:10",
         "alert_detection_stopped": "2026-09-23T21:23:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TALON05",
+        "hex": "43c75a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c75a",
+        "alert_detected": "2026-09-24T11:29:55",
+        "alert_last_seen": "2026-09-24T11:30:20",
+        "alert_detection_stopped": "2026-09-24T11:43:31",
+        "alert_status": "inactive"
     }
 ]
