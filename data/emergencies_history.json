@@ -3708,5 +3708,15 @@
         "alert_last_seen": "2026-09-25T14:39:32",
         "alert_detection_stopped": "2026-09-25T14:40:12",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EIHHA",
+        "hex": "4cac44",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4cac44",
+        "alert_detected": "2026-09-25T16:51:32",
+        "alert_last_seen": "2026-09-25T16:54:54",
+        "alert_detection_stopped": "2026-09-25T17:00:16",
+        "alert_status": "inactive"
     }
 ]
