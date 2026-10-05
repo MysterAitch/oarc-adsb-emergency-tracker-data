@@ -4078,5 +4078,25 @@
         "alert_last_seen": "2026-10-04T14:56:25",
         "alert_detection_stopped": "2026-10-04T15:24:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "KLM93W",
+        "hex": "484162",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=484162",
+        "alert_detected": "2026-10-05T09:01:07",
+        "alert_last_seen": "2026-10-05T09:12:26",
+        "alert_detection_stopped": "2026-10-05T09:12:31",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GVMCG",
+        "hex": "4032b3",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=4032b3",
+        "alert_detected": "2026-10-05T09:35:42",
+        "alert_last_seen": "2026-10-05T09:35:42",
+        "alert_detection_stopped": "2026-10-05T09:52:13",
+        "alert_status": "inactive"
     }
 ]
