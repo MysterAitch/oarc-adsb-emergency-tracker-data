@@ -4298,5 +4298,15 @@
         "alert_last_seen": "2026-10-11T12:10:39",
         "alert_detection_stopped": "2026-10-11T12:10:44",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GYSSS",
+        "hex": "40829a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=40829a",
+        "alert_detected": "2026-10-11T16:28:35",
+        "alert_last_seen": "2026-10-11T16:48:27",
+        "alert_detection_stopped": "2026-10-11T16:48:32",
+        "alert_status": "inactive"
     }
 ]
