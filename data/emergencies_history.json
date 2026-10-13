@@ -4318,5 +4318,25 @@
         "alert_last_seen": "2026-10-12T09:32:42",
         "alert_detection_stopped": "2026-10-12T09:32:57",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SWR1PM",
+        "hex": "4b1819",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4b1819",
+        "alert_detected": "2026-10-13T06:40:45",
+        "alert_last_seen": "2026-10-13T06:46:43",
+        "alert_detection_stopped": "2026-10-13T06:46:58",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "400afc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400afc",
+        "alert_detected": "2026-10-13T09:54:29",
+        "alert_last_seen": "2026-10-13T09:55:50",
+        "alert_detection_stopped": "2026-10-13T09:57:40",
+        "alert_status": "inactive"
     }
 ]
