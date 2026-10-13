@@ -4338,5 +4338,45 @@
         "alert_last_seen": "2026-10-13T09:55:50",
         "alert_detection_stopped": "2026-10-13T09:57:40",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "400afc",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400afc",
+        "alert_detected": "2026-10-13T09:58:40",
+        "alert_last_seen": "2026-10-13T10:21:19",
+        "alert_detection_stopped": "2026-10-13T10:37:39",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAT876",
+        "hex": "400e94",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400e94",
+        "alert_detected": "2026-10-13T13:07:16",
+        "alert_last_seen": "2026-10-13T13:08:11",
+        "alert_detection_stopped": "2026-10-13T13:08:37",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR53UX",
+        "hex": "4d2257",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4d2257",
+        "alert_detected": "2026-10-13T13:07:05",
+        "alert_last_seen": "2026-10-13T13:36:35",
+        "alert_detection_stopped": "2026-10-13T13:36:50",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "MCE02",
+        "hex": "480c06",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=480c06",
+        "alert_detected": "2026-10-13T14:49:12",
+        "alert_last_seen": "2026-10-13T14:49:32",
+        "alert_detection_stopped": "2026-10-13T15:17:01",
+        "alert_status": "inactive"
     }
 ]
