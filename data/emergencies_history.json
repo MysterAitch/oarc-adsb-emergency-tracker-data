@@ -4468,5 +4468,45 @@
         "alert_last_seen": "2026-10-15T11:15:11",
         "alert_detection_stopped": "2026-10-15T14:18:26",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "DELUP",
+        "hex": "3d23cb",
+        "squawk": "7500",
+        "link": "https://adsb.oarc.uk/?icao=3d23cb",
+        "alert_detected": "2026-10-15T16:41:15",
+        "alert_last_seen": "2026-10-15T16:41:21",
+        "alert_detection_stopped": "2026-10-15T16:54:34",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BAL90",
+        "hex": "43c953",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c953",
+        "alert_detected": "2026-10-15T17:24:39",
+        "alert_last_seen": "2026-10-15T17:25:40",
+        "alert_detection_stopped": "2026-10-15T17:51:07",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL941",
+        "hex": "a91b44",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a91b44",
+        "alert_detected": "2026-10-15T17:22:23",
+        "alert_last_seen": "2026-10-15T17:55:53",
+        "alert_detection_stopped": "2026-10-15T17:56:44",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAL941",
+        "hex": "a91b44",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a91b44",
+        "alert_detected": "2026-10-15T17:56:59",
+        "alert_last_seen": "2026-10-15T17:57:54",
+        "alert_detection_stopped": "2026-10-15T17:57:59",
+        "alert_status": "inactive"
     }
 ]
