@@ -4548,5 +4548,15 @@
         "alert_last_seen": "2026-10-18T10:16:17",
         "alert_detection_stopped": "2026-10-18T10:16:22",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EIFLS",
+        "hex": "4ca4dc",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4ca4dc",
+        "alert_detected": "2026-10-18T16:13:46",
+        "alert_last_seen": "2026-10-18T16:14:52",
+        "alert_detection_stopped": "2026-10-18T16:14:57",
+        "alert_status": "inactive"
     }
 ]
