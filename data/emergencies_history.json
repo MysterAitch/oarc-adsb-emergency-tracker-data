@@ -4598,5 +4598,15 @@
         "alert_last_seen": "2026-10-19T10:34:11",
         "alert_detection_stopped": "2026-10-19T10:34:16",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "TAM8071",
+        "hex": "e48ba9",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=e48ba9",
+        "alert_detected": "2026-10-19T21:57:42",
+        "alert_last_seen": "2026-10-19T22:01:09",
+        "alert_detection_stopped": "2026-10-19T22:09:30",
+        "alert_status": "inactive"
     }
 ]
