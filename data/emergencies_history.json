@@ -4568,5 +4568,15 @@
         "alert_last_seen": "2026-10-18T18:45:37",
         "alert_detection_stopped": "2026-10-18T18:45:42",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY58XM",
+        "hex": "407f5f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f5f",
+        "alert_detected": "2026-10-19T02:50:12",
+        "alert_last_seen": "2026-10-19T03:16:58",
+        "alert_detection_stopped": "2026-10-19T03:17:08",
+        "alert_status": "inactive"
     }
 ]
