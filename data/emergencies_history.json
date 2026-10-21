@@ -4708,5 +4708,15 @@
         "alert_last_seen": "2026-10-21T18:59:52",
         "alert_detection_stopped": "2026-10-21T19:00:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "LOT3ND",
+        "hex": "48ad86",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=48ad86",
+        "alert_detected": "2026-10-21T21:11:55",
+        "alert_last_seen": "2026-10-21T21:13:20",
+        "alert_detection_stopped": "2026-10-21T21:18:52",
+        "alert_status": "inactive"
     }
 ]
