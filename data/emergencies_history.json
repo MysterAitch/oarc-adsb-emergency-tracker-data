@@ -4638,5 +4638,55 @@
         "alert_last_seen": "2026-10-20T21:11:09",
         "alert_detection_stopped": "2026-10-20T21:53:34",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "APOLLO21",
+        "hex": "43c79d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c79d",
+        "alert_detected": "2026-10-21T11:11:00",
+        "alert_last_seen": "2026-10-21T11:12:41",
+        "alert_detection_stopped": "2026-10-21T11:12:46",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TALON21",
+        "hex": "43c75a",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c75a",
+        "alert_detected": "2026-10-21T13:04:39",
+        "alert_last_seen": "2026-10-21T13:04:39",
+        "alert_detection_stopped": "2026-10-21T13:27:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "UAX71",
+        "hex": "400eb4",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400eb4",
+        "alert_detected": "2026-10-21T13:44:56",
+        "alert_last_seen": "2026-10-21T13:48:02",
+        "alert_detection_stopped": "2026-10-21T13:48:12",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TALDN99",
+        "hex": "333333",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=333333",
+        "alert_detected": "2026-10-21T13:55:19",
+        "alert_last_seen": "2026-10-21T13:55:19",
+        "alert_detection_stopped": "2026-10-21T13:58:36",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "4007f2",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4007f2",
+        "alert_detected": "2026-10-21T12:39:16",
+        "alert_last_seen": "2026-10-21T12:47:04",
+        "alert_detection_stopped": "2026-10-21T14:10:14",
+        "alert_status": "inactive"
     }
 ]
