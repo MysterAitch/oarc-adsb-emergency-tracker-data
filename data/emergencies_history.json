@@ -4688,5 +4688,25 @@
         "alert_last_seen": "2026-10-21T12:47:04",
         "alert_detection_stopped": "2026-10-21T14:10:14",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "NTHWK60",
+        "hex": "43c759",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c759",
+        "alert_detected": "2026-10-21T15:45:07",
+        "alert_last_seen": "2026-10-21T15:45:12",
+        "alert_detection_stopped": "2026-10-21T15:49:24",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "CFE37E",
+        "hex": "406279",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=406279",
+        "alert_detected": "2026-10-21T18:29:23",
+        "alert_last_seen": "2026-10-21T18:59:52",
+        "alert_detection_stopped": "2026-10-21T19:00:02",
+        "alert_status": "inactive"
     }
 ]
