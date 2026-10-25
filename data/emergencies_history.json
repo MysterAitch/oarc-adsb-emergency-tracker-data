@@ -4798,5 +4798,15 @@
         "alert_last_seen": "2026-10-25T06:26:49",
         "alert_detection_stopped": "2026-10-25T06:48:20",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU35EA",
+        "hex": "4403f0",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4403f0",
+        "alert_detected": "2026-10-25T12:59:46",
+        "alert_last_seen": "2026-10-25T13:29:06",
+        "alert_detection_stopped": "2026-10-25T13:29:11",
+        "alert_status": "inactive"
     }
 ]
