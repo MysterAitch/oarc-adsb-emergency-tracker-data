@@ -4808,5 +4808,15 @@
         "alert_last_seen": "2026-10-25T13:29:06",
         "alert_detection_stopped": "2026-10-25T13:29:11",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "RYR56QH",
+        "hex": "4ca624",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca624",
+        "alert_detected": "2026-10-25T23:12:47",
+        "alert_last_seen": "2026-10-25T23:28:15",
+        "alert_detection_stopped": "2026-10-25T23:28:20",
+        "alert_status": "inactive"
     }
 ]
