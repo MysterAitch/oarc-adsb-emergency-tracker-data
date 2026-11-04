@@ -5108,5 +5108,45 @@
         "alert_last_seen": "2026-11-03T13:26:57",
         "alert_detection_stopped": "2026-11-03T13:27:02",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "43c6d1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6d1",
+        "alert_detected": "2026-11-04T11:56:02",
+        "alert_last_seen": "2026-11-04T11:59:03",
+        "alert_detection_stopped": "2026-11-04T11:59:08",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "BATMAN22",
+        "hex": "43c6d1",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43c6d1",
+        "alert_detected": "2026-11-04T11:59:28",
+        "alert_last_seen": "2026-11-04T12:09:01",
+        "alert_detection_stopped": "2026-11-04T12:09:06",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "3eb87d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3eb87d",
+        "alert_detected": "2026-11-04T14:25:10",
+        "alert_last_seen": "2026-11-04T14:26:51",
+        "alert_detection_stopped": "2026-11-04T14:26:56",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "3eb87d",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=3eb87d",
+        "alert_detected": "2026-11-04T14:27:41",
+        "alert_last_seen": "2026-11-04T14:29:02",
+        "alert_detection_stopped": "2026-11-04T14:30:13",
+        "alert_status": "inactive"
     }
 ]
