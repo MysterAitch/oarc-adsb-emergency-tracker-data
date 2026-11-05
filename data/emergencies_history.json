@@ -5148,5 +5148,25 @@
         "alert_last_seen": "2026-11-04T14:29:02",
         "alert_detection_stopped": "2026-11-04T14:30:13",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "BDK27",
+        "hex": "738685",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=738685",
+        "alert_detected": "2026-11-05T07:25:20",
+        "alert_last_seen": "2026-11-05T07:26:46",
+        "alert_detection_stopped": "2026-11-05T07:27:01",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EIN40G",
+        "hex": "4ca216",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=4ca216",
+        "alert_detected": "2026-11-05T07:42:15",
+        "alert_last_seen": "2026-11-05T07:50:22",
+        "alert_detection_stopped": "2026-11-05T07:50:27",
+        "alert_status": "inactive"
     }
 ]
