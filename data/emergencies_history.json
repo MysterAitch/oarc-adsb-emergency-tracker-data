@@ -5308,5 +5308,45 @@
         "alert_last_seen": "2026-11-10T17:34:48",
         "alert_detection_stopped": "2026-11-10T17:34:53",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "WIT31",
+        "hex": "400ef6",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400ef6",
+        "alert_detected": "2026-11-12T11:46:52",
+        "alert_last_seen": "2026-11-12T11:49:44",
+        "alert_detection_stopped": "2026-11-12T11:49:49",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EJU61DH",
+        "hex": "440c33",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=440c33",
+        "alert_detected": "2026-11-12T12:08:05",
+        "alert_last_seen": "2026-11-12T12:10:51",
+        "alert_detection_stopped": "2026-11-12T12:10:56",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCBHI",
+        "hex": "400b1e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400b1e",
+        "alert_detected": "2026-11-12T12:32:53",
+        "alert_last_seen": "2026-11-12T12:36:29",
+        "alert_detection_stopped": "2026-11-12T12:36:39",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "GCBHI",
+        "hex": "400b1e",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=400b1e",
+        "alert_detected": "2026-11-12T12:38:10",
+        "alert_last_seen": "2026-11-12T12:38:20",
+        "alert_detection_stopped": "2026-11-12T12:43:52",
+        "alert_status": "inactive"
     }
 ]
