@@ -5418,5 +5418,15 @@
         "alert_last_seen": "2026-11-13T14:41:03",
         "alert_detection_stopped": "2026-11-13T14:44:09",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "CITT88",
+        "hex": "a69d86",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=a69d86",
+        "alert_detected": "2026-11-13T20:45:16",
+        "alert_last_seen": "2026-11-13T20:54:34",
+        "alert_detection_stopped": "2026-11-13T21:19:10",
+        "alert_status": "inactive"
     }
 ]
