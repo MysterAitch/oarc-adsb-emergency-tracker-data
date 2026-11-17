@@ -5478,5 +5478,25 @@
         "alert_last_seen": "2026-11-17T09:10:45",
         "alert_detection_stopped": "2026-11-17T09:10:50",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "UAU44",
+        "hex": "400eea",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400eea",
+        "alert_detected": "2026-11-17T14:12:16",
+        "alert_last_seen": "2026-11-17T14:14:02",
+        "alert_detection_stopped": "2026-11-17T14:14:32",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "",
+        "hex": "400eea",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=400eea",
+        "alert_detected": "2026-11-17T14:19:48",
+        "alert_last_seen": "2026-11-17T14:20:39",
+        "alert_detection_stopped": "2026-11-17T14:20:44",
+        "alert_status": "inactive"
     }
 ]
