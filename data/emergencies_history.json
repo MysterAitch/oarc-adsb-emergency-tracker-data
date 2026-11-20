@@ -5588,5 +5588,25 @@
         "alert_last_seen": "2026-11-20T11:30:25",
         "alert_detection_stopped": "2026-11-20T11:36:17",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "SRD224B",
+        "hex": "407f58",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=407f58",
+        "alert_detected": "2026-11-20T12:31:56",
+        "alert_last_seen": "2026-11-20T12:32:52",
+        "alert_detection_stopped": "2026-11-20T12:33:47",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "EZY27CF",
+        "hex": "405f13",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=405f13",
+        "alert_detected": "2026-11-20T18:50:54",
+        "alert_last_seen": "2026-11-20T19:06:03",
+        "alert_detection_stopped": "2026-11-20T19:06:08",
+        "alert_status": "inactive"
     }
 ]
