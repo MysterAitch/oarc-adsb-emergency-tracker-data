@@ -5628,5 +5628,25 @@
         "alert_last_seen": "2026-11-23T09:28:55",
         "alert_detection_stopped": "2026-11-23T09:30:10",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "GBVVM",
+        "hex": "4039b6",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=4039b6",
+        "alert_detected": "2026-11-23T13:14:39",
+        "alert_last_seen": "2026-11-23T13:26:18",
+        "alert_detection_stopped": "2026-11-23T13:26:33",
+        "alert_status": "inactive"
+    },
+    {
+        "flight": "TYPHO318",
+        "hex": "43c60b",
+        "squawk": "7600",
+        "link": "https://adsb.oarc.uk/?icao=43c60b",
+        "alert_detected": "2026-11-23T16:54:30",
+        "alert_last_seen": "2026-11-23T16:57:01",
+        "alert_detection_stopped": "2026-11-23T17:19:42",
+        "alert_status": "inactive"
     }
 ]
