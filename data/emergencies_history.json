@@ -5738,5 +5738,15 @@
         "alert_last_seen": "2026-11-26T21:42:47",
         "alert_detection_stopped": "2026-11-26T21:42:52",
         "alert_status": "inactive"
+    },
+    {
+        "flight": "INFER39",
+        "hex": "43f76f",
+        "squawk": "7700",
+        "link": "https://adsb.oarc.uk/?icao=43f76f",
+        "alert_detected": "2026-11-27T10:57:38",
+        "alert_last_seen": "2026-11-27T10:57:38",
+        "alert_detection_stopped": "2026-11-27T11:18:51",
+        "alert_status": "inactive"
     }
 ]
